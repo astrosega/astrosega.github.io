@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Daniel Sega / Astrophysics and Philosophy"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Daniel Sega"
+description              : &description "Dynamicist specialiced in warped disks and planetary rings / Philosophy of physics / Latin American Philosophy"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Daniel D. Sega N."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Warped disks and planetary rings / Philosophy of physics / Latin American philosophy"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Independent Scholar"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "@ddsega.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -77,9 +77,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'A Latin American Critique of the Phenomenology of Heiddegger and Ricoeur'
+    ISBN: 978-980-402-291-3
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'The motion of self-gravity wakes in the Mimas 5:3 bending wave: Modefying the linear theory'
+    title: "Turbulent magnetig reconnection as an acceleration mechanism in Earth's magnetotail" 
   conferences:
     title: 'Conference Papers'
 
