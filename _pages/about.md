@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-A page to find code and publications. Here a picture of Maracibo bridge taken in 2022 <img src='/images/maracaibo.jpg'>
+A page to find code, publications, and teaching material. Here a picture of Maracaibo bridge taken in 2022 <img src='/images/maracaibo.jpg'>.
