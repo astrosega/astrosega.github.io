@@ -12,7 +12,7 @@ title                    : "Daniel D. Sega / Astrophysics and Philosophy"
 title_separator          : "-"
 name                     : &name "Daniel Sega"
 description              : &description "Dynamicist specialiced in warped disks and planetary rings / Philosophy of physics / Latin American Philosophy"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://astrosega.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "astrosega/astrosega.github.io"
 
