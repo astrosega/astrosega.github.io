@@ -15,6 +15,6 @@ A page to find *de re* representations of the world (computer code, publications
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lesser Addicts of the Study of Cartography, the Next Generations understood that said detailed Map was Useless and not without Impiety they delivered it to the Relentlessness of the Sun and the Winters. In the deserts to the West there are still shredded Ruins of the Map, inhabited by Animals, and by Beggars; in the whole Country no other relic of the Geographic Disciplines is left.\
 &#8211; Jorge Luis Borges
 
-Banner picture: "Maracaibo Bridge, 2022." Daniel Sega
+Banner picture: "Maracaibo Bridge, 2022." Daniel Sega \
 Profile picture: "Casa de la Abuela" José Domingo González de Ondiz
 
