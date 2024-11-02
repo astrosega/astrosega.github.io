@@ -37,6 +37,9 @@
 <lastmod>2024-05-01T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/teaching/2014-spring-teaching-1/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/teaching/2014-spring-teaching-1</loc>
 <lastmod>2014-01-01T00:00:00+00:00</lastmod>
 </url>
@@ -94,6 +97,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/year-archive/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/files/CV.pdf</loc>
+<lastmod>2024-11-02T18:30:59+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/paper1.pdf</loc>
