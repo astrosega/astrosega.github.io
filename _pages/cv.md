@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[2-page Curriculum Vitae](http://academicpages.github.io/files/CV.pdf)
+[2-page Curriculum Vitae](http://astrosega.github.io/files/CV.pdf)
