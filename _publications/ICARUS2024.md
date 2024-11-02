@@ -10,4 +10,4 @@ slidesurl: https://github.com/astrosega/Haze-bending-wave
 citation: 'Sega et al. (2024). &quot;The dynamics of self-gravity wakes in the Mimas 5:3 bending wave: Modifying the linear theory.&quot; <i>ICARUS</i>. 413(1).'
 ---
 
-For the reader that wants to learn the mathematics of linear bending wave theory, a stand-alone from-first-principles reconstruction of the theory is available in Appendix C of my [PhD thesis] (https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/8910jw225) 
+For the reader that wants to learn the mathematics of linear bending wave theory, a stand-alone from-first-principles reconstruction of the theory is available in Appendix C of my [PhD thesis](https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/8910jw225) 
