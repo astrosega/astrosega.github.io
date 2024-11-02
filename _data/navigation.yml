@@ -6,17 +6,17 @@
 
 main:
   - title: "Publications"
-    url: astrosega.github.io/publications/
+    url: /publications/
 
   - title: "Talks"
-    url: astrosega.github.io/talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: astrosega.github.io/teaching/    
+    url: /teaching/    
     
   - title: "Blog Posts"
-    url: astrosega.github.io/year-archive/
+    url: /year-archive/
     
   - title: "CV"
-    url: astrosega.github.io/cv/
+    url: /cv/
 
