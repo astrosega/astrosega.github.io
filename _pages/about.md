@@ -16,5 +16,5 @@ A page to find *de re* representations of the world (computer code, publications
 &#8211; Jorge Luis Borges
 
 Banner picture: "Maracaibo Bridge, 2022." Daniel Sega \
-Profile picture: "Casa de la Abuela" José Domingo González de Ondiz
+Profile picture: "Casa de la Abuela." José Domingo González de Ondiz
 
