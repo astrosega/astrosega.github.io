@@ -1,6 +1,5 @@
 ---
-title: "Una crítica latinoamericana a la fenomenología de Heide-
-gger y Ricoeur | A Latin American critique of the phenomenology
+title: "Una crítica latinoamericana a la fenomenología de Heidegger y Ricoeur | A Latin American critique of the phenomenology
 of Heidegger and Ricoeur"
 collection: publications
 category: books
