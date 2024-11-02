@@ -7,7 +7,7 @@ category: books
 excerpt: 'This book builds a series of reflections about the cultural identity and self-understanding of Latin Americans.'
 date: 2020-10-01
 venue: 'Consejo de Publicaciones de LUZ Colección de Textos Universitarios'
-bookurl: 'http://academicpages.github.io/files/Fenomenologia_FINAL.pdf'
+url: 'http://academicpages.github.io/files/Fenomenologia_FINAL.pdf'
 citation: 'Sega Neuman (2020). &quot;A Latin American critique of the phenomenology
 of Heidegger and Ricoeur.&quot; <i>Zulia University Press</i>. Maracaibo, Venezuela.'
 ---
