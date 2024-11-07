@@ -13,4 +13,4 @@ of Heidegger and Ricoeur.&quot; <i>Zulia University Press</i>. Maracaibo, Venezu
 
 <img src='/images/portada.png'>
 
-Yes, the book is gratis. <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'X8X115RYJT');kofiwidget2.draw();</script> 
+Yes, the book is gratis. Although you can <iframe id='kofiframe' src='https://ko-fi.com/astrosega/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='astrosega'></iframe>
