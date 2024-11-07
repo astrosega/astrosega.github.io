@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Daniel D. Sega / Astrophysics and Philosophy"
+title                    : "Astro & ϕ"
 title_separator          : "-"
-name                     : &name "Daniel Sega"
+name                     : &name ""
 description              : &description "Dynamicist specialiced in warped disks and planetary rings / Philosophy of physics / Latin American Philosophy"
 url                      : https://astrosega.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "astrosega/astrosega.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Daniel Sega, PhD."
+  name             : "Daniel D. Sega, PhD."
   pronouns         : # example: "she/her"  
   bio              : "Warped disks and planetary rings / Philosophy of physics / Latin American philosophy"
   location         : "Earth"
