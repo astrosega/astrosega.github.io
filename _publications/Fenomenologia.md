@@ -13,6 +13,6 @@ of Heidegger and Ricoeur.&quot; <i>Zulia University Press</i>. Maracaibo, Venezu
 
 <img src='/images/portada.png'>
 
-Yes, the book is gratis. Although you can 
+Yes, the book is gratis. If you want, you can ...
 
 <iframe id='kofiframe' src='https://ko-fi.com/astrosega/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='astrosega'></iframe>
