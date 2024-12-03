@@ -11,7 +11,7 @@ citation: 'Sega Neuman (2023). &quot;A Latin American critique of the phenomenol
 of Heidegger and Ricoeur.&quot; <i>Zulia University Press</i>. ISBN: 978-980-402-291-3. Maracaibo, Venezuela.'
 ---
 
-<img src='/images/portada.png'>
+<img src='/images/portada.tif'>
 
 Yes, the book is gratis. If you want, you can ...
 
