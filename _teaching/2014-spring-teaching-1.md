@@ -26,7 +26,7 @@ Course Material
 The primary "required readings" are in the OpenStax book [University Physics 1](https://openstax.org/details/books/university-physics-volume-1). Here are some additional resourses:
 
 * An excellent, more abridged e-book for this course is available though the FSU Library [Fundamental of Physics I](https://fsu-flvc.primo.exlibrisgroup.com/discovery/openurl?institution=01FALSC_FSU&vid=01FALSC_FSU:Home&isbn=9780300243772&genre=book&eisbn=9780300249583&title=Fundamentals%20of%20Physics%20I&sid=jstor:jstor). Give it a try if the OpenStax book treatment of a topic does not click with you. R. Shankar writes in a very particular voice that can help some students.
-* This book is based in R. Shankar [Open Lectures](https://oyc.yale.edu/physics/phys-200) (Yale University) for his version of this course, which are available online. They where and still are a helpful resourse for me.
+* This book is based in R. Shankar [Open Lectures](https://oyc.yale.edu/physics/phys-200) (Yale University), which are available online. They where and still are a helpful resourse for me.
 
 Schedule
 -------------
