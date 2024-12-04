@@ -8,18 +8,19 @@ date: 2025-01-07
 location: "Panama City, Panama"
 ---
 General Physics A
-*Instructor:	Prof. Daniel D. Sega   (email[dsega@fsu.edu])
+*Instructor:	Prof. Daniel D. Sega   ((email)[dsega@fsu.edu])
 *Instructor's Office:  	
 *Course Times: Spring 2025, Tue./Thu./Fri., 9:30-12:00
 *Location:	Duane Physics, Room G1B20
 *Office Hours:	Duane Physics, D111: Tue./Thu. 12:15-11:45
-*Syllabus:	See the most up-to-date[] PDF version.
+*Syllabus:	See the most [up-to-date](astrosega.github.io/files/2048C.pdf) PDF version.
 
-Schedule
+Summary
 -----------
 
-Heading 2
-======
 
-Heading 3
-======
+Course Material
+--------------
+
+Schedule
+-------------
