@@ -83,7 +83,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., March 28: Vectors, coordinate systems, and basic differential equations.
 * Tues., April 1: Light and its interaction with matter.
 
-  [Homework 5](astrosega.github.io/files/2048Chw3.pdf) assigned, due Tues., April 11.
+  | [Homework 5](astrosega.github.io/files/2048Chw3.pdf) assigned, due Tues., April 11.
 * Thur., April 3: Class cancelled.
 * Fri., April 4: Vectors, coordinate systems, and basic differential equations.
 * Tues., April 8: Light and its interaction with matter.
