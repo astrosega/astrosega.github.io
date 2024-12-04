@@ -36,7 +36,8 @@ Schedule
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts and problem sets, and various course deadlines.
 
 * Tues., January 7: Introductory lecture. Overview of course syllabus. Vectors and coordinate systems.
- Handout: [syllabus](astrosega.github.io/files/2048C.pdf)
+
+  Handout: [syllabus](astrosega.github.io/files/2048C.pdf)
  [Homework 1](astrosega.github.io/files/2048Chw1.pdf) assigned, due Thurs., January 16.
 * Thur., January 9: Vectors, coordinate systems, and basic differential equations.
 * Fri., January 10: Vectors, coordinate systems, and basic differential equations.
