@@ -65,7 +65,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., February 20: Gases, plasmas, and thermodynamics in astronomy.
 * Fri., February 21: Vectors, coordinate systems, and basic differential equations.
 
-  [Homework 3](astrosega.github.io/files/2048Chw3.pdf) due (Fri., 21/3). | [Homework 4](astrosega.github.io/files/2048Chw3.pdf) assigned, due Tues., March 11.
+  Homework 3 due (Fri., 21/3). | [Homework 4](astrosega.github.io/files/2048Chw3.pdf) assigned, due Tues., March 11.
 * Tues., February 25 Partial and vector derivatives; multiple integrals.
 * Thur., February 27: Gases, plasmas, and thermodynamics in astronomy.
 * Fri., February 28: Vectors, coordinate systems, and basic differential equations.
