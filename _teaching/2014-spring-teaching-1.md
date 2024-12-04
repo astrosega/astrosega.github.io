@@ -37,14 +37,13 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Tues., January 7: Introductory lecture. Overview of course syllabus. Vectors and coordinate systems.
 
-  Handout: [syllabus](astrosega.github.io/files/2048C.pdf)
- [Homework 1](astrosega.github.io/files/2048Chw1.pdf) assigned, due Thurs., January 16.
+  Handout: [syllabus](astrosega.github.io/files/2048C.pdf) | [Homework 1](astrosega.github.io/files/2048Chw1.pdf) assigned, due Thurs., January 16.
 * Thur., January 9: Vectors, coordinate systems, and basic differential equations.
 * Fri., January 10: Vectors, coordinate systems, and basic differential equations.
 * Tues., January 14: Vectors, coordinate systems, and basic differential equations.
 * Thur., January 16: Gravitational dynamics and orbits.
- Homework 1 due.
-         [Homework 2](astrosega.github.io/files/2048Chw2.pdf) assigned, due Fri., January 31.
+
+ Homework 1 due. | [Homework 2](astrosega.github.io/files/2048Chw2.pdf) assigned, due Fri., January 31.
 * Fri., January 17: Vectors, coordinate systems, and basic differential equations.
 * Tues., January 21: Gravitational dynamics and orbits.
 * Thur., January 23: Gravitational dynamics and orbits.
@@ -52,10 +51,12 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., January 28: Introduction to Einstein's relativity.
 * Thur., January 30: Introduction to Einstein's relativity.
 * Fri., January 31: Vectors, coordinate systems, and basic differential equations.
- Homework 2 due (Fri., 1/31).
+
+Homework 2 due (Fri., 1/31).
 * Tues., February 4: Partial and vector derivatives; multiple integrals. Review for midterm.
 * Thur., February 6: In-class Midterm Exam 1.
 * Fri., January 31: Vectors, coordinate systems, and basic differential equations.
+
  [Homework 3](astrosega.github.io/files/2048Chw3.pdf) assigned, due Fri., March 3.
 * Tues., February 11: Partial and vector derivatives; multiple integrals.
 * Thur., February 13: Partial and vector derivatives; multiple integrals.
@@ -63,6 +64,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., February 18: Partial and vector derivatives; multiple integrals.
 * Thur., February 20: Gases, plasmas, and thermodynamics in astronomy.
 * Fri., February 21: Vectors, coordinate systems, and basic differential equations.
+
  [Homework 3](astrosega.github.io/files/2048Chw3.pdf) due (Fri., 21/3).
  [Homework 4](astrosega.github.io/files/2048Chw3.pdf) assigned, due Tues., March 11.
 * Tues., February 25 Partial and vector derivatives; multiple integrals.
