@@ -1,5 +1,5 @@
 ---
-title: "PHY2048C"
+title: "PHY2048C (Spring 2025)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-1
@@ -7,10 +7,9 @@ venue: "Florida State University"
 date: 2025-01-07
 location: "Panama City, Panama"
 ---
+General Physics A
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Schedule
 ======
 
 Heading 2
