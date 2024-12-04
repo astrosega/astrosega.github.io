@@ -52,12 +52,12 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., January 30: Introduction to Einstein's relativity.
 * Fri., January 31: Vectors, coordinate systems, and basic differential equations.
 
-  Homework 2 due (Fri., 1/31).
+  | Homework 2 due (Fri., 1/31).
 * Tues., February 4: Partial and vector derivatives; multiple integrals. Review for midterm.
 * Thur., February 6: In-class Midterm Exam 1.
 * Fri., January 31: Vectors, coordinate systems, and basic differential equations.
 
-  [Homework 3](astrosega.github.io/files/2048Chw3.pdf) assigned, due Fri., March 3.
+  | [Homework 3](astrosega.github.io/files/2048Chw3.pdf) assigned, due Fri., March 3.
 * Tues., February 11: Partial and vector derivatives; multiple integrals.
 * Thur., February 13: Partial and vector derivatives; multiple integrals.
 * Fri., February 14: Vectors, coordinate systems, and basic differential equations.
@@ -91,7 +91,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., April 11: Vectors, coordinate systems, and basic differential equations.
 * Tues., April 15: Atoms and an introduction to quantum mechanics.
 
-  Homework 5 due.
+  | Homework 5 due.
 * Thur., April 17: Atoms and an introduction to quantum mechanics.
 * Fri., April 18: Vectors, coordinate systems, and basic differential equations.
 * Tues., April 22: Understanding astronomical spectra.
