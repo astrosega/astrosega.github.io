@@ -57,7 +57,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., February 6: In-class Midterm Exam 1.
 * Fri., January 31: Vectors, coordinate systems, and basic differential equations.
 
- [Homework 3](astrosega.github.io/files/2048Chw3.pdf) assigned, due Fri., March 3.
+  [Homework 3](astrosega.github.io/files/2048Chw3.pdf) assigned, due Fri., March 3.
 * Tues., February 11: Partial and vector derivatives; multiple integrals.
 * Thur., February 13: Partial and vector derivatives; multiple integrals.
 * Fri., February 14: Vectors, coordinate systems, and basic differential equations.
@@ -76,11 +76,13 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., March 18: Gases, plasmas, and thermodynamics in astronomy.
 * Thur., March 20: Light and its interaction with matter.
 * Fri., March 21: Vectors, coordinate systems, and basic differential equations.
+
   Homework 4 due (Fri., 3/22).
 * Tues., March 25: Light and its interaction with matter. Review for midterm.
 * Thur., March 27: In-class Midterm Exam 2.
 * Fri., March 28: Vectors, coordinate systems, and basic differential equations.
 * Tues., April 1: Light and its interaction with matter.
+
   [Homework 5](astrosega.github.io/files/2048Chw3.pdf) assigned, due Tues., April 11.
 * Thur., April 3: Class cancelled.
 * Fri., April 4: Vectors, coordinate systems, and basic differential equations.
@@ -88,12 +90,13 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., April 10: Atoms and an introduction to quantum mechanics.
 * Fri., April 11: Vectors, coordinate systems, and basic differential equations.
 * Tues., April 15: Atoms and an introduction to quantum mechanics.
+
   Homework 5 due.
-Thur., April 17: Atoms and an introduction to quantum mechanics.
+* Thur., April 17: Atoms and an introduction to quantum mechanics.
 * Fri., April 18: Vectors, coordinate systems, and basic differential equations.
 * Tues., April 22: Understanding astronomical spectra.
 * Thur., April 24: Understanding astronomical spectra.
 * Fri., April 25: Vectors, coordinate systems, and basic differential equations.
- [Final Exam Week: April 28- May 2.]
+  [Final Exam Week: April 28- May 2.]
 
 
