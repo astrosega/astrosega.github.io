@@ -8,7 +8,7 @@ venue: "Florida State University"
 date: 2025-01-07
 location: "Panama City, Panama"
 ---
-
+Physics Studio A
 
 * Instructor:	Prof. Daniel D. Sega ([email](dsega@fsu.edu))
 * Instructor's Office:  	
