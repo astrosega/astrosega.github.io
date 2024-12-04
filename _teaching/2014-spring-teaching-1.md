@@ -7,7 +7,8 @@ venue: "Florida State University"
 date: 2025-01-07
 location: "Panama City, Panama"
 ---
-General Physics A
+Physics Studio A
+
 * Instructor:	Prof. Daniel D. Sega   ((email)[dsega@fsu.edu])
 * Instructor's Office:  	
 * Course Times: Spring 2025, Tue./Thu./Fri., 9:30-12:00
