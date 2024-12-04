@@ -48,6 +48,13 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Teaching Category
+teaching_category:
+  current:
+    title: 'Current Courses'
+  past:
+    title: 'Past Courses'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
