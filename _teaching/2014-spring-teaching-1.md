@@ -99,6 +99,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., April 22: Understanding astronomical spectra.
 * Thur., April 24: Understanding astronomical spectra.
 * Fri., April 25: Vectors, coordinate systems, and basic differential equations.
+
   [Final Exam Week: April 28- May 2.]
 
 
