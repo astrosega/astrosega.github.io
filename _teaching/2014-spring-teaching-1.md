@@ -17,7 +17,7 @@ location: "Panama City, Panama"
 
 Summary
 -----------
-In this course, Engineers and Science majors will learn about the basic laws of motion in classical mechanics. They will learn how and why objects in our day-to-day move (or stay put) the way they do and will know how to predict projectile and rotational motion. They will also learn about the nature of scientific laws and the stadistical nature of scienctific measurements.
+In this course, engineering and science majors will learn about the basic laws of motion in classical mechanics. They will learn how and why objects in our day-to-day move (or stay put) the way they do and will know how to predict projectile and rotational motion. They will also learn about the nature of scientific laws and the stadistical nature of scienctific measurements.
 
 There's a lot more information about this course -- including details about the textbook, who should/shouldn't take this class, how your grade is calculated, and a checklist for success -- in the [syllabus](astrosega.github.io/files/2048C.pdf).
 
