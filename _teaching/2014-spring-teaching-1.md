@@ -77,7 +77,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., March 20: Light and its interaction with matter.
 * Fri., March 21: Vectors, coordinate systems, and basic differential equations.
 
-  Homework 4 due (Fri., 3/22).
+  | Homework 4 due (Fri., 3/22).
 * Tues., March 25: Light and its interaction with matter. Review for midterm.
 * Thur., March 27: In-class Midterm Exam 2.
 * Fri., March 28: Vectors, coordinate systems, and basic differential equations.
