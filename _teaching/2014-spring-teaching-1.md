@@ -41,7 +41,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   Handout: [syllabus](astrosega.github.io/files/2048C.pdf) | [Homework 1](astrosega.github.io/files/2048Chw1.pdf) (Chp. 3 & 4) assigned, due Fri., January 17.
 * Thur., January 9: Motion in 1d. (Chp. 1 & 2)
-* Fri., January 10: <mark>Mini-exam Chp. 1 & 2<\mark>. Vectors, motion in higher dimensions. (Chp. 3 & 4)
+* Fri., January 10: <mark>Mini-exam Chp. 1 & 2</mark>. Vectors, motion in higher dimensions. (Chp. 3 & 4)
 * Tues., January 14: Vectors, motion in higher dimensions. (Chp. 3 & 4)
 * Thur., January 16: Newton's Laws I (Chp. 5)
 
@@ -53,7 +53,7 @@ Below is a detailed schedule that will list the material covered in each class s
   
   |Extra credit reading:[What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
 * Thur., January 23: Conservation of Energy in *d = 2* (Chp. 7)
-* Fri., January 24: <mark>Mini-exam Chp. 5 & 6<\mark> Conservation of Energy in *d = 2* (Chp. 7)
+* Fri., January 24: <mark>Mini-exam Chp. 5 & 6</mark> Conservation of Energy in *d = 2* (Chp. 7)
 * Tues., January 28: Gravitation (Chp. 8).
 * Thur., January 30: Gravitation (Chp. 8).
 * Fri., January 31: Multiparticle Dynamics (Chp. 9).
@@ -61,7 +61,7 @@ Below is a detailed schedule that will list the material covered in each class s
   | Homework 2 due.
 * Tues., February 4: Multiparticle Dynamics (Chp. 9).
 * Thur., February 6: Rotational Dynamics I (Chp. 10).
-* Fri., February 31: <mark>Mini-exam Chp. 9<\mark> Rotational Dynamics I (Chp. 10).
+* Fri., February 31: <mark>Mini-exam Chp. 9</mark> Rotational Dynamics I (Chp. 10).
 
   [Lab 2](astrosega.github.io/files/2048Clab2.pdf): measuring *g*| [Homework 3](astrosega.github.io/files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Fri., March 3.
 * Tues., February 11: Rotational Dynamics II (Chp. 11)
