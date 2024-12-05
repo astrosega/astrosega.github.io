@@ -65,7 +65,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., February 6: Rotational Dynamics I (Chp. 10).
 * Fri., February 31: <mark>Mini-exam Chp. 9</mark> Rotational Dynamics I (Chp. 10).
 
-  [Lab 2](astrosega.github.io/files/2048Clab2.pdf): measuring *g*| [Homework 3](astrosega.github.io/files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Fri., March 3.
+  [Lab 2](astrosega.github.io/files/2048Clab2.pdf): measuring *g*| [Homework 3](astrosega.github.io/files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Fri., February 21.
 * Tues., February 11: Rotational Dynamics II (Chp. 11)
 * Thur., February 13: Rotational Dynamics II (Chp. 11)
 * Fri., February 14: Rotational Dynamics II (Chp. 11)
@@ -75,7 +75,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., February 20: Rotational Dynamics III (Chp. 12)
 * Fri., February 21: Rotational Dynamics III (Chp. 12)
 
-  Homework 3 due (Fri., 28/3). | [Homework 4](astrosega.github.io/files/2048Chw4.pdf) (Chp.13) assigned, due Tues., March 11.
+  Homework 3 due | [Homework 4](astrosega.github.io/files/2048Chw4.pdf) (Chp.13) assigned, due Tues., March 11.
 * Tues., February 25: Mathematical Methods intermission.
   |Handout: [Taylor Series](astrosega.github.io/files/2048Cmath1.pdf)
 * Thur., February 27: Mathematical Methods intermission.
