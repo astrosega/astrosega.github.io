@@ -70,7 +70,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., February 13: Rotational Dynamics II (Chp. 11)
 * Fri., February 14: Rotational Dynamics II (Chp. 11)
 
-  [Lab 3](astrosega.github.io/files/2048Clab3.pdf): the independence of Cartisian motion| [Homework 3](astrosega.github.io/files/2048Chw3.pdf)
+  |[Lab 3](astrosega.github.io/files/2048Clab3.pdf): the independence of Cartisian motion
 * Tues., February 18: Rotational Dynamics III (Chp. 12)
 * Thur., February 20: Rotational Dynamics III (Chp. 12)
 * Fri., February 21: Rotational Dynamics III (Chp. 12)
@@ -103,7 +103,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., April 3: Sound Waves (Ch. 16)
 * Fri., April 4: <mark>Mini-exam Chp. 16 thus far</mark> Sound Waves (Ch. 16)
 
-  Homework 5 due | [Lab 6](astrosega.github.io/files/2048Clab6.pdf): Sound Waves (Ch. 16)
+  Homework 5 due | [Lab 6](astrosega.github.io/files/2048Clab6.pdf): Standing Wave experiment
 * Tues., April 8: Heat (Ch. 17)
   
   [Homework 6](astrosega.github.io/files/2048Chw4.pdf) (Chp.18, 19, 20) assigned, due Tues., April 4.
