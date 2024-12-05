@@ -104,18 +104,22 @@ Below is a detailed schedule that will list the material covered in each class s
   Homework 5 due | [Lab 5](astrosega.github.io/files/2048Clab5.pdf): Standing Wave experiment
 * Tues., April 8: Heat (Ch. 17)
   
-  |[Homework 6](astrosega.github.io/files/2048Chw4.pdf) (Chp.18, 19, 20) assigned, due Tues., April 4.
+  |[Homework 6](astrosega.github.io/files/2048Chw4.pdf) (Chp.18, 19, 20) assigned, due Tues., April 25.
 * Thur., April 10: Thermodynamics I (Ch. 18)
 * Fri., April 11: **Mini-exam Chp. 17** \| Thermodynamics I (Ch. 18)
   
   |Extra credit reading: [The Minus First Law of Thermodynamics](astrosega.github.io/files/minusfirst.pdf)
 * Tues., April 15: Thermodynamics II (Ch. 19)
 * Thur., April 17: Thermodynamics II (Ch. 19)
-* Fri., April 18:  [Lab 6](astrosega.github.io/files/2048Clab6.pdf): Thermodynamics
+* Fri., April 18: Thermodynamics II (Ch. 19)
+
+* |[Lab 6](astrosega.github.io/files/2048Clab6.pdf): Thermodynamics
 * Tues., April 22: Entropy and Irreversibility (Ch. 20)
 
   |Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/)
 * Thur., April 24: Final Review
 * Fri., April 25: Final Review
+
+  |Homework 5 due.
 
   [Final Exam Week: April 28–May 2.]
