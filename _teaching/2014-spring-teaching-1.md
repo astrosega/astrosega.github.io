@@ -77,7 +77,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., February 25: Rotational Dynamics III (Chp. 12)
 * Thur., February 27: Rotational Dynamics III (Chp. 12)
 * Fri., February 28: **Mini-exam Chp. 12** \| Mathematical methods intermission.
-  Handout: [Complex numbers](astrosega.github.io/files/2048Cmath2.pdf) | Handout: [Taylor Series](astrosega.github.io/files/2048Cmath1.pdf)
+  |Handout: [Complex numbers](astrosega.github.io/files/complex_numbers.pdf.pdf)
 **[March 3-7: Spring Break, no classes.]**
   
 * Tues., March 11: Mathematical methods intermission. \| Simple Harmonic Motion (Ch. 13) 
@@ -120,4 +120,4 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |Homework 6 due.
 
-  [Final Exam Week: April 28–May 2.]
+  **[Final Exam Week: April 28–May 2.]**
