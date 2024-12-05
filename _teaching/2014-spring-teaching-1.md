@@ -37,13 +37,13 @@ Schedule
 
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts and problem sets, and various course deadlines.
 
-Tues., January 7: The Structure of Mechanics. Motion in 1d. (Chp. 1 & 2) /
+* Tues., January 7: The Structure of Mechanics. Motion in 1d. (Chp. 1 & 2)
 
   Handout: [syllabus](astrosega.github.io/files/2048C.pdf) | [Homework 1](astrosega.github.io/files/2048Chw1.pdf) (Chp. 3 & 4) assigned, due Fri., January 17.
-Thur., January 9: Motion in 1d. (Chp. 1 & 2) /
-Fri., January 10: <mark>Mini-exam Chp. 1 & 2</mark>. Vectors, motion in higher dimensions. (Chp. 3 & 4) /
-Tues., January 14: Vectors, motion in higher dimensions. (Chp. 3 & 4) /
-Thur., January 16: Newton's Laws I (Chp. 5) /
+* Thur., January 9: Motion in 1d. (Chp. 1 & 2)
+* Fri., January 10: <mark>Mini-exam Chp. 1 & 2</mark>. Vectors, motion in higher dimensions. (Chp. 3 & 4)
+* Tues., January 14: Vectors, motion in higher dimensions. (Chp. 3 & 4)
+* Thur., January 16: Newton's Laws I (Chp. 5)
 
   Homework 1 due. | [Homework 2](astrosega.github.io/files/2048Chw2.pdf) (Chp. 7 & 8) assigned, due Fri., January 31.
 * Fri., January 17: Newton's Laws II (Chp. 5)
@@ -117,5 +117,3 @@ Thur., January 16: Newton's Laws I (Chp. 5) /
 * Fri., April 25: Final Review
 
   [Final Exam Week: April 28- May 2.]
-
-
