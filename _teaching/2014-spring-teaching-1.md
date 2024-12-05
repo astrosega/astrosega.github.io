@@ -123,4 +123,5 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |Homework 6 due.
 
-  **[Final Exam Week: April 28–May 2.]**
+
+**[Final Exam Week: April 28–May 2.]**
