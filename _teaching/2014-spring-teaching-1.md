@@ -66,22 +66,18 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., February 7: **Mini-exam Chp. 8 & 9 thus far** \| Multiparticle Dynamics (Chp. 9)
 
   [Lab 2](astrosega.github.io/files/2048Clab2.pdf): measuring *g*| [Homework 3](astrosega.github.io/files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Fri., February 21.
-* Tues., February 11: Rotational Dynamics I (Chp. 10)
+* Tues., February 11: Multiparticle Dynamics (Chp. 9)
 * Thur., February 13: Rotational Dynamics I (Chp. 10)
-* Fri., February 14: Rotational Dynamics II (Chp. 11)
+* Fri., February 14: Rotational Dynamics I (Chp. 10)
 * Tues., February 18: Rotational Dynamics II (Chp. 11)
-* Thur., February 20: Rotational Dynamics III (Chp. 12)
+* Thur., February 20: Rotational Dynamics II (Chp. 12)
 * Fri., February 21: Rotational Dynamics III (Chp. 12)
 
   Homework 3 due | [Homework 4](astrosega.github.io/files/2048Chw4.pdf) (Chp. 13) assigned, due Tues., March 11.
 * Tues., February 25: Rotational Dynamics III (Chp. 12)
-
-  |Handout: [Taylor Series](astrosega.github.io/files/2048Cmath1.pdf)
-* Thur., February 27: Mathematical Methods intermission.
-
-  |Handout: [Complex numbers](astrosega.github.io/files/2048Cmath2.pdf)
+* Thur., February 27: Rotational Dynamics III (Chp. 12)
 * Fri., February 28: **Mini-exam Chp. 12** \| Mathematical methods intermission.
-
+  Handout: [Complex numbers](astrosega.github.io/files/2048Cmath2.pdf) | Handout: [Taylor Series](astrosega.github.io/files/2048Cmath1.pdf)
 **[March 3-7: Spring Break, no classes.]**
   
 * Tues., March 11: Mathematical methods intermission. \| Simple Harmonic Motion (Ch. 13) 
