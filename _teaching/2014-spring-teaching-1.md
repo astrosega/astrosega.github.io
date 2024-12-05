@@ -51,13 +51,13 @@ Below is a detailed schedule that will list the material covered in each class s
   |[Lab 1](astrosega.github.io/files/2048Clab1.pdf): Measurements and dimesions
 * Tues., January 21: Law of Conservation of Energy. (Chp. 6)
   
-  |Extra credit reading:[What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
+  |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
 * Thur., January 23: Conservation of Energy in 2D (Chp. 7)
 * Fri., January 24: **Mini-exam Chp. 5 & 6** Conservation of Energy in 2D (Chp. 7)
 * Tues., January 28: Gravitation (Chp. 8).
 * Thur., January 30: Gravitation (Chp. 8).
   
-  |Extra credit reading:[What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/)
+  |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/)
 * Fri., January 31: Multiparticle Dynamics (Chp. 9).
 
   | Homework 2 due.
@@ -114,7 +114,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., April 18:  [Lab 7](astrosega.github.io/files/2048Clab7.pdf): Thermodynamics
 * Tues., April 22: Entropy and Irreversebility (Ch. 20)
 
-  |Extra credit reading:[What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/)
+  |Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/)
 * Thur., April 24:  Final Review
 * Fri., April 25: Final Review
 
