@@ -122,6 +122,6 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., April 24: Final Review
 * Fri., April 25: Final Review
 
-  |Homework 5 due.
+  |Homework 6 due.
 
   [Final Exam Week: April 28–May 2.]
