@@ -37,85 +37,85 @@ Schedule
 
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts and problem sets, and various course deadlines.
 
-* Tues., January 7: The Structure of Mechanics. Motion in 1D. (Chp. 1 & 2)
+* Tues., January 7: The Structure of Mechanics. Motion in 1D. (Chp. 1 & 3)
 
-  Handout: [syllabus](astrosega.github.io/files/2048C.pdf) | [Homework 1](astrosega.github.io/files/2048Chw1.pdf) (Chp. 3 & 4) assigned, due Fri., January 17.
-* Thur., January 9: Motion in 1D. (Chp. 1 & 2)
-* Fri., January 10: **Mini-exam Chp. 1 & 2** \| Vectors, motion in higher dimensions. (Chp. 3 & 4)
-* Tues., January 14: Vectors, motion in higher dimensions. (Chp. 3 & 4)
-* Thur., January 16: Vectors, motion in higher dimensions. (Chp. 3 & 4)
+  Handout: [syllabus](astrosega.github.io/files/2048C.pdf) | [Homework 1](astrosega.github.io/files/2048Chw1.pdf) (Chp. 2 & 4) assigned, due Fri., January 17.
+* Thur., January 9: Motion in 1D. (Chp. [1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction) & [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction))
+* Fri., January 10: **Mini-exam Chp. 1 & 3** \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
+* Tues., January 14: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
+* Thur., January 16: Vectors, motion in higher dimensions. (Chp. 2 & 4)
 
-  Homework 1 due. | [Homework 2](astrosega.github.io/files/2048Chw2.pdf) (Chp. 6 & 7 ) assigned, due Fri., January 31.
-* Fri., January 17: Newton's Laws I (Chp. 5)
+  Homework 1 due. | [Homework 2](astrosega.github.io/files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Fri., January 31.
+* Fri., January 17: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 
   |[Lab 1](astrosega.github.io/files/2048Clab1.pdf): Measurements and dimesions
-* Tues., January 21: Newton's Laws I & II (Chp. 5 & 6)
+* Tues., January 21: Newton's Laws I & II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction) & [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
   
   |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
-* Thur., January 23: Newton's Laws II (Chp. 6)
+* Thur., January 23: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 * Fri., January 24: **Mini-exam Chp. 5** \| Newton's Laws II (Chp. 6)
-* Tues., January 28: Conservation of Energy in 2D (Chp. 7)
-* Thur., January 30: Conservation of Energy in 2D (Chp. 7)
-* Fri., January 31: Conservation of Energy in 2D (Chp. 7)
+* Tues., January 28:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
+* Thur., January 30: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
+* Fri., January 31: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 
   | Homework 2 due.
-* Tues., February 4: Gravitation (Chp. 8)
+* Tues., February 4: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
   |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/)
-* Thur., February 6: Multiparticle Dynamics (Chp. 9).
-* Fri., February 7: **Mini-exam Chp. 8 & 9 thus far** \| Multiparticle Dynamics (Chp. 9)
+* Thur., February 6: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
+* Fri., February 7: **Mini-exam Chp. 13 & 9 thus far** \| Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   [Lab 2](astrosega.github.io/files/2048Clab2.pdf): measuring *g*| [Homework 3](astrosega.github.io/files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Fri., February 21.
 * Tues., February 11: Multiparticle Dynamics (Chp. 9)
-* Thur., February 13: Rotational Dynamics I (Chp. 10)
-* Fri., February 14: Rotational Dynamics I (Chp. 10)
-* Tues., February 18: Rotational Dynamics II (Chp. 11)
-* Thur., February 20: Rotational Dynamics II (Chp. 12)
-* Fri., February 21: Rotational Dynamics III (Chp. 12)
+* Thur., February 13: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+* Fri., February 14: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+* Tues., February 18: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
+* Thur., February 20: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
+* Fri., February 21: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
-  Homework 3 due | [Homework 4](astrosega.github.io/files/2048Chw4.pdf) (Chp. 13) assigned, due Tues., March 11.
-* Tues., February 25: Rotational Dynamics III (Chp. 12)
-* Thur., February 27: Rotational Dynamics III (Chp. 12)
+  Homework 3 due | [Homework 4](astrosega.github.io/files/2048Chw4.pdf) (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction)) assigned, due Tues., March 11.
+* Tues., February 25: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Thur., February 27: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Fri., February 28: **Mini-exam Chp. 12** \| Mathematical methods intermission.
 
-  |Handout: [Complex numbers](astrosega.github.io/files/complex_numbers.pdf.pdf)
+  |Handout: [Complex numbers](astrosega.github.io/files/complex_numbers.pdf)
 
 
 **[March 3-7: Spring Break, no classes.]**
   
-* Tues., March 11: Mathematical methods intermission. \| Simple Harmonic Motion (Ch. 13) 
-* Thur., March 13: Simple Harmonic Motion (Ch. 13)
-* Fri., March 14: Simple Harmonic Motion (Ch. 13)
+* Tues., March 11: Mathematical methods intermission. \| Simple Harmonic Motion (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction)) 
+* Thur., March 13: Simple Harmonic Motion (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+* Fri., March 14: Simple Harmonic Motion (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
   |[Lab 3](astrosega.github.io/files/2048Clab3.pdf): the definition of mass (springs)
-* Tues., March 18: Simple Harmonic Motion (Ch. 13)
-* Thur., March 20: Waves (Ch. 14)
-* Fri.,  March 21: **Mini-exam Chp. 14 thus far** \| Waves (Ch. 14).
+* Tues., March 18: Simple Harmonic Motion (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+* Thur., March 20: Waves (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Fri.,  March 21: **Mini-exam Chp. 14** \| Waves (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction)).
 
-  Homework 4 due. | [Homework 5](astrosega.github.io/files/2048Chw4.pdf) (Chp.15) assigned, due Tues., April 4.
-* Tues., March 25: Waves (Ch. 14)
-* Thur., March 27: Fluids (Ch. 15)
-* Fri., March 28: Fluids (Ch. 15)
+  Homework 4 due. | [Homework 5](astrosega.github.io/files/2048Chw4.pdf) (Chp. 17) assigned, due Tues., April 4.
+* Tues., March 25: Waves (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Thur., March 27: Fluids (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Fri., March 28: Fluids (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
   
    |[Lab 4](astrosega.github.io/files/2048Clab4.pdf): Archimides
-* Tues., April 1: Sound Waves (Ch. 16)
-* Thur., April 3: Sound Waves (Ch. 16)
-* Fri., April 4: **Mini-exam Chp. 16 thus far** \|  Sound Waves (Ch. 16)
+* Tues., April 1: Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Thur., April 3: Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Fri., April 4: **Mini-exam Chp. 15 & 16 thus far** \|  Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
   Homework 5 due | [Lab 5](astrosega.github.io/files/2048Clab5.pdf): Standing Wave experiment
-* Tues., April 8: Heat (Ch. 17)
+* Tues., April 8: Heat (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/1-introduction))
   
-  |[Homework 6](astrosega.github.io/files/2048Chw4.pdf) (Chp.18, 19, 20) assigned, due Tues., April 25.
-* Thur., April 10: Thermodynamics I (Ch. 18)
-* Fri., April 11: **Mini-exam Chp. 17** \| Thermodynamics I (Ch. 18)
+  |[Homework 6](astrosega.github.io/files/2048Chw4.pdf) (Chp.2b, 3b, ) assigned, due Tues., April 25.
+* Thur., April 10: Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
+* Fri., April 11: **Mini-exam Chp. 1v2** \| Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
   
   |Extra credit reading: [The Minus First Law of Thermodynamics](astrosega.github.io/files/minusfirst.pdf)
-* Tues., April 15: Thermodynamics II (Ch. 19)
-* Thur., April 17: Thermodynamics II (Ch. 19)
-* Fri., April 18: Thermodynamics II (Ch. 19)
+* Tues., April 15: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
+* Thur., April 17: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
+* Fri., April 18: Thermodynamics II (Ch. 3b)
 
 * |[Lab 6](astrosega.github.io/files/2048Clab6.pdf): Thermodynamics
-* Tues., April 22: Entropy and Irreversibility (Ch. 20)
+* Tues., April 22: Entropy and Irreversibility (Ch. [4b](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
 
   |Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/)
 * Thur., April 24: Final Review
