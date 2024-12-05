@@ -71,7 +71,7 @@ Below is a detailed schedule that will list the material covered in each class s
   [Lab 3](astrosega.github.io/files/2048Clab3.pdf): the independence of Cartisian motion| [Homework 3](astrosega.github.io/files/2048Chw3.pdf)
 * Tues., February 18: Rotational Dynamics III (Chp. 12)
 * Thur., February 20: Rotational Dynamics III (Chp. 12)
-* Fri., February 21: Vectors, coordinate systems, and basic differential equations.
+* Fri., February 21: Rotational Dynamics III (Chp. 12)
 
   Homework 3 due (Fri., 28/3). | [Homework 4](astrosega.github.io/files/2048Chw4.pdf) (Chp.13) assigned, due Tues., March 11.
 * Tues., February 25: Mathematical Methods intermission.
