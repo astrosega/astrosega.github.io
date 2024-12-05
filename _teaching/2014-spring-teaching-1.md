@@ -1,5 +1,3 @@
-
-
 ---
 title: "PHY2048C (Spring 2025)"
 collection: teaching
@@ -31,8 +29,8 @@ The primary "required readings" are in the OpenStax book [University Physics 1](
 
 Here are some additional resources:
 
-* An excellent, more abridged e-book for this course is available though the FSU Library [Fundamental of Physics I](https://fsu-flvc.primo.exlibrisgroup.com/discovery/openurl?institution=01FALSC_FSU&vid=01FALSC_FSU:Home&isbn=9780300243772&genre=book&eisbn=9780300249583&title=Fundamentals%20of%20Physics%20I&sid=jstor:jstor). Give it a try if the OpenStax book treatment of a topic does not click with you. Ramamurti Shankar writes in a very particular voice that can help some students.
-* This book is based in R. Shankar [Open Lectures](https://oyc.yale.edu/physics/phys-200) (Yale University), which are available online. They were, and still are, a helpful resource for me.
+* An excellent, more abridged e-book for this course is available through the FSU Library [Fundamental of Physics I](https://fsu-flvc.primo.exlibrisgroup.com/discovery/openurl?institution=01FALSC_FSU&vid=01FALSC_FSU:Home&isbn=9780300243772&genre=book&eisbn=9780300249583&title=Fundamentals%20of%20Physics%20I&sid=jstor:jstor). Give it a try if the OpenStax book treatment of a topic does not click with you. Ramamurti Shankar writes in a very particular voice that can help some students.
+* This book is based on R. Shankar's [Open Course](https://oyc.yale.edu/physics/phys-200) (Yale University), which is available online. These lectures were, and still are, a helpful resource for me.
 
 Schedule
 -------------
@@ -45,40 +43,41 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., January 9: Motion in 1D. (Chp. 1 & 2)
 * Fri., January 10: **Mini-exam Chp. 1 & 2** \| Vectors, motion in higher dimensions. (Chp. 3 & 4)
 * Tues., January 14: Vectors, motion in higher dimensions. (Chp. 3 & 4)
-* Thur., January 16: Newton's Laws I (Chp. 5)
+* Thur., January 16: Vectors, motion in higher dimensions. (Chp. 3 & 4)
 
-  Homework 1 due. | [Homework 2](astrosega.github.io/files/2048Chw2.pdf) (Chp. 7 & 8) assigned, due Fri., January 31.
-* Fri., January 17: Newton's Laws II (Chp. 5)
+  Homework 1 due. | [Homework 2](astrosega.github.io/files/2048Chw2.pdf) (Chp. 7) assigned, due Fri., January 31.
+* Fri., January 17: Newton's Laws I (Chp. 5)
 
   |[Lab 1](astrosega.github.io/files/2048Clab1.pdf): Measurements and dimesions
-* Tues., January 21: Law of Conservation of Energy. (Chp. 6)
+* Tues., January 21: Newton's Laws I & II (Chp. 5 & 6)
   
   |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
-* Thur., January 23: Conservation of Energy in 2D (Chp. 7)
+* Thur., January 23: Newton's Laws II (Chp. 6)
 * Fri., January 24: **Mini-exam Chp. 5 & 6** \| Conservation of Energy in 2D (Chp. 7)
-* Tues., January 28: Gravitation (Chp. 8).
-* Thur., January 30: Gravitation (Chp. 8).
+* Tues., January 28: Conservation of Energy in 2D (Chp. 7)
+* Thur., January 30: Conservation of Energy in 2D (Chp. 7)
   
-  |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/)
-* Fri., January 31: Multiparticle Dynamics (Chp. 9).
+* Fri., January 31: Gravitation (Chp. 8).
 
   | Homework 2 due.
-* Tues., February 4: Multiparticle Dynamics (Chp. 9).
-* Thur., February 6: Rotational Dynamics I (Chp. 10).
-* Fri., February 7: **Mini-exam Chp. 9** \| Rotational Dynamics I (Chp. 10).
+* Tues., February 4: Gravitation (Chp. 8).
+
+  |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/)
+* Thur., February 6: Multiparticle Dynamics (Chp. 9).
+* Fri., February 7: **Mini-exam Chp. 8 & 9 thus far** \| Multiparticle Dynamics (Chp. 9)
 
   [Lab 2](astrosega.github.io/files/2048Clab2.pdf): measuring *g*| [Homework 3](astrosega.github.io/files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Fri., February 21.
-* Tues., February 11: Rotational Dynamics II (Chp. 11)
-* Thur., February 13: Rotational Dynamics II (Chp. 11)
+* Tues., February 11: Rotational Dynamics I (Chp. 10)
+* Thur., February 13: Rotational Dynamics I (Chp. 10)
 * Fri., February 14: Rotational Dynamics II (Chp. 11)
 
   |[Lab 3](astrosega.github.io/files/2048Clab3.pdf): the independence of Cartisian motion
-* Tues., February 18: Rotational Dynamics III (Chp. 12)
+* Tues., February 18: Rotational Dynamics II (Chp. 11)
 * Thur., February 20: Rotational Dynamics III (Chp. 12)
 * Fri., February 21: Rotational Dynamics III (Chp. 12)
 
-  Homework 3 due | [Homework 4](astrosega.github.io/files/2048Chw4.pdf) (Chp.13) assigned, due Tues., March 11.
-* Tues., February 25: Mathematical Methods intermission.
+  Homework 3 due | [Homework 4](astrosega.github.io/files/2048Chw4.pdf) (Chp. 13) assigned, due Tues., March 11.
+* Tues., February 25: Rotational Dynamics III (Chp. 12)
   |Handout: [Taylor Series](astrosega.github.io/files/2048Cmath1.pdf)
 * Thur., February 27: Mathematical Methods intermission.
   |Handout: [Complex numbers](astrosega.github.io/files/2048Cmath2.pdf)
@@ -86,17 +85,17 @@ Below is a detailed schedule that will list the material covered in each class s
 
 **[March 3-7: Spring Break, no classes.]**
   
-* Tues., March 11: Simple Harmonic Motion (Ch. 13) 
+* Tues., March 11: Mathematical methods intermission. \| Simple Harmonic Motion (Ch. 13) 
 * Thur., March 13: Simple Harmonic Motion (Ch. 13)
 * Fri., March 14: Simple Harmonic Motion (Ch. 13)
 
   |[Lab 4](astrosega.github.io/files/2048Clab4.pdf): the definition of mass (springs)
-* Tues., March 18: Waves (Ch. 14)
+* Tues., March 18: Simple Harmonic Motion (Ch. 13)
 * Thur., Waves (Ch. 14)
 * Fri., **Mini-exam Chp. 14 thus far** \| Waves (Ch. 14).
 
   Homework 4 due. | [Homework 5](astrosega.github.io/files/2048Chw4.pdf) (Chp.15) assigned, due Tues., April 4.
-* Tues., March 25: Fluids (Ch. 15)
+* Tues., March 25: Waves (Ch. 14)
 * Thur., March 27: Fluids (Ch. 15)
 * Fri., March 28: Fluids (Ch. 15)
   
@@ -108,10 +107,10 @@ Below is a detailed schedule that will list the material covered in each class s
   Homework 5 due | [Lab 6](astrosega.github.io/files/2048Clab6.pdf): Standing Wave experiment
 * Tues., April 8: Heat (Ch. 17)
   
-  [Homework 6](astrosega.github.io/files/2048Chw4.pdf) (Chp.18, 19, 20) assigned, due Tues., April 4.
+  |[Homework 6](astrosega.github.io/files/2048Chw4.pdf) (Chp.18, 19, 20) assigned, due Tues., April 4.
 * Thur., April 10: Thermodynamics I (Ch. 18)
 * Fri., April 11: **Mini-exam Chp. 17** \| Thermodynamics I (Ch. 18)
-
+  
   |Extra credit reading: [The Minus First Law of Thermodynamics](astrosega.github.io/files/minusfirst.pdf)
 * Tues., April 15: Thermodynamics II (Ch. 19)
 * Thur., April 17: Thermodynamics II (Ch. 19)
