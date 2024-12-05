@@ -37,68 +37,79 @@ Schedule
 
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts and problem sets, and various course deadlines.
 
-* Tues., January 7: Introductory lecture. Overview of course syllabus. Vectors and coordinate systems.
+* Tues., January 7: The Structure of Mechanics. Motion in 1d. (Chp. 1 & 2)
 
-  Handout: [syllabus](astrosega.github.io/files/2048C.pdf) | [Homework 1](astrosega.github.io/files/2048Chw1.pdf) assigned, due Thurs., January 16.
-* Thur., January 9: Vectors, coordinate systems, and basic differential equations.
-* Fri., January 10: Vectors, coordinate systems, and basic differential equations.
-* Tues., January 14: Vectors, coordinate systems, and basic differential equations.
-* Thur., January 16: Gravitational dynamics and orbits.
+  Handout: [syllabus](astrosega.github.io/files/2048C.pdf) | [Homework 1](astrosega.github.io/files/2048Chw1.pdf) (Chp. 3 & 4) assigned, due Fri., January 17.
+* Thur., January 9: Motion in 1d. (Chp. 1 & 2)
+* Fri., January 10: ==Mini-exam Chp. 1 & 2==. Vectors, motion in higher dimensions. (Chp. 3 & 4)
+* Tues., January 14: Vectors, motion in higher dimensions. (Chp. 3 & 4)
+* Thur., January 16: Newton's Laws I (Chp. 5)
 
-  Homework 1 due. | [Homework 2](astrosega.github.io/files/2048Chw2.pdf) assigned, due Fri., January 31.
-* Fri., January 17: Vectors, coordinate systems, and basic differential equations.
-* Tues., January 21: Gravitational dynamics and orbits.
-* Thur., January 23: Gravitational dynamics and orbits.
-* Fri., January 24: Vectors, coordinate systems, and basic differential equations.
-* Tues., January 28: Introduction to Einstein's relativity.
-* Thur., January 30: Introduction to Einstein's relativity.
-* Fri., January 31: Vectors, coordinate systems, and basic differential equations.
+  Homework 1 due. | [Homework 2](astrosega.github.io/files/2048Chw2.pdf) (Chp. 7 & 8) assigned, due Fri., January 31.
+* Fri., January 17: Newton's Laws II (Chp. 5)
 
-  | Homework 2 due (Fri., 1/31).
-* Tues., February 4: Partial and vector derivatives; multiple integrals. Review for midterm.
-* Thur., February 6: In-class Midterm Exam 1.
-* Fri., January 31: Vectors, coordinate systems, and basic differential equations.
+  |[Lab 1](astrosega.github.io/files/2048Clab1.pdf): Measurements and dimesions
+* Tues., January 21: Law of Conservation of Energy. (Chp. 6)
+  
+  |Extra credit reading:[What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
+* Thur., January 23: Conservation of Energy in *d = 2* (Chp. 7)
+* Fri., January 24: ==Mini-exam Chp. 5 & 6== Conservation of Energy in *d = 2* (Chp. 7)
+* Tues., January 28: Gravitation (Chp. 8).
+* Thur., January 30: Gravitation (Chp. 8).
+* Fri., January 31: Multiparticle Dynamics (Chp. 9).
 
-  | [Homework 3](astrosega.github.io/files/2048Chw3.pdf) assigned, due Fri., March 3.
-* Tues., February 11: Partial and vector derivatives; multiple integrals.
-* Thur., February 13: Partial and vector derivatives; multiple integrals.
-* Fri., February 14: Vectors, coordinate systems, and basic differential equations.
-* Tues., February 18: Partial and vector derivatives; multiple integrals.
-* Thur., February 20: Gases, plasmas, and thermodynamics in astronomy.
+  | Homework 2 due.
+* Tues., February 4: Multiparticle Dynamics (Chp. 9).
+* Thur., February 6: Rotational Dynamics I (Chp. 10).
+* Fri., February 31: ==Mini-exam Chp. 9== Rotational Dynamics I (Chp. 10).
+
+  [Lab 2](astrosega.github.io/files/2048Clab2.pdf): measuring *g*| [Homework 3](astrosega.github.io/files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Fri., March 3.
+* Tues., February 11: Rotational Dynamics II (Chp. 11)
+* Thur., February 13: Rotational Dynamics II (Chp. 11)
+* Fri., February 14: Rotational Dynamics II (Chp. 11)
+
+  [Lab 3](astrosega.github.io/files/2048Clab3.pdf): the independence of Cartisian motion| [Homework 3](astrosega.github.io/files/2048Chw3.pdf)
+* Tues., February 18: Rotational Dynamics III (Chp. 12)
+* Thur., February 20: Rotational Dynamics III (Chp. 12)
 * Fri., February 21: Vectors, coordinate systems, and basic differential equations.
 
-  Homework 3 due (Fri., 21/3). | [Homework 4](astrosega.github.io/files/2048Chw3.pdf) assigned, due Tues., March 11.
-* Tues., February 25 Partial and vector derivatives; multiple integrals.
-* Thur., February 27: Gases, plasmas, and thermodynamics in astronomy.
-* Fri., February 28: Vectors, coordinate systems, and basic differential equations.
+  Homework 3 due (Fri., 28/3). | [Homework 4](astrosega.github.io/files/2048Chw4.pdf) (Chp.13) assigned, due Tues., March 11.
+* Tues., February 25: Mathematical Methods intermission.
+  |Handout: [Taylor Series](astrosega.github.io/files/2048Cmath1.pdf)
+* Thur., February 27: Mathematical Methods intermission.
+  |Handout: [Complex numbers](astrosega.github.io/files/2048Cmath2.pdf)
+* Fri., February 28: ==Mini-exam Chp. 12== Mathematical methods intermission.
   [March 3-7: Spring Break, no classes.]
-* Tues., March 11: Gases, plasmas, and thermodynamics in astronomy.
-* Thur., March 13: Gases, plasmas, and thermodynamics in astronomy.
-* Fri., March 14: Vectors, coordinate systems, and basic differential equations.
-* Tues., March 18: Gases, plasmas, and thermodynamics in astronomy.
-* Thur., March 20: Light and its interaction with matter.
-* Fri., March 21: Vectors, coordinate systems, and basic differential equations.
+* Tues., March 11: Simple Harmonic Motion (Ch. 13) 
+* Thur., March 13: Simple Harmonic Motion (Ch. 13)
+* Fri., March 14: Simple Harmonic Motion (Ch. 13)
+  |[Lab 4](astrosega.github.io/files/2048Clab4.pdf): the definition of mass (springs)
+* Tues., March 18: Waves (Ch. 14)
+* Thur., Waves (Ch. 14)
+* Fri., ==Mini-exam Chp. 14 thus far== Waves (Ch. 14).
 
-  | Homework 4 due (Fri., 3/22).
-* Tues., March 25: Light and its interaction with matter. Review for midterm.
-* Thur., March 27: In-class Midterm Exam 2.
-* Fri., March 28: Vectors, coordinate systems, and basic differential equations.
-* Tues., April 1: Light and its interaction with matter.
+ Homework 4 due. | [Homework 5](astrosega.github.io/files/2048Chw4.pdf) (Chp.15) assigned, due Tues., April 4.
+* Tues., March 25: Fluids (Ch. 15)
+* Thur., March 27: Fluids (Ch. 15)
+* Fri., March 28: Fluids (Ch. 15)
+  
+   |[Lab 5](astrosega.github.io/files/2048Clab5.pdf): Archimides
+* Tues., April 1: Sound Waves (Ch. 16)
+* Thur., April 3: Sound Waves (Ch. 16)
+* Fri., April 4: ==Mini-exam Chp. 16 thus far== Sound Waves (Ch. 16)
+   [Lab 6](astrosega.github.io/files/2048Clab6.pdf): Sound Waves (Ch. 16) | Homework 5 due.
+* Tues., April 8: Heat (Ch. 17)
+  [Homework 6](astrosega.github.io/files/2048Chw4.pdf) (Chp.18, 19, 20) assigned, due Tues., April 4.
+* Thur., April 10: Thermodynamics I (Ch. 18)
+* Fri., April 11: ==Mini-exam Chp. 17== Thermodynamics I (Ch. 18)
+* Tues., April 15: Thermodynamics II (Ch. 19)
+* Thur., April 17: Thermodynamics II (Ch. 19)
 
-  | [Homework 5](astrosega.github.io/files/2048Chw3.pdf) assigned, due Tues., April 11.
-* Thur., April 3: Class cancelled.
-* Fri., April 4: Vectors, coordinate systems, and basic differential equations.
-* Tues., April 8: Light and its interaction with matter.
-* Thur., April 10: Atoms and an introduction to quantum mechanics.
-* Fri., April 11: Vectors, coordinate systems, and basic differential equations.
-* Tues., April 15: Atoms and an introduction to quantum mechanics.
-
-  | Homework 5 due.
-* Thur., April 17: Atoms and an introduction to quantum mechanics.
-* Fri., April 18: Vectors, coordinate systems, and basic differential equations.
-* Tues., April 22: Understanding astronomical spectra.
-* Thur., April 24: Understanding astronomical spectra.
-* Fri., April 25: Vectors, coordinate systems, and basic differential equations.
+  |Extra credit reading:[The minus first law of thermodynamics](https://philsci-archive.pitt.edu/217/1/Time-asymmetry.pdf)
+* Fri., April 18:  [Lab 7](astrosega.github.io/files/2048Clab7.pdf): Thermodynamics
+* Tues., April 22: Entropy and Irreversebility (Ch. 20)
+* Thur., April 24:  Final Review
+* Fri., April 25: Final Review
 
   [Final Exam Week: April 28- May 2.]
 
