@@ -41,7 +41,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   Handout: [syllabus](astrosega.github.io/files/2048C.pdf) | [Homework 1](astrosega.github.io/files/2048Chw1.pdf) (Chp. 3 & 4) assigned, due Fri., January 17.
 * Thur., January 9: Motion in 1d. (Chp. 1 & 2)
-* Fri., January 10: </mark>Mini-exam Chp. 1 & 2</mark>. Vectors, motion in higher dimensions. (Chp. 3 & 4)
+* Fri., January 10: <mark>Mini-exam Chp. 1 & 2<mark>. Vectors, motion in higher dimensions. (Chp. 3 & 4)
 * Tues., January 14: Vectors, motion in higher dimensions. (Chp. 3 & 4)
 * Thur., January 16: Newton's Laws I (Chp. 5)
 
@@ -53,7 +53,7 @@ Below is a detailed schedule that will list the material covered in each class s
   
   |Extra credit reading:[What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
 * Thur., January 23: Conservation of Energy in *d = 2* (Chp. 7)
-* Fri., January 24: </mark>Mini-exam Chp. 5 & 6</mark> Conservation of Energy in *d = 2* (Chp. 7)
+* Fri., January 24: <mark>Mini-exam Chp. 5 & 6<mark> Conservation of Energy in *d = 2* (Chp. 7)
 * Tues., January 28: Gravitation (Chp. 8).
 * Thur., January 30: Gravitation (Chp. 8).
 * Fri., January 31: Multiparticle Dynamics (Chp. 9).
@@ -61,7 +61,7 @@ Below is a detailed schedule that will list the material covered in each class s
   | Homework 2 due.
 * Tues., February 4: Multiparticle Dynamics (Chp. 9).
 * Thur., February 6: Rotational Dynamics I (Chp. 10).
-* Fri., February 31: </mark>Mini-exam Chp. 9</mark> Rotational Dynamics I (Chp. 10).
+* Fri., February 31: <mark>Mini-exam Chp. 9<mark> Rotational Dynamics I (Chp. 10).
 
   [Lab 2](astrosega.github.io/files/2048Clab2.pdf): measuring *g*| [Homework 3](astrosega.github.io/files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Fri., March 3.
 * Tues., February 11: Rotational Dynamics II (Chp. 11)
@@ -78,7 +78,7 @@ Below is a detailed schedule that will list the material covered in each class s
   |Handout: [Taylor Series](astrosega.github.io/files/2048Cmath1.pdf)
 * Thur., February 27: Mathematical Methods intermission.
   |Handout: [Complex numbers](astrosega.github.io/files/2048Cmath2.pdf)
-* Fri., February 28: </mark>Mini-exam Chp. 12</mark> Mathematical methods intermission.
+* Fri., February 28: <mark>Mini-exam Chp. 12<mark> Mathematical methods intermission.
   [March 3-7: Spring Break, no classes.]
 * Tues., March 11: Simple Harmonic Motion (Ch. 13) 
 * Thur., March 13: Simple Harmonic Motion (Ch. 13)
@@ -86,7 +86,7 @@ Below is a detailed schedule that will list the material covered in each class s
   |[Lab 4](astrosega.github.io/files/2048Clab4.pdf): the definition of mass (springs)
 * Tues., March 18: Waves (Ch. 14)
 * Thur., Waves (Ch. 14)
-* Fri., </mark>Mini-exam Chp. 14 thus far</mark> Waves (Ch. 14).
+* Fri., <mark>Mini-exam Chp. 14 thus far<mark> Waves (Ch. 14).
 
  Homework 4 due. | [Homework 5](astrosega.github.io/files/2048Chw4.pdf) (Chp.15) assigned, due Tues., April 4.
 * Tues., March 25: Fluids (Ch. 15)
@@ -96,12 +96,12 @@ Below is a detailed schedule that will list the material covered in each class s
    |[Lab 5](astrosega.github.io/files/2048Clab5.pdf): Archimides
 * Tues., April 1: Sound Waves (Ch. 16)
 * Thur., April 3: Sound Waves (Ch. 16)
-* Fri., April 4: </mark>Mini-exam Chp. 16 thus far</mark> Sound Waves (Ch. 16)
+* Fri., April 4: <mark>Mini-exam Chp. 16 thus far<mark> Sound Waves (Ch. 16)
    [Lab 6](astrosega.github.io/files/2048Clab6.pdf): Sound Waves (Ch. 16) | Homework 5 due.
 * Tues., April 8: Heat (Ch. 17)
   [Homework 6](astrosega.github.io/files/2048Chw4.pdf) (Chp.18, 19, 20) assigned, due Tues., April 4.
 * Thur., April 10: Thermodynamics I (Ch. 18)
-* Fri., April 11: </mark>Mini-exam Chp. 17</mark> Thermodynamics I (Ch. 18)
+* Fri., April 11: <mark>Mini-exam Chp. 17<mark> Thermodynamics I (Ch. 18)
 * Tues., April 15: Thermodynamics II (Ch. 19)
 * Thur., April 17: Thermodynamics II (Ch. 19)
 
