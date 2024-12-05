@@ -45,7 +45,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., January 14: Vectors, motion in higher dimensions. (Chp. 3 & 4)
 * Thur., January 16: Vectors, motion in higher dimensions. (Chp. 3 & 4)
 
-  Homework 1 due. | [Homework 2](astrosega.github.io/files/2048Chw2.pdf) (Chp. 7) assigned, due Fri., January 31.
+  Homework 1 due. | [Homework 2](astrosega.github.io/files/2048Chw2.pdf) (Chp. 6 & 7 ) assigned, due Fri., January 31.
 * Fri., January 17: Newton's Laws I (Chp. 5)
 
   |[Lab 1](astrosega.github.io/files/2048Clab1.pdf): Measurements and dimesions
@@ -53,14 +53,13 @@ Below is a detailed schedule that will list the material covered in each class s
   
   |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
 * Thur., January 23: Newton's Laws II (Chp. 6)
-* Fri., January 24: **Mini-exam Chp. 5 & 6** \| Conservation of Energy in 2D (Chp. 7)
+* Fri., January 24: **Mini-exam Chp. 5** \| Newton's Laws II (Chp. 6)
 * Tues., January 28: Conservation of Energy in 2D (Chp. 7)
 * Thur., January 30: Conservation of Energy in 2D (Chp. 7)
-  
-* Fri., January 31: Gravitation (Chp. 8).
+* Fri., January 31: Conservation of Energy in 2D (Chp. 7)
 
   | Homework 2 due.
-* Tues., February 4: Gravitation (Chp. 8).
+* Tues., February 4: Gravitation (Chp. 8)
 
   |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/)
 * Thur., February 6: Multiparticle Dynamics (Chp. 9).
@@ -70,8 +69,6 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., February 11: Rotational Dynamics I (Chp. 10)
 * Thur., February 13: Rotational Dynamics I (Chp. 10)
 * Fri., February 14: Rotational Dynamics II (Chp. 11)
-
-  |[Lab 3](astrosega.github.io/files/2048Clab3.pdf): the independence of Cartisian motion
 * Tues., February 18: Rotational Dynamics II (Chp. 11)
 * Thur., February 20: Rotational Dynamics III (Chp. 12)
 * Fri., February 21: Rotational Dynamics III (Chp. 12)
@@ -89,7 +86,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., March 13: Simple Harmonic Motion (Ch. 13)
 * Fri., March 14: Simple Harmonic Motion (Ch. 13)
 
-  |[Lab 4](astrosega.github.io/files/2048Clab4.pdf): the definition of mass (springs)
+  |[Lab 3](astrosega.github.io/files/2048Clab3.pdf): the definition of mass (springs)
 * Tues., March 18: Simple Harmonic Motion (Ch. 13)
 * Thur., Waves (Ch. 14)
 * Fri., **Mini-exam Chp. 14 thus far** \| Waves (Ch. 14).
@@ -99,12 +96,12 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., March 27: Fluids (Ch. 15)
 * Fri., March 28: Fluids (Ch. 15)
   
-   |[Lab 5](astrosega.github.io/files/2048Clab5.pdf): Archimides
+   |[Lab 4](astrosega.github.io/files/2048Clab4.pdf): Archimides
 * Tues., April 1: Sound Waves (Ch. 16)
 * Thur., April 3: Sound Waves (Ch. 16)
 * Fri., April 4: **Mini-exam Chp. 16 thus far** \|  Sound Waves (Ch. 16)
 
-  Homework 5 due | [Lab 6](astrosega.github.io/files/2048Clab6.pdf): Standing Wave experiment
+  Homework 5 due | [Lab 5](astrosega.github.io/files/2048Clab5.pdf): Standing Wave experiment
 * Tues., April 8: Heat (Ch. 17)
   
   |[Homework 6](astrosega.github.io/files/2048Chw4.pdf) (Chp.18, 19, 20) assigned, due Tues., April 4.
@@ -114,7 +111,7 @@ Below is a detailed schedule that will list the material covered in each class s
   |Extra credit reading: [The Minus First Law of Thermodynamics](astrosega.github.io/files/minusfirst.pdf)
 * Tues., April 15: Thermodynamics II (Ch. 19)
 * Thur., April 17: Thermodynamics II (Ch. 19)
-* Fri., April 18:  [Lab 7](astrosega.github.io/files/2048Clab7.pdf): Thermodynamics
+* Fri., April 18:  [Lab 6](astrosega.github.io/files/2048Clab6.pdf): Thermodynamics
 * Tues., April 22: Entropy and Irreversibility (Ch. 20)
 
   |Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/)
