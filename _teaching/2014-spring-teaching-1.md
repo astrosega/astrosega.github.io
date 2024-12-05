@@ -37,10 +37,10 @@ Schedule
 
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts and problem sets, and various course deadlines.
 
-* Tues., January 7: The Structure of Mechanics. Motion in 1d. (Chp. 1 & 2)
+* Tues., January 7: The Structure of Mechanics. Motion in 1D. (Chp. 1 & 2)
 
   Handout: [syllabus](astrosega.github.io/files/2048C.pdf) | [Homework 1](astrosega.github.io/files/2048Chw1.pdf) (Chp. 3 & 4) assigned, due Fri., January 17.
-* Thur., January 9: Motion in 1d. (Chp. 1 & 2)
+* Thur., January 9: Motion in 1D. (Chp. 1 & 2)
 * Fri., January 10: **Mini-exam Chp. 1 & 2**. Vectors, motion in higher dimensions. (Chp. 3 & 4)
 * Tues., January 14: Vectors, motion in higher dimensions. (Chp. 3 & 4)
 * Thur., January 16: Newton's Laws I (Chp. 5)
@@ -52,8 +52,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., January 21: Law of Conservation of Energy. (Chp. 6)
   
   |Extra credit reading:[What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
-* Thur., January 23: Conservation of Energy in *d = 2* (Chp. 7)
-* Fri., January 24: **Mini-exam Chp. 5 & 6** Conservation of Energy in *d = 2* (Chp. 7)
+* Thur., January 23: Conservation of Energy in 2D (Chp. 7)
+* Fri., January 24: **Mini-exam Chp. 5 & 6** Conservation of Energy in 2D (Chp. 7)
 * Tues., January 28: Gravitation (Chp. 8).
 * Thur., January 30: Gravitation (Chp. 8).
   
