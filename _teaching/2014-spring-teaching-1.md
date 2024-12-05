@@ -86,8 +86,8 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |[Lab 3](astrosega.github.io/files/2048Clab3.pdf): the definition of mass (springs)
 * Tues., March 18: Simple Harmonic Motion (Ch. 13)
-* Thur., Waves (Ch. 14)
-* Fri., **Mini-exam Chp. 14 thus far** \| Waves (Ch. 14).
+* Thur., March 20: Waves (Ch. 14)
+* Fri.,  March 21: **Mini-exam Chp. 14 thus far** \| Waves (Ch. 14).
 
   Homework 4 due. | [Homework 5](astrosega.github.io/files/2048Chw4.pdf) (Chp.15) assigned, due Tues., April 4.
 * Tues., March 25: Waves (Ch. 14)
