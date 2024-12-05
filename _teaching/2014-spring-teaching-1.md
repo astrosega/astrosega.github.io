@@ -1,3 +1,5 @@
+
+
 ---
 title: "PHY2048C (Spring 2025)"
 collection: teaching
@@ -29,8 +31,8 @@ The primary "required readings" are in the OpenStax book [University Physics 1](
 
 Here are some additional resources:
 
-* An excellent, more abridged e-book for this course is available through the FSU Library [Fundamental of Physics I](https://fsu-flvc.primo.exlibrisgroup.com/discovery/openurl?institution=01FALSC_FSU&vid=01FALSC_FSU:Home&isbn=9780300243772&genre=book&eisbn=9780300249583&title=Fundamentals%20of%20Physics%20I&sid=jstor:jstor). Give it a try if the OpenStax book treatment of a topic does not click with you. Ramamurti Shankar writes in a very particular voice that can help some students.
-* This book is based on R. Shankar's [Open Course](https://oyc.yale.edu/physics/phys-200) (Yale University), which is available online. These lectures were, and still are, a helpful resource for me.
+* An excellent, more abridged e-book for this course is available though the FSU Library [Fundamental of Physics I](https://fsu-flvc.primo.exlibrisgroup.com/discovery/openurl?institution=01FALSC_FSU&vid=01FALSC_FSU:Home&isbn=9780300243772&genre=book&eisbn=9780300249583&title=Fundamentals%20of%20Physics%20I&sid=jstor:jstor). Give it a try if the OpenStax book treatment of a topic does not click with you. Ramamurti Shankar writes in a very particular voice that can help some students.
+* This book is based in R. Shankar [Open Lectures](https://oyc.yale.edu/physics/phys-200) (Yale University), which are available online. They were, and still are, a helpful resource for me.
 
 Schedule
 -------------
@@ -75,5 +77,49 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., February 20: Rotational Dynamics III (Chp. 12)
 * Fri., February 21: Rotational Dynamics III (Chp. 12)
 
-  Homework 3 due | [Homework 4](astrosega.github.io/files/2048Chw4.pdf) (Chp. 13) assigned, due Tues., March 11.
+  Homework 3 due | [Homework 4](astrosega.github.io/files/2048Chw4.pdf) (Chp.13) assigned, due Tues., March 11.
 * Tues., February 25: Mathematical Methods intermission.
+  |Handout: [Taylor Series](astrosega.github.io/files/2048Cmath1.pdf)
+* Thur., February 27: Mathematical Methods intermission.
+  |Handout: [Complex numbers](astrosega.github.io/files/2048Cmath2.pdf)
+* Fri., February 28: **Mini-exam Chp. 12** \| Mathematical methods intermission.
+
+**[March 3-7: Spring Break, no classes.]**
+  
+* Tues., March 11: Simple Harmonic Motion (Ch. 13) 
+* Thur., March 13: Simple Harmonic Motion (Ch. 13)
+* Fri., March 14: Simple Harmonic Motion (Ch. 13)
+
+  |[Lab 4](astrosega.github.io/files/2048Clab4.pdf): the definition of mass (springs)
+* Tues., March 18: Waves (Ch. 14)
+* Thur., Waves (Ch. 14)
+* Fri., **Mini-exam Chp. 14 thus far** \| Waves (Ch. 14).
+
+  Homework 4 due. | [Homework 5](astrosega.github.io/files/2048Chw4.pdf) (Chp.15) assigned, due Tues., April 4.
+* Tues., March 25: Fluids (Ch. 15)
+* Thur., March 27: Fluids (Ch. 15)
+* Fri., March 28: Fluids (Ch. 15)
+  
+   |[Lab 5](astrosega.github.io/files/2048Clab5.pdf): Archimides
+* Tues., April 1: Sound Waves (Ch. 16)
+* Thur., April 3: Sound Waves (Ch. 16)
+* Fri., April 4: **Mini-exam Chp. 16 thus far** \|  Sound Waves (Ch. 16)
+
+  Homework 5 due | [Lab 6](astrosega.github.io/files/2048Clab6.pdf): Standing Wave experiment
+* Tues., April 8: Heat (Ch. 17)
+  
+  [Homework 6](astrosega.github.io/files/2048Chw4.pdf) (Chp.18, 19, 20) assigned, due Tues., April 4.
+* Thur., April 10: Thermodynamics I (Ch. 18)
+* Fri., April 11: **Mini-exam Chp. 17** \| Thermodynamics I (Ch. 18)
+
+  |Extra credit reading: [The Minus First Law of Thermodynamics](astrosega.github.io/files/minusfirst.pdf)
+* Tues., April 15: Thermodynamics II (Ch. 19)
+* Thur., April 17: Thermodynamics II (Ch. 19)
+* Fri., April 18:  [Lab 7](astrosega.github.io/files/2048Clab7.pdf): Thermodynamics
+* Tues., April 22: Entropy and Irreversibility (Ch. 20)
+
+  |Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/)
+* Thur., April 24: Final Review
+* Fri., April 25: Final Review
+
+  [Final Exam Week: April 28–May 2.]
