@@ -100,8 +100,10 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., April 1: Sound Waves (Ch. 16)
 * Thur., April 3: Sound Waves (Ch. 16)
 * Fri., April 4: <mark>Mini-exam Chp. 16 thus far</mark> Sound Waves (Ch. 16)
-   [Lab 6](astrosega.github.io/files/2048Clab6.pdf): Sound Waves (Ch. 16) | Homework 5 due.
+
+  [Lab 6](astrosega.github.io/files/2048Clab6.pdf): Sound Waves (Ch. 16) | Homework 5 due.
 * Tues., April 8: Heat (Ch. 17)
+  
   [Homework 6](astrosega.github.io/files/2048Chw4.pdf) (Chp.18, 19, 20) assigned, due Tues., April 4.
 * Thur., April 10: Thermodynamics I (Ch. 18)
 * Fri., April 11: <mark>Mini-exam Chp. 17</mark> Thermodynamics I (Ch. 18)
