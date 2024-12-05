@@ -111,8 +111,6 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., April 11: <mark>Mini-exam Chp. 17</mark> Thermodynamics I (Ch. 18)
 * Tues., April 15: Thermodynamics II (Ch. 19)
 * Thur., April 17: Thermodynamics II (Ch. 19)
-
-  |Extra credit reading:[The minus first law of thermodynamics](https://philsci-archive.pitt.edu/217/1/Time-asymmetry.pdf)
 * Fri., April 18:  [Lab 7](astrosega.github.io/files/2048Clab7.pdf): Thermodynamics
 * Tues., April 22: Entropy and Irreversebility (Ch. 20)
 
