@@ -75,8 +75,10 @@ Below is a detailed schedule that will list the material covered in each class s
 
   Homework 3 due | [Homework 4](astrosega.github.io/files/2048Chw4.pdf) (Chp. 13) assigned, due Tues., March 11.
 * Tues., February 25: Rotational Dynamics III (Chp. 12)
+
   |Handout: [Taylor Series](astrosega.github.io/files/2048Cmath1.pdf)
 * Thur., February 27: Mathematical Methods intermission.
+
   |Handout: [Complex numbers](astrosega.github.io/files/2048Cmath2.pdf)
 * Fri., February 28: **Mini-exam Chp. 12** \| Mathematical methods intermission.
 
