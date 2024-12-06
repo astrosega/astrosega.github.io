@@ -43,7 +43,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., January 9: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Fri., January 10: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
- |[Lab 1](astrosega.github.io/files/2049Clab1.pdf): Electrostatics
+   |[Lab 1](astrosega.github.io/files/2049Clab1.pdf): Electrostatics
 * Tues., January 14: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Thur., January 16: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
