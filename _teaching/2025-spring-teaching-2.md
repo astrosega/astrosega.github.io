@@ -42,8 +42,8 @@ Below is a detailed schedule that will list the material covered in each class s
   Handout: [syllabus](astrosega.github.io/files/2048C.pdf) | [Homework 1](astrosega.github.io/files/2049Chw1.pdf) (Chp. 2) assigned, due Fri., January 17.
 * Thur., January 9: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Fri., January 10: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-  |[Lab 1](astrosega.github.io/files/2049Clab1.pdf): Electrostatics
 
+ |[Lab 1](astrosega.github.io/files/2049Clab1.pdf): Electrostatics
 * Tues., January 14: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Thur., January 16: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
@@ -114,7 +114,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., April 17: **Problem-solving session** \| Ampere, Faraday, and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [12](https://openstax.org/books/university-physics-volume-2/pages/2-introduction), [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Fri., April 18: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
-* |[Lab 8](astrosega.github.io/files/2048Clab6.pdf): Osciloscope II
+  |[Lab 8](astrosega.github.io/files/2048Clab6.pdf): Osciloscope II
 * Tues., April 22: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
 
   |Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/)
