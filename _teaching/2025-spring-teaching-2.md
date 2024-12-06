@@ -51,8 +51,6 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., January 17: **Mini-exam Chp. 6** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Tues., January 21: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Thur., January 23: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-
-   |Extra credit reading: [Action at a Distance](astrosega.github.io/files/action.pdf)
 * Fri., January 24: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
   
   |[Lab 2](astrosega.github.io/files/2049Clab1.pdf): Electric Field
@@ -61,7 +59,9 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., January 31: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 
   | Homework 2 due.
-* Tues., February 4: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Tues., February 4: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) 
+  
+  |Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/)
 * Thur., February 6: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
 * Fri., February 7: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 
@@ -100,6 +100,8 @@ Below is a detailed schedule that will list the material covered in each class s
    |[Lab 6](astrosega.github.io/files/2048Clab4.pdf): Magnetism
 * Tues., April 1: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Thur., April 3: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
+
+ |Extra credit reading: [Action at a Distance](astrosega.github.io/files/action-distance.pdf)
 * Fri., April 4: **Mini-exam Chp. 11 & 12 thus far** \|  Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
   Homework 5 due | [Lab 7](astrosega.github.io/files/2049Clab7.pdf): Circuits II
@@ -120,7 +122,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., April 24: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Fri., April 25:  Final Review
 
-   Homework 6 due.|[Lab 9](astrosega.github.io/files/2049Clab9.pdf): Circuits II
+   Homework 6 due.|[Lab 9](astrosega.github.io/files/2049Clab9.pdf): Circuits III
 
 
 **[Final Exam Week: April 28–May 2.]**
