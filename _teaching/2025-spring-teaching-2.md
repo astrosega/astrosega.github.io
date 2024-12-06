@@ -67,8 +67,6 @@ Below is a detailed schedule that will list the material covered in each class s
 
   [Lab 3](astrosega.github.io/files/2048Clab2.pdf): measuring *e*| [Homework 3](astrosega.github.io/files/2048Chw3.pdf) (Ch 8) assigned, due Fri., February 21.
 * Tues., February 11: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
-
- |Extra credit reading: [What is Real, Field or Potential?](astrosega.github.io/files/theEVeffect.pdf)
 * Thur., February 13: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Fri., February 14: **Mini-exam Chp. 7**  \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Tues., February 18: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
