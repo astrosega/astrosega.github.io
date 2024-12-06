@@ -87,7 +87,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., April 1: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/12-introduction))
 * Thur., April 3: The Death of a Star (Ch. [23](https://openstax.org/books/astronomy-2e/pages/12-introduction))
  
- |Ch. 23 notes and highligths due
+ 	|Ch. 23 notes and highligths due
 * Tues., April 8: Black Holes (Ch. [24](https://openstax.org/books/astronomy-2e/pages/12-introduction))
 * Thur., April 10: The Milky Way: not in equilibrium (Ch. [25](https://openstax.org/books/astronomy-2e/pages/13-introduction))
 
