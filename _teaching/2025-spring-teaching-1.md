@@ -40,7 +40,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., January 7: The Structure of Mechanics. Motion in 1D. (Chp. [1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction) & [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction))
 
   Handout: [syllabus](astrosega.github.io/files/2048C.pdf) | [Homework 1](astrosega.github.io/files/2048Chw1.pdf) (Chp. 2 & 4) assigned, due Fri., January 17.
-* Thur., January 9: Motion in 1D. (Chp. [1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction) & [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction))
+* Thur., January 9: No Clases
 * Fri., January 10: **Mini-exam Chp. 1 & 3** \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Tues., January 14: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Thur., January 16: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
@@ -112,16 +112,14 @@ Below is a detailed schedule that will list the material covered in each class s
   |Extra credit reading: [The Minus First Law of Thermodynamics](astrosega.github.io/files/minusfirst.pdf)
 * Tues., April 15: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 * Thur., April 17: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
-* Fri., April 18: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
-
-* |[Lab 6](astrosega.github.io/files/2048Clab6.pdf): Thermodynamics
 * Tues., April 22: Entropy and Irreversibility (Ch. [4b](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
 
   |Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/)
 * Thur., April 24: Final Review
 * Fri., April 25: Final Review
 
-  |Homework 6 due.
+	Homework 6 due.|[Lab 6](astrosega.github.io/files/2048Clab6.pdf): Thermodynamics
+
 
 
 **[Final Exam Week: April 28–May 2.]**

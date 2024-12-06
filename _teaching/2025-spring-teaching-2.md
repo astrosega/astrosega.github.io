@@ -40,7 +40,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., January 7: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
   Handout: [syllabus](astrosega.github.io/files/2048C.pdf) | [Homework 1](astrosega.github.io/files/2049Chw1.pdf) (Chp. 2) assigned, due Fri., January 17.
-* Thur., January 9: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+* Thur., January 9: No Clases
 * Fri., January 10: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
    |[Lab 1](astrosega.github.io/files/2049Clab1.pdf): Electrostatics
@@ -113,14 +113,12 @@ Below is a detailed schedule that will list the material covered in each class s
   
 * Tues., April 15: **Problem-solving session** \| Ampere, Faraday, and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction), [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Thur., April 17: **Problem-solving session** \| Ampere, Faraday, and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction), [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
-* Fri., April 18: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
-
-  |[Lab 8](astrosega.github.io/files/2048Clab6.pdf): Osciloscope II
+* Fri., April 18: No Clases
 * Tues., April 22: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
 * Thur., April 24: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Fri., April 25:  Final Review
 
-   Homework 6 due.|[Lab 9](astrosega.github.io/files/2049Clab9.pdf): Circuits III
+   Homework 6 due.|[Lab 8](astrosega.github.io/files/2049Clab8.pdf): Circuits III
 
 
 **[Final Exam Week: April 28–May 2.]**

@@ -35,10 +35,10 @@ Here are some additional resources:
 
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts, and [Stellarium](https://stellarium-web.org/) and [World Wide Telescope](https://www.worldwidetelescope.org/) worksheets, and various course deadlines.
 
-* Tues., January 7: Scales of the Universe (Chp. [1](https://openstax.org/details/books/astronomy-2e/pages/1-introduction))
+* Tues., January 7: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/details/books/astronomy-2e/pages/1-introduction))
 
   |Handout: [syllabus](astrosega.github.io/files/2048C.pdf)
-* Thur., January 9: What is astronomy all about? (Chp. [1](https://openstax.org/details/books/astronomy-2e/pages/1-introduction))
+* Thur., January 9: No Classes
 * Tues., January 14: Human's relation to the sky (Chp. [2](https://openstax.org/details/books/astronomy-2e/pages/2-introduction))
 * Thur., January 16: Orbits and Gravity (Chp. [3](https://openstax.org/details/books/astronomy-2e/pages/3-introduction))
 
@@ -86,8 +86,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., March 27: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/11-introduction))
 * Tues., April 1: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/12-introduction))
 * Thur., April 3: The Death of a Star (Ch. [23](https://openstax.org/books/astronomy-2e/pages/12-introduction))
- 
- 	|Ch. 23 notes and highligths due
+
+	|Ch. 23 notes and highligths due
 * Tues., April 8: Black Holes (Ch. [24](https://openstax.org/books/astronomy-2e/pages/12-introduction))
 * Thur., April 10: The Milky Way: not in equilibrium (Ch. [25](https://openstax.org/books/astronomy-2e/pages/13-introduction))
 
