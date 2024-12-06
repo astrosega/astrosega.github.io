@@ -29,6 +29,10 @@
 <lastmod>2025-01-07T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/teaching/2025-spring-teaching-2</loc>
+<lastmod>2025-01-07T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -82,6 +86,10 @@
 <url>
 <loc>http://localhost:4000/files/CV.pdf</loc>
 <lastmod>2024-12-03T14:43:10+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/complex_numbers.pdf</loc>
+<lastmod>2012-05-07T22:31:14+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/fenomenologia_PORTADA.pdf</loc>
