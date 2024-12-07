@@ -112,6 +112,7 @@ Below is a detailed schedule that will list the material covered in each class s
   |Extra credit reading: [The Minus First Law of Thermodynamics](astrosega.github.io/files/minusfirst.pdf)
 * Tues., April 15: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 * Thur., April 17: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
+* Fri., April 18: No Classes
 * Tues., April 22: Entropy and Irreversibility (Ch. [4b](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
 
   |Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/)
