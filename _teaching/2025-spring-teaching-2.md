@@ -108,7 +108,7 @@ Below is a detailed schedule that will list the material covered in each class s
   |[Homework 6](astrosega.github.io/files/2049Chw6.pdf) (Ch 11-14) assigned, due Tues., April 25.
 * Thur., April 10: More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
-	|Extra credit reading: [Action at a Distance](files/action-distance.pdf)
+	|Extra credit reading: [Action at a Distance](../files/action-distance.pdf)
 * Fri., April 11: **Mini-exam Chp. 1v2** \| More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
   
 * Tues., April 15: **Problem-solving session** \| Ampere, Faraday, and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction), [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
