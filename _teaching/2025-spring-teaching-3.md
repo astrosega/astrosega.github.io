@@ -96,7 +96,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., April 17: Galaxies II (Ch. [28](https://openstax.org/books/astronomy-2e/pages/11-introduction))
 * Thur., April 24: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/15-introduction)
 
-   Ch. 29 notes and highligths due | Homework 7 due.|[Worldwide Telescope Worksheet 4](astrosega.github.io/files/wwt2.pdf): Plank and the Cosmic Microwave Background
+   Ch. 29 notes and highligths due | Homework 7 due.|[Worldwide Telescope Worksheet 3](astrosega.github.io/files/wwt3.pdf): How Hubble discovered the Universe is expanding
 
 
 **[Final Exam Week: April 28–May 2.]**
