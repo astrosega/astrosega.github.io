@@ -94,7 +94,7 @@ Below is a detailed schedule that will list the material covered in each class s
 	Homework 6 due. |[Homework 7](astrosega.github.io/files/astrohw1.pdf) (Chp. 26-28 ) assigned, due Thur., April 24
 * Tues., April 15: Galaxies I (Ch. [26](https://openstax.org/books/astronomy-2e/pages/11-introduction))
 * Thur., April 17: Galaxies II (Ch. [28](https://openstax.org/books/astronomy-2e/pages/11-introduction))
-* Thur., April 24: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/15-introduction)
+* Thur., April 24: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/15-introduction))
 
    Ch. 29 notes and highligths due | Homework 7 due.|[Worldwide Telescope Worksheet 3](astrosega.github.io/files/wwt3.pdf): How Hubble discovered the Universe is expanding
 
