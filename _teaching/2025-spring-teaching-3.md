@@ -68,15 +68,15 @@ Below is a detailed schedule that will list the material covered in each class s
   |Ch. 12 notes and highligths due|[Stellarium Worksheet 3](astrosega.github.io/files/stellarium3.pdf): Moons of Jupiter
 * Thur., February 27: Comets, Asteroids, and Meteorites (Chp. [13](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
 
-  Homework 3 due. |[Homework 4](astrosega.github.io/files/astrohw4.pdf) (Chp. 11,12,14 ) assigned, due Thur., March 13
+  Homework 3 due. |[Homework 4](astrosega.github.io/files/astrohw4.pdf) (Chp. 13-14) assigned, due Thur., March 13
 
 **[March 3-7: Spring Break, no classes.]**
   
 * Tues., March 11: Here comes the Sun (Chp. [15](https://openstax.org/books/astronomy-2e/pages/9-thinking-ahead))
 * Thur., March 13: The Sun has all the power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/10-thinking-ahead))
 
-     Ch. 16 notes and highligths due | Homework 4 due. |[Homework 5](astrosega.github.io/files/astrohw5.pdf) (Chp. 15-18 ) assigned, due Thur., March 20
-* Tues., March 18: Distance Ladder (Ch. [18](https://openstax.org/books/university-physics-volume-1/pages/10-thinking-ahead))
+     Ch. 16 notes and highligths due | Homework 4 due. |[Homework 5](astrosega.github.io/files/astrohw5.pdf) (Chp. 15,16,18 ) assigned, due Thur., March 20
+* Tues., March 18: Stars (Ch. [18](https://openstax.org/books/university-physics-volume-1/pages/10-thinking-ahead))
 * Thur., March 20: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/10-thinking-ahead))
 
      Homework 5 due.|[Worldwide Telescope Worksheet 2](astrosega.github.io/files/wwt2.pdf): Distances in the Milky Way 
