@@ -50,7 +50,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., January 28:  Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
 * Thur., January 30: Radiationand Spectra (Chp. [5](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
 
-  Homework 1 due. |[Homework 2](astrosega.github.io/files/astrohw2.pdf) (Chp. 5) assigned, due Thur., February 18.
+  Homework 1 due. |[Homework 2](astrosega.github.io/files/astrohw2.pdf) (Chp. 5-6) assigned, due Thur., February 18.
 * Tues., February 4: Astronomical Instruments (Chp. [6](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
 * Thur., February 6: Solar System (Chp. [7](https://openstax.org/books/astronomy-2e/pages/7-thinking-ahead))
 
