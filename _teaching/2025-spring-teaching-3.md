@@ -75,14 +75,14 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., March 11: Here comes the Sun (Chp. [15](https://openstax.org/books/astronomy-2e/pages/9-thinking-ahead))
 * Thur., March 13: The Sun has all the power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/10-thinking-ahead))
 
-     Ch. 16 notes and highligths due | Homework 4 due. |[Homework 5](astrosega.github.io/files/astrohw5.pdf) (Chp. 15,16,18 ) assigned, due Thur., March 20
+     Ch. 16 notes and highligths due | Homework 4 due. |[Homework 5](astrosega.github.io/files/astrohw5.pdf) (Chp. 15-18,20-22 ) assigned, due Thur., March 20
 * Tues., March 18: Stars (Ch. [18](https://openstax.org/books/university-physics-volume-1/pages/10-thinking-ahead))
 * Thur., March 20: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/10-thinking-ahead))
 
      Homework 5 due.|[Worldwide Telescope Worksheet 2](astrosega.github.io/files/wwt2.pdf): Distances in the Milky Way 
 * Tues., March 25: Gas, and Dust (Ch. [20](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))
  
-     |[Homework 6](astrosega.github.io/files/astrohw6.pdf) (Chp. 19-24 ) assigned, due Thur., April 10
+     |[Homework 6](astrosega.github.io/files/astrohw6.pdf) (Chp. 19) assigned, due Thur., April 10
 * Thur., March 27: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))
 * Tues., April 1: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
 * Thur., April 3: The Death of a Star (Ch. [23](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
