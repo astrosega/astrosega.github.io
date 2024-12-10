@@ -61,7 +61,7 @@ Below is a detailed schedule that will list the material covered in each class s
 	Ch. 19 notes and highligths due|[Stellarium Worksheet 2](astrosega.github.io/files/stellarium1.pdf): Retrograde Motion
 * Tues., February 18: Venus and Mars (Chp. [10](https://openstax.org/books/astronomy-2e/pages/10-thinking-ahead))
   
-  |Homework 2 due. |[Homework 3](astrosega.github.io/files/astrohw3.pdf) (Chp. 8-10 ) assigned, due Thur., February 27
+  |Homework 2 due. |[Homework 3](astrosega.github.io/files/astrohw3.pdf) (Chp. 8-11 ) assigned, due Thur., February 27
 * Thur., February 20: The Giant Planets (Chp. [11](https://openstax.org/books/astronomy-2e/pages/8-thinking-ahead))
 * Tues., February 25: Ring, Moons, and Pluto (Chp. [12](https://openstax.org/books/astronomy-2e/pages/9-thinking-ahead))
   
