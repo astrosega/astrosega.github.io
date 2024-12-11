@@ -107,7 +107,7 @@ Below is a detailed schedule that will list the material covered in each class s
   
   |[Homework 6](../files/2048Chw4.pdf) (Chp.2b, 3b, ) assigned, due Tues., April 25.
 * Thur., April 10: Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
-* Fri., April 11: **Mini-exam Chp. 1v2** \| Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
+* Fri., April 11: **Mini-exam Chp. 1b** \| Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
   
   |Extra credit reading: [The Minus First Law of Thermodynamics](../files/minusfirst.pdf)
 * Tues., April 15: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
