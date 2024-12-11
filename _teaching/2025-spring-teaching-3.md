@@ -79,7 +79,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., March 18: Stars (Ch. [18](https://openstax.org/books/university-physics-volume-1/pages/10-thinking-ahead))
 * Thur., March 20: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/10-thinking-ahead))
 
-     Homework 5 due.|[Worldwide Telescope Worksheet 2](astrosega.github.io/files/wwt2.pdf): Distances in the Milky Way 
+     |Homework 5 due.
 * Tues., March 25: Gas, and Dust (Ch. [20](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))
  
      |[Homework 6](astrosega.github.io/files/astrohw6.pdf) (Chp. 19) assigned, due Thur., April 10
@@ -87,7 +87,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., April 1: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
 * Thur., April 3: The Death of a Star (Ch. [23](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
 
-	|Ch. 23 notes and highligths due
+  Ch. 23 notes and highligths due | |[Worldwide Telescope Worksheet 2](astrosega.github.io/files/wwt2.pdf): Life and Death of a Star 
 * Tues., April 8: Black Holes (Ch. [24](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
 * Thur., April 10: The Milky Way: not in equilibrium (Ch. [25](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead))
 
