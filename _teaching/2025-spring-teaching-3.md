@@ -86,7 +86,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., March 27: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/21-thinking-ahead))
 * Tues., April 1: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/22-thinking-ahead))
 
-  Ch. 22 notes and highligths due |[Stellarium Worksheet 2](../files/Stellarium3.pdf): The H-R diagram
+  Ch. 22 notes and highligths due |[Stellarium Worksheet 3](../files/Stellarium3.pdf): The H-R diagram
 * Thur., April 3: The Death of a Star (Ch. [23](https://openstax.org/books/astronomy-2e/pages/23-thinking-ahead))
 
   
