@@ -54,7 +54,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., February 4: Astronomical Instruments (Chp. [6](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
 * Thur., February 6: Solar System (Chp. [7](https://openstax.org/books/astronomy-2e/pages/7-thinking-ahead))
 
-	Ch. 7 notes and highligths due|[Worldwide Telescope Worksheet 1](../files/wwt1.pdf): Distances in the Solar System
+	Ch. 7 notes and highligths due|[Worldwide Telescope Worksheet 1](../files/wwt1.pdf): Introduction to WWT
 * Tues., February 11: Earth (Chp. [8](https://openstax.org/books/astronomy-2e/pages/8-thinking-ahead))
 * Thur., February 13: Moon and Mercury (Chp. [9](https://openstax.org/books/astronomy-2e/pages/9-thinking-ahead))
 	
@@ -65,7 +65,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., February 20: The Giant Planets (Chp. [11](https://openstax.org/books/astronomy-2e/pages/8-thinking-ahead))
 * Tues., February 25: Ring, Moons, and Pluto (Chp. [12](https://openstax.org/books/astronomy-2e/pages/9-thinking-ahead))
   
-  |Ch. 12 notes and highligths due|[Stellarium Worksheet 3](../files/stellarium3.pdf): Moons of Jupiter
+  |Ch. 12 notes and highligths due
 * Thur., February 27: Comets, Asteroids, and Meteorites (Chp. [13](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
 
   Homework 3 due. |[Homework 4](../files/astrohw4.pdf) (Chp. 13-14) assigned, due Thur., March 13
@@ -87,7 +87,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., April 1: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
 * Thur., April 3: The Death of a Star (Ch. [23](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
 
-  Ch. 23 notes and highligths due | |[Worldwide Telescope Worksheet 2](../files/wwt2.pdf): Life and Death of a Star 
+  Ch. 23 notes and highligths due | |[Worldwide Telescope Worksheet 2](../files/wwt2.pdf): Stellar Remnants
 * Tues., April 8: Black Holes (Ch. [24](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
 * Thur., April 10: The Milky Way: not in equilibrium (Ch. [25](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead))
 
