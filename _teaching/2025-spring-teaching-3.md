@@ -25,7 +25,7 @@ There's a lot more information about this course -- including details about the 
 
 Course Material
 --------------
-The primary "required readings" are in the OpenStax book [University Physics 1](https://openstax.org/details/books/astronomy-2e). We will also be using [Stellarium](https://stellarium-web.org/), given the difficulty to see the nigth sky in Panama City. Likewise, for a stand-in Planetarium we will be using [The World Wide Telescope](https://www.worldwidetelescope.org/) 
+The primary "required readings" are in the OpenStax book [Astronomy-2e](https://openstax.org/details/books/astronomy-2e). We will also be using [Stellarium](https://stellarium-web.org/), given the difficulty to see the nigth sky in Panama City. Likewise, for a stand-in Planetarium we will be using [The World Wide Telescope](https://www.worldwidetelescope.org/) 
 
 Here are some additional resources:
 
