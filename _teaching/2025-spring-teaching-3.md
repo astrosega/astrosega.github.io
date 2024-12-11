@@ -35,16 +35,16 @@ Here are some additional resources:
 
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts, and [Stellarium](https://stellarium-web.org/) and [World Wide Telescope](https://www.worldwidetelescope.org/) worksheets, and various course deadlines.
 
-* Tues., January 7: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/details/books/astronomy-2e/pages/1-thinking-ahead))
+* Tues., January 7: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/details/books/astronomy-2e/pages/1-introduction))
 
   |Handout: [syllabus](../files/2048C.pdf)
 * Thur., January 9: No Classes
-* Tues., January 14: Human's relation to the sky (Chp. [2](https://openstax.org/details/books/astronomy-2e/pages/2-thinking-ahead))
-* Thur., January 16: Orbits and Gravity (Chp. [3](https://openstax.org/details/books/astronomy-2e/pages/3-thinking-ahead))
+* Tues., January 14: Human's relation to the sky (Chp. [2](https://openstax.org/books/astronomy-2e/pages/2-thinking-ahead))
+* Thur., January 16: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead))
 
   |[Homework 1](../files/astrohw1.pdf) (Chp. 3-4 ) assigned, due Thur., January 30.
-* Tues., January 21: Orbits and Gravity (Chp. [3](https://openstax.org/details/books/astronomy-2e/pages/3-thinking-ahead))
-* Thur., January 23: Earth, Moon, and Sky (Chp. [4](https://openstax.org/details/books/astronomy-2e/pages/4-thinking-ahead))
+* Tues., January 21: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead))
+* Thur., January 23: Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead))
   
    Ch. 4 notes and highligths due|[Stellarium Worksheet 1](../files/Stellarium1.pdf): Introduction to Stellarium
 * Tues., January 28:  Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
@@ -86,7 +86,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., March 27: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))
 * Tues., April 1: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
 
-  Ch. 22 notes and highligths due |[Stellarium Worksheet 2](../files/Stellarium3.pdf): Retrograde Motion
+  Ch. 22 notes and highligths due |[Stellarium Worksheet 2](../files/Stellarium3.pdf): The H-R diagram
 * Thur., April 3: The Death of a Star (Ch. [23](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
 
   
