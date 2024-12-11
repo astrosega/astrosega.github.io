@@ -46,7 +46,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., January 21: Orbits and Gravity (Chp. [3](https://openstax.org/details/books/astronomy-2e/pages/3-thinking-ahead))
 * Thur., January 23: Earth, Moon, and Sky (Chp. [4](https://openstax.org/details/books/astronomy-2e/pages/4-thinking-ahead))
   
-   Ch. 4 notes and highligths due|[Stellarium Worksheet 1](../files/stellarium1.pdf): Introduction to Stellarium
+   Ch. 4 notes and highligths due|[Stellarium Worksheet 1](../files/Stellarium1.pdf): Introduction to Stellarium
 * Tues., January 28:  Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
 * Thur., January 30: Radiationand Spectra (Chp. [5](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
 
@@ -58,7 +58,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., February 11: Earth (Chp. [8](https://openstax.org/books/astronomy-2e/pages/8-thinking-ahead))
 * Thur., February 13: Moon and Mercury (Chp. [9](https://openstax.org/books/astronomy-2e/pages/9-thinking-ahead))
 	
-	Ch. 19 notes and highligths due|[Stellarium Worksheet 2](../files/stellarium1.pdf): Retrograde Motion
+	Ch. 19 notes and highligths due|[Stellarium Worksheet 2](../files/Stellarium2.pdf): Retrograde Motion
 * Tues., February 18: Venus and Mars (Chp. [10](https://openstax.org/books/astronomy-2e/pages/10-thinking-ahead))
   
   |Homework 2 due. |[Homework 3](../files/astrohw3.pdf) (Chp. 8-11 ) assigned, due Thur., February 27
@@ -85,10 +85,14 @@ Below is a detailed schedule that will list the material covered in each class s
      |[Homework 6](../files/astrohw6.pdf) (Chp. 19) assigned, due Thur., April 10
 * Thur., March 27: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))
 * Tues., April 1: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
+
+  Ch. 22 notes and highligths due | |[Stellarium Worksheet 2](../files/Stellarium3.pdf): Retrograde Motion
 * Thur., April 3: The Death of a Star (Ch. [23](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
 
-  Ch. 23 notes and highligths due | |[Worldwide Telescope Worksheet 2](../files/wwt2.pdf): Stellar Remnants
+  
 * Tues., April 8: Black Holes (Ch. [24](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
+
+  Ch. 24 | |[Worldwide Telescope Worksheet 2](../files/wwt2.pdf): Stellar Remnants
 * Thur., April 10: The Milky Way: not in equilibrium (Ch. [25](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead))
 
 	Homework 6 due. |[Homework 7](../files/astrohw7.pdf) (Chp. 26-28 ) assigned, due Thur., April 24
