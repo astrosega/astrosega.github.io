@@ -35,7 +35,7 @@ Here are some additional resources:
 
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts, and [Stellarium](https://stellarium-web.org/) and [World Wide Telescope](https://www.worldwidetelescope.org/) worksheets, and various course deadlines.
 
-* Tues., January 7: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/details/books/astronomy-2e/pages/1-introduction))
+* Tues., January 7: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction))
 
   |Handout: [syllabus](../files/2048C.pdf)
 * Thur., January 9: No Classes
