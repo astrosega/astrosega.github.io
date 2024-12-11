@@ -47,8 +47,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., January 23: Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead))
   
    Ch. 4 notes and highligths due|[Stellarium Worksheet 1](../files/Stellarium1.pdf): Introduction to Stellarium
-* Tues., January 28:  Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
-* Thur., January 30: Radiationand Spectra (Chp. [5](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
+* Tues., January 28:  Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead))
+* Thur., January 30: Radiationand Spectra (Chp. [5](https://openstax.org/books/astronomy-2e/pages/5-thinking-ahead))
 
   Homework 1 due. |[Homework 2](../files/astrohw2.pdf) (Chp. 5-6) assigned, due Thur., February 18.
 * Tues., February 4: Astronomical Instruments (Chp. [6](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
@@ -62,8 +62,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., February 18: Venus and Mars (Chp. [10](https://openstax.org/books/astronomy-2e/pages/10-thinking-ahead))
   
   |Homework 2 due. |[Homework 3](../files/astrohw3.pdf) (Chp. 8-11 ) assigned, due Thur., February 27
-* Thur., February 20: The Giant Planets (Chp. [11](https://openstax.org/books/astronomy-2e/pages/8-thinking-ahead))
-* Tues., February 25: Ring, Moons, and Pluto (Chp. [12](https://openstax.org/books/astronomy-2e/pages/9-thinking-ahead))
+* Thur., February 20: The Giant Planets (Chp. [11](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))
+* Tues., February 25: Ring, Moons, and Pluto (Chp. [12](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
   
   |Ch. 12 notes and highligths due
 * Thur., February 27: Comets, Asteroids, and Meteorites (Chp. [13](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
@@ -72,33 +72,33 @@ Below is a detailed schedule that will list the material covered in each class s
 
 **[March 3-7: Spring Break, no classes.]**
   
-* Tues., March 11: Here comes the Sun (Chp. [15](https://openstax.org/books/astronomy-2e/pages/9-thinking-ahead))
-* Thur., March 13: The Sun has all the power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/10-thinking-ahead))
+* Tues., March 11: Here comes the Sun (Chp. [15](https://openstax.org/books/astronomy-2e/pages/15-thinking-ahead))
+* Thur., March 13: The Sun has all the power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/16-thinking-ahead))
 
      Ch. 16 notes and highligths due | Homework 4 due. |[Homework 5](../files/astrohw5.pdf) (Chp. 15-18,20-22 ) assigned, due Thur., March 20
-* Tues., March 18: Stars (Ch. [18](https://openstax.org/books/university-physics-volume-1/pages/10-thinking-ahead))
-* Thur., March 20: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/10-thinking-ahead))
+* Tues., March 18: Stars (Ch. [18](https://openstax.org/books/university-physics-volume-1/pages/18-thinking-ahead))
+* Thur., March 20: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/19-thinking-ahead))
 
      |Homework 5 due.
-* Tues., March 25: Gas, and Dust (Ch. [20](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))
+* Tues., March 25: Gas, and Dust (Ch. [20](https://openstax.org/books/astronomy-2e/pages/20-thinking-ahead))
  
      |[Homework 6](../files/astrohw6.pdf) (Chp. 19) assigned, due Thur., April 10
-* Thur., March 27: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))
-* Tues., April 1: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
+* Thur., March 27: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/21-thinking-ahead))
+* Tues., April 1: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/22-thinking-ahead))
 
   Ch. 22 notes and highligths due |[Stellarium Worksheet 2](../files/Stellarium3.pdf): The H-R diagram
-* Thur., April 3: The Death of a Star (Ch. [23](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
+* Thur., April 3: The Death of a Star (Ch. [23](https://openstax.org/books/astronomy-2e/pages/23-thinking-ahead))
 
   
-* Tues., April 8: Black Holes (Ch. [24](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
+* Tues., April 8: Black Holes (Ch. [24](https://openstax.org/books/astronomy-2e/pages/24-thinking-ahead))
 
   Ch. 24 |[Worldwide Telescope Worksheet 2](../files/wwt2.pdf): Stellar Remnants
-* Thur., April 10: The Milky Way: not in equilibrium (Ch. [25](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead))
+* Thur., April 10: The Milky Way: not in equilibrium (Ch. [25](https://openstax.org/books/astronomy-2e/pages/25-thinking-ahead))
 
 	Homework 6 due. |[Homework 7](../files/astrohw7.pdf) (Chp. 26-28 ) assigned, due Thur., April 24
-* Tues., April 15: Galaxies I (Ch. [26](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))
-* Thur., April 17: Galaxies II (Ch. [28](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))
-* Thur., April 24: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/15-thinking-ahead))
+* Tues., April 15: Galaxies I (Ch. [26](https://openstax.org/books/astronomy-2e/pages/26-thinking-ahead))
+* Thur., April 17: Galaxies II (Ch. [28](https://openstax.org/books/astronomy-2e/pages/28-thinking-ahead))
+* Thur., April 24: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/39-thinking-ahead))
 
    Ch. 29 notes and highligths due | Homework 7 due.|[Worldwide Telescope Worksheet 3](../files/wwt3.pdf): How Hubble discovered the Universe is expanding
 
