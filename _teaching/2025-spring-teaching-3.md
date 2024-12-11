@@ -46,7 +46,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., January 21: Orbits and Gravity (Chp. [3](https://openstax.org/details/books/astronomy-2e/pages/3-thinking-ahead))
 * Thur., January 23: Earth, Moon, and Sky (Chp. [4](https://openstax.org/details/books/astronomy-2e/pages/4-thinking-ahead))
   
-   Ch. 4 notes and highligths due|[Stellarium Worksheet 1](../files/stellarium1.pdf): Phases of the Moon
+   Ch. 4 notes and highligths due|[Stellarium Worksheet 1](../files/stellarium1.pdf): Introduction to Stellarium
 * Tues., January 28:  Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
 * Thur., January 30: Radiationand Spectra (Chp. [5](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
 
