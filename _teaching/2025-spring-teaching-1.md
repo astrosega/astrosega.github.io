@@ -116,7 +116,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., April 22: Entropy and Irreversibility (Ch. [4b](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
 
   |Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/)
-* Thur., April 24: Final Review
+* Thur., April 24: Entropy and Irreversibility (Ch. [4b](https://openstax.org/books/university-physics-volume-2/pages/4-introduction)) \| Final Review
 * Fri., April 25: Final Review
 
 	Homework 6 due.|[Lab 6](../files/2048Clab6.pdf): Thermodynamics
