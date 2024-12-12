@@ -105,9 +105,9 @@ Below is a detailed schedule that will list the material covered in each class s
   Homework 5 due | [Lab 5](../files/2048Clab5.pdf): Standing Wave experiment
 * Tues., April 8: Heat (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/1-introduction))
   
-  |[Homework 6](../files/2048Chw4.pdf) (Chp.2b, 3b, 4b) assigned, due Tues., April 25.
+  |[Homework 6](../files/2048Chw4.pdf) (Chp.1b, 2b, 3b, 4b) assigned, due Tues., April 25.
 * Thur., April 10: Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
-* Fri., April 11: **Quiz Chp. 1b** \| Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
+* Fri., April 11:  Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
   
   |Extra credit reading: [The Minus First Law of Thermodynamics](../files/minusfirst.pdf)
 * Tues., April 15: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
