@@ -73,7 +73,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., February 20: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Fri., February 21: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
-  Homework 3 due | [Homework 4](../files/2048Chw4.pdf) (Math methods) assigned, due Tues., March 11.
+  Homework 3 due | [Homework 4](../files/2048Chw4.pdf) (Math) assigned, due Tues., March 11.
 * Tues., February 25: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Thur., February 27: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Fri., February 28: **Quiz Chp. 12** \| Mathematical methods intermission.
