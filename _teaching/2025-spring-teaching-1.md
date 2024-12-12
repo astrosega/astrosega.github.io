@@ -83,19 +83,19 @@ Below is a detailed schedule that will list the material covered in each class s
 
 **[March 3-7: Spring Break, no classes.]**
   
-* Tues., March 11: Mathematical methods intermission. \| Simple Harmonic Motion (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction)) 
-* Thur., March 13: Simple Harmonic Motion (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
-* Fri., March 14: Simple Harmonic Motion (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+* Tues., March 11: Mathematical methods intermission. \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction)) 
+* Thur., March 13: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Fri., March 14: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
   |[Lab 3](../files/2048Clab3.pdf): the definition of mass (springs)
-* Tues., March 18: Simple Harmonic Motion (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
-* Thur., March 20: Waves (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Fri.,  March 21: **Quiz Chp. 14** \| Waves (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction)).
+* Tues., March 18: Simple Harmonic Motion (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+* Thur., March 20: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Fri.,  March 21: **Quiz Chp. 16** \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/15-introduction)).
 
-  Homework 4 due. | [Homework 5](../files/2048Chw4.pdf) (Chp. 17) assigned, due Tues., April 4.
-* Tues., March 25: Waves (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Thur., March 27: Fluids (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
-* Fri., March 28: Fluids (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+  Homework 4 due. | [Homework 5](../files/2048Chw4.pdf) (Chp. 12 & 14) assigned, due Tues., April 4.
+* Tues., March 25: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Thur., March 27: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Fri., March 28: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
   
    |[Lab 4](../files/2048Clab4.pdf): Archimides
 * Tues., April 1: Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
@@ -105,7 +105,7 @@ Below is a detailed schedule that will list the material covered in each class s
   Homework 5 due | [Lab 5](../files/2048Clab5.pdf): Standing Wave experiment
 * Tues., April 8: Heat (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/1-introduction))
   
-  |[Homework 6](../files/2048Chw4.pdf) (Chp.2b, 3b, ) assigned, due Tues., April 25.
+  |[Homework 6](../files/2048Chw4.pdf) (Chp.2b, 3b, 4b) assigned, due Tues., April 25.
 * Thur., April 10: Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Fri., April 11: **Quiz Chp. 1b** \| Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
   
