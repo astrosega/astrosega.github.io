@@ -92,7 +92,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., March 20: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 * Fri.,  March 21: **Mini-exam Chp. 10** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 
-  | [Homework 5](../files/2048Chw4.pdf) (Chp. 11) assigned, due Tues., April 4.
+  | [Homework 5](../files/2048Chw4.pdf) (Chp. 10, 11) assigned, due Tues., April 4.
 * Tues., March 25: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Thur., March 27: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Fri., March 28: Magnetism I (Ampere's Law) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
