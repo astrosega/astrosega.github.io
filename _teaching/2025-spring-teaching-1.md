@@ -89,6 +89,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |[Lab 3](../files/2048Clab3.pdf): the definition of mass (springs)
 * Tues., March 18: Simple Harmonic Motion (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+* |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
 * Thur., March 20: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Fri.,  March 21: **Quiz Chp. 16** \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/15-introduction)).
 
