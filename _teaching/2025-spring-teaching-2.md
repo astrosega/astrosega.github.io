@@ -39,7 +39,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Tues., January 7: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
-  Handout: [syllabus](../files/2048C.pdf) | [Homework 1](../files/2049Chw1.pdf) (Chp. 2) assigned, due Fri., January 17.
+  Handout: [syllabus](../files/2048C.pdf) | [Homework 1](../files/2049Chw1.pdf) (Chp. 5 \| Electrostatics) assigned, due Fri., January 17.
 * Thur., January 9: No Clases
 * Fri., January 10: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
@@ -47,8 +47,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., January 14: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Thur., January 16: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
-  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 7 ) assigned, due Fri., January 31.
-* Fri., January 17: **Mini-exam Chp. 6** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 ) assigned, due Fri., January 31.
+* Fri., January 17: **Mini-exam Chp. 5** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Tues., January 21: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Thur., January 23: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Fri., January 24: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
