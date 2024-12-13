@@ -25,7 +25,7 @@ There's a lot more information about this course -- including details about the 
 
 Course Material
 --------------
-The primary "required readings" are in the OpenStax book [University Physics 1](https://openstax.org/details/books/university-physics-volume-2). 
+The primary "required readings" are in the OpenStax book [University Physics 2](https://openstax.org/details/books/university-physics-volume-2). 
 
 Here are some additional resources:
 
