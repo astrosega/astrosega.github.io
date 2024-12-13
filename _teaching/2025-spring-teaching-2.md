@@ -39,7 +39,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Tues., January 7: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
-  Handout: [syllabus](../files/2048C.pdf) | [Homework 1](../files/2049Chw1.pdf) (Chp. 5 \| Electrostatics) assigned, due Fri., January 17.
+  Handout: [syllabus](../files/2048C.pdf) | [Homework 1](../files/2049Chw1.pdf) (Chp. 5-Electrostatics) assigned, due Fri., January 17.
 * Thur., January 9: No Clases
 * Fri., January 10: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
