@@ -91,7 +91,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., March 18: Simple Harmonic Motion (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 * |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
 * Thur., March 20: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Fri.,  March 21: **Quiz Chp. 16** \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/15-introduction)).
+* Fri.,  March 21: **Quiz Chp. 15** \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/15-introduction)).
 
   Homework 4 due. | [Homework 5](../files/2048Chw4.pdf) (Chp. 12 & 14) assigned, due Tues., April 4.
 * Tues., March 25: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
@@ -101,9 +101,9 @@ Below is a detailed schedule that will list the material covered in each class s
    |[Lab 4](../files/2048Clab4.pdf): Archimides
 * Tues., April 1: Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Thur., April 3: Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Fri., April 4: **Quiz Chp. 15 & 16 thus far** \|  Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Fri., April 4: **Quiz Chp. 14 & 16 thus far** \|  Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
-  Homework 5 due | [Lab 5](../files/2048Clab5.pdf): Sound Wave Experiment
+  Homework 5 due | [Lab 5](../files/2048Clab5.pdf): Speed of sound experiment
 * Tues., April 8: Heat (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/1-introduction))
   
   |[Homework 6](../files/2048Chw4.pdf) (Chp.1b, 2b, 3b, 4b) assigned, due Tues., April 25.
