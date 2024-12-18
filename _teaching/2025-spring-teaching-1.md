@@ -25,7 +25,7 @@ There's a lot more information about this course -- including details about the 
 
 Course Material
 --------------
-The primary "required readings" are in the OpenStax book [University Physics 1](https://openstax.org/details/books/university-physics-volume-1) and the first section (thermodynamics) of [University Physics 2](https://openstax.org/details/books/university-physics-volume-2). 
+The primary "required readings" are in the OpenStax book [University Physics 1](https://openstax.org/details/books/university-physics-volume-1) and the first section (thermodynamics) of [University Physics 2](https://openstax.org/details/books/university-physics-volume-2). For one of our experiments in this class (Lab 5), you will be using your phone, and the app phyphox, which you can download [here](https://phyphox.org).
 
 Here are some additional resources:
 
