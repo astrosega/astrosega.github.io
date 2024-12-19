@@ -120,7 +120,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., April 24: Final Review
 * Fri., April 25: Final Review
 
-	Homework 6 due.|[Lab 6](../files/2048Clab6.pdf): Thermodynamics
+	Homework 6 due.|[Lab 6](../files/2048Clab6.pdf): Thermal Expansion
 
 
 
