@@ -103,7 +103,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., April 3: Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Fri., April 4: **Quiz Chp. 14 & 16 thus far** \|  Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
-  Homework 5 due | [Lab 5](../files/2048Clab5.pdf): Speed of sound experiment
+  Homework 5 due | [Lab 5](../files/2048Clab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch (17.2)[https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound] and watch (this video)[https://phyphox.org/experiment/speed-of-sound/]
 * Tues., April 8: Heat (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/1-introduction))
   
   |[Homework 6](../files/2048Chw4.pdf) (Chp.1b, 2b, 3b, 4b) assigned, due Tues., April 25.
