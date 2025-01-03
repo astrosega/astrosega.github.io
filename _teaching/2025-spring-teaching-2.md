@@ -48,7 +48,7 @@ Below is a detailed schedule that will list the material covered in each class s
   Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6 ) assigned, due Fri., January 31.
 * Fri., January 17: **Quiz Chp. 5** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Mon., January 20: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Wed., January 22: Gauss Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Wed., January 22: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Fri., January 24: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
   
   |[Lab 1](../files/2049Clab1.pdf): Electrostatic Generator
