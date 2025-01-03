@@ -61,7 +61,7 @@ Below is a detailed schedule that will list the material covered in each class s
   
   |Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/)
 * Wed., February 5: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
-* Fri., February 7: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
+* Fri., February 7: **Problem-solving session** \|The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Mon., February 10: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Wed., February 12: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Fri., February 14: **Quiz Chp. 7**  \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
