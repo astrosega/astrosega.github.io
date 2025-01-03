@@ -12,9 +12,9 @@ Physics Studio A
 
 * Instructor:	Prof. Daniel D. Sega ([email](mailto:dsega@fsu.edu))
 * Instructor's Office:  	
-* Course Times: Spring 2025, Tue./Thu./Fri., 9:30-12:00
-* Location:	Duane Physics, Room G1B20
-* Office Hours:	Duane Physics, D111: Tue./Thu. 12:15-11:45
+* Course Times: Spring 2025, Tue./Thu./Fri., 9:30 am-12:00 m
+* Location:	3rd Floor, Room 309
+* Office Hours:	2nd Floor, Faculty Wing or Room 309: M to F 12:15-12:45 pm
 * Syllabus:	See the most [up-to-date](../files/2048C.pdf) PDF version.
 
 Summary
@@ -88,20 +88,20 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., March 14: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
   |[Lab 3](../files/2048Clab3.pdf): the definition of mass (springs)
-* Tues., March 18: Simple Harmonic Motion (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+* Tues., March 18: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
-* Thur., March 20: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Fri.,  March 21: **Quiz Chp. 15** \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/15-introduction)).
+* Thur., March 20: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Fri.,  March 21: **Quiz Chp. 15** \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction)).
 
   Homework 4 due. | [Homework 5](../files/2048Chw4.pdf) (Chp. 12 & 14) assigned, due Tues., April 4.
-* Tues., March 25: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Thur., March 27: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
-* Fri., March 28: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Tues., March 25: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Thur., March 27: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+* Fri., March 28: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
   
    |[Lab 4](../files/2048Clab4.pdf): Archimides \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
-* Tues., April 1: Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Thur., April 3: Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Fri., April 4: **Quiz Chp. 14 & 16 thus far** \|  Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Tues., April 1: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Thur., April 3: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Fri., April 4: **Quiz Chp. 14 & 17 thus far** \|  Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
   Homework 5 due | [Lab 5](../files/2048Clab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch (17.2)[https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound] and watch (this video)[https://phyphox.org/experiment/speed-of-sound/]
 * Tues., April 8: Heat (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/1-introduction))
