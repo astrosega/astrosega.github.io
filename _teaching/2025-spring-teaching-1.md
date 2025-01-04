@@ -11,7 +11,7 @@ location: "Panama City, Panama"
 Physics Studio A
 
 * Instructor:	Prof. Daniel D. Sega ([email](mailto:dsega@fsu.edu))
-* Instructor's Office:  	
+* Instructor's Office: 2nd Floor, Faculty Wing	
 * Course Times: Spring 2025, Tue./Thu./Fri., 9:30 am-12:00 m
 * Location:	3rd Floor, Room 309
 * Office Hours:	2nd Floor, Faculty Wing or Room 309: M to F 12:15-12:45 pm
