@@ -48,7 +48,7 @@ Below is a detailed schedule that will list the material covered in each class s
   
    Ch. 4 notes and highligths due|[Stellarium Worksheet 1](../files/Stellarium1.pdf): Introduction to Stellarium
 * Mon., January 27:  Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead))
-* Wed., January 29: Radiationand Spectra (Chp. [5](https://openstax.org/books/astronomy-2e/pages/5-thinking-ahead))
+* Wed., January 29: Radiation and Spectra (Chp. [5](https://openstax.org/books/astronomy-2e/pages/5-thinking-ahead))
 
   Homework 1 due. |[Homework 2](../files/astrohw2.pdf) (Chp. 5-6) assigned, due Wed., February 17.
 * Mon., February 3: Astronomical Instruments (Chp. [6](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
