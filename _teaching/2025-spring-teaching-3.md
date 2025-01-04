@@ -58,7 +58,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., February 10: Earth (Chp. [8](https://openstax.org/books/astronomy-2e/pages/8-thinking-ahead))
 * Wed., February 12: Moon and Mercury (Chp. [9](https://openstax.org/books/astronomy-2e/pages/9-thinking-ahead))
 	
-	Ch. 19 notes and highligths due|[Stellarium Worksheet 2](../files/Stellarium2.pdf): Retrograde Motion
+	Ch. 9 notes and highligths due|[Stellarium Worksheet 2](../files/Stellarium2.pdf): Retrograde Motion
 * Mon., February 17: Venus and Mars (Chp. [10](https://openstax.org/books/astronomy-2e/pages/10-thinking-ahead))
   
   |Homework 2 due. |[Homework 3](../files/astrohw3.pdf) (Chp. 8-11 ) assigned, due Wed., February 26
