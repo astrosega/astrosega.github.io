@@ -19,7 +19,7 @@ Physics Studio B
 
 Summary
 -----------
-In this course, engineering and science majors will learn about the electromagnetic phenomena and the motion under electromagnetic fields. They will learn the basics of electronics (circuits) and of how day-to-day electromechanic technology works. They will also learn about the nature of a classical fields and the mathematics behinf working with fields.
+In this course, engineering and science majors will learn about the electromagnetic phenomena and the motion under electromagnetic fields. They will learn the basics of electronics (circuits) and of how day-to-day electromechanic technology works. They will also learn about the nature of a classical fields and the mathematics behind working with fields.
 
 There's a lot more information about this course -- including details about the textbook, who should/shouldn't take this class, and how your grade is calculated -- in the [syllabus](../files/2049C.pdf).
 
@@ -31,6 +31,7 @@ Here are some additional resources:
 
 * An excellent, more abridged e-book for this course is available through the FSU Library [Fundamental of Physics II](https://fsu-flvc.primo.exlibrisgroup.com/discovery/openurl?institution=01FALSC_FSU&vid=01FALSC_FSU:Home&isbn=9780300243789&genre=book&eisbn=9780300252446&title=Fundamentals%20of%20Physics%20II&sid=jstor:jstor). Give it a try if the OpenStax book treatment of a topic does not click with you. Ramamurti Shankar writes in a very particular voice that can help some students.
 * This book is based on R. Shankar's [Open Course](https://oyc.yale.edu/physics/phys-201) (Yale University), which is available online. These lectures were, and still are, a helpful resource for me.
+* The phone app *phyphox* will be required in some of the labs, download [here](https://phyphox.org/download/).
 
 Schedule
 -------------
