@@ -98,9 +98,10 @@ Below is a detailed schedule that will list the material covered in each class s
 	Homework 6 due. |[Homework 7](../files/astrohw7.pdf) (Chp. 26-28 ) assigned, due Wed., April 23
 * Mon., April 14: Galaxies I (Ch. [26](https://openstax.org/books/astronomy-2e/pages/26-thinking-ahead))
 * Wed., April 16: Galaxies II (Ch. [28](https://openstax.org/books/astronomy-2e/pages/28-thinking-ahead))
-* Wed., April 23: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/39-thinking-ahead))
+* Mon., April 21: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/39-thinking-ahead))
 
    Ch. 29 notes and highligths due | Homework 7 due.|[Worldwide Telescope Worksheet 3](../files/wwt3.pdf): How Hubble discovered the Universe is expanding
+* Wed., April 23: Final Exam Review
 
 
 **[Final Exam Week: April 28–May 2.]**
