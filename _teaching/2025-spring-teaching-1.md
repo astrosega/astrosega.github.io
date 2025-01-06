@@ -40,7 +40,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Tues., January 7: The Structure of Mechanics. Motion in 1D. (Chp. [1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction) & [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction))
 
-  Handout: [syllabus](../files/2048C.pdf) | [Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Fri., January 17.
+  Handout: [syllabus](../files/PHY2048C.pdf) | [Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Fri., January 17.
 * Thur., January 9: No Classes
 * Fri., January 10: **Quiz Chp. 1 & 3** \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Tues., January 14: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
