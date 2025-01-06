@@ -15,13 +15,13 @@ Physics Studio B
 * Course Times: Spring 2025, Mon./Wed. 9:30-12:00m /Fri. 1 - 3:30pm,
 * Location:	Duane Physics, Room G1B20
 * Office Hours:	Duane Physics, D111: Tue./Thu. 12:15pm-11:45pm
-* Syllabus:	See the most [up-to-date](../files/2049C.pdf) PDF version.
+* Syllabus:	See the most [up-to-date](../files/PHY2049C.pdf) PDF version.
 
 Summary
 -----------
 In this course, engineering and science majors will learn about the electromagnetic phenomena and the motion under electromagnetic fields. They will learn the basics of electronics (circuits) and of how day-to-day electromechanic technology works. They will also learn about the nature of a classical fields and the mathematics behind working with fields.
 
-There's a lot more information about this course -- including details about the textbook, who should/shouldn't take this class, and how your grade is calculated -- in the [syllabus](../files/2049C.pdf).
+There's a lot more information about this course -- including details about the textbook, who should/shouldn't take this class, and how your grade is calculated -- in the [syllabus](../files/PHY2049C.pdf).
 
 Course Material
 --------------
