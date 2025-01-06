@@ -15,13 +15,13 @@ Planets, Stars, and Galaxies
 * Course Times: Spring 2025, Mon./Wed. 1:00-2:15pm
 * Location:	Room 205
 * Office Hours:	2nd Floor Faculty Wing or Room 309: M-F 12:15pm-12:45pm
-* Syllabus:	See the most [up-to-date](../files/astro.pdf) PDF version.
+* Syllabus:	See the most [up-to-date](../files/AST1002.pdf) PDF version.
 
 Summary
 -----------
 In this course, science and non-science majors will learn about our solar system, the birth and death of stars (including our own Sun), the nature of black holes and galaxies, and the structure and evolution of the entire universe. We will discuss what astronomers know today about each of these things, how we know it, and what we still don't yet know.
 
-There's a lot more information about this course -- including details about the textbook, who should/shouldn't take this class, how your grade is calculated, and a checklist for success -- in the [syllabus](../files/astro.pdf).
+There's a lot more information about this course -- including details about the textbook, who should/shouldn't take this class, how your grade is calculated, and a checklist for success -- in the [syllabus](../files/ASR1002.pdf).
 
 Course Material
 --------------
