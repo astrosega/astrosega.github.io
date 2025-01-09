@@ -31,6 +31,7 @@ Here are some additional resources:
 
 * [This page](https://stevencranmer.bitbucket.io/ASTR_1200_2019/math_links.html) contains links to additional resources (including YouTube videos) for extra help on the MATH topics of this course.
 
+Schedule
 -------------
 
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts, and [Stellarium](https://stellarium-web.org/) and [World Wide Telescope](https://www.worldwidetelescope.org/) worksheets, and various course deadlines.
@@ -92,7 +93,7 @@ Below is a detailed schedule that will list the material covered in each class s
   
 * Mon., April 7: Black Holes (Ch. [24](https://openstax.org/books/astronomy-2e/pages/24-thinking-ahead))
 
-  Ch. 24 |[Worldwide Telescope Worksheet 2](../files/wwt2.pdf): Stellar Remnants
+  Ch. 24 notes and highligths due |[Worldwide Telescope Worksheet 2](../files/wwt2.pdf): Stellar Remnants
 * Wed., April 9: The Milky Way: not in equilibrium (Ch. [25](https://openstax.org/books/astronomy-2e/pages/25-thinking-ahead))
 
 	Homework 6 due. |[Homework 7](../files/astrohw7.pdf) (Chp. 26-28 ) assigned, due Wed., April 23
