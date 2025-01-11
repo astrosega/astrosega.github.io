@@ -36,10 +36,10 @@ Schedule
 
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts, and [Stellarium](https://stellarium-web.org/) and [World Wide Telescope](https://www.worldwidetelescope.org/) worksheets, and various course deadlines.
 
-* Mon., January 6: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction))
+* Mon., January 6: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction)) \| [Slides](,,files/slides1.pdf)
 
   |Handout: [syllabus](../files/2048C.pdf)
-* Wed., January 8: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction))
+* Wed., January 8: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction)) \| [Slides](,,files/slides2.pdf)
 * Mon., January 13: Humans' relation to the sky (Chp. [2](https://openstax.org/books/astronomy-2e/pages/2-thinking-ahead))
 * Wed., January 15: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead))
 
