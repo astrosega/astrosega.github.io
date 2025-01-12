@@ -43,7 +43,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., January 13: Humans' relation to the sky (Chp. [2](https://openstax.org/books/astronomy-2e/pages/2-thinking-ahead))
 * Wed., January 15: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead))
 
-  |[Homework 1](../files/astrohw1.pdf) (Chp. 3-4 ) assigned, due Wed., January 29.
+  |[Homework 1](../files/astrohw1.pdf) (Chp. 3-4) assigned, due Wed., January 29.
 * Mon., January 20: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead))
 * Wed., January 22: Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead))
   
