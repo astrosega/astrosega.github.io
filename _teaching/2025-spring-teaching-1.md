@@ -40,7 +40,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Tues., January 7: The Structure of Mechanics. Motion in 1D. (Chp. [1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction) & [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction))
 
-  Handout: [syllabus](../files/PHY2048C.pdf) | [Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Fri., January 17.
+  Handout: [syllabus](../files/PHY2048C.pdf) | [Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Tue., January 21.
 * Thur., January 9: No Classes
 * Fri., January 10: **Quiz Chp. 1 & 3** \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Tues., January 14: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
@@ -51,19 +51,18 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., January 17: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 
   |[Lab 1](../files/2048Clab1.pdf): Measurements and dimesions
-* Tues., January 21: Newton's Laws I & II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction) & [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
+* Tues., January 21: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
   
-  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Fri., January 31. |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
+  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Tue., February 4. |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
 * Thur., January 23: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 * Fri., January 24: **Quiz Chp. 5** \| Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 * Tues., January 28:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
 * Thur., January 30: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Fri., January 31: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 
-  | Homework 2 due.
 * Tues., February 4: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
-  |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/)
+ Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/)
 * Thur., February 6: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
 * Fri., February 7: **Quiz Chp. 13 & 9 thus far** \| Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
@@ -75,8 +74,10 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., February 20: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Fri., February 21: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
-  Homework 3 due | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Tues., March 11.
+  | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Tues., March 25.
 * Tues., February 25: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+
+  | Homework 3 due 
 * Thur., February 27: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Fri., February 28: **Quiz Chp. 12** \| Mathematical methods intermission.
 
@@ -94,9 +95,9 @@ Below is a detailed schedule that will list the material covered in each class s
 * |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
 * Thur., March 20: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Fri.,  March 21: **Quiz Chp. 15** \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction)).
-
-  Homework 4 due. | [Homework 5](../files/2048Chw4.pdf) (Chp. 12 & 14) assigned, due Tues., April 4.
 * Tues., March 25: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+
+  Homework 4 due. | [Homework 5](../files/2048Chw4.pdf) (Chp. 12 & 14) assigned, due Tues., April 8.
 * Thur., March 27: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 * Fri., March 28: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
   
@@ -105,10 +106,10 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., April 3: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 * Fri., April 4: **Quiz Chp. 14 & 17 thus far** \|  Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
-  Homework 5 due | [Lab 5](../files/2048Clab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
+ | [Lab 5](../files/2048Clab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
 * Tues., April 8: Heat (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/1-introduction))
   
-  |[Homework 6](../files/2048Chw4.pdf) (Chp.1b, 2b, 3b, 4b) assigned, due Tues., April 25.
+   Homework 5 due |[Homework 6](../files/2048Chw4.pdf) (Chp.1b, 2b, 3b) assigned, due Tues., April 25.
 * Thur., April 10: Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Fri., April 11:  Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
   
@@ -116,7 +117,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., April 15: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 * Thur., April 17: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 * Fri., April 18: No Classes
-* Tues., April 22: Entropy and Irreversibility (Ch. [4b](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
+* Tues., April 22: Thermodynamycs II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
   |Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/)
 * Thur., April 24: Final Review
