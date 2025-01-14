@@ -44,6 +44,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., January 9: No Classes
 * Fri., January 10: **Quiz Chp. 1 & 3** \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Tues., January 14: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
+
+  |Handout: BBC [article](https://www.bbc.com/news/articles/cx2j8v8wvrko)
 * Thur., January 16: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 
   Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Fri., January 31.
