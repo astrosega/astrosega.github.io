@@ -55,7 +55,7 @@ Below is a detailed schedule that will list the material covered in each class s
   
   Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Tue., February 4. |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
 * Thur., January 23: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
-* Fri., January 24: **Quiz Chp. 5** \| Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
+* Fri., January 24: **Quiz Chp. 5** ([Practice](../files/mock2.pdf)) \| Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 * Tues., January 28:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
 * Thur., January 30: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Fri., January 31: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
