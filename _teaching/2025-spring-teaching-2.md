@@ -14,7 +14,7 @@ Physics Studio B
 * Instructor's Office: 2nd Floor, Faculty Wing	
 * Course Times: Spring 2025, Mon./Wed. 9:30-12:00m /Fri. 1 - 3:30pm,
 * Location:	Room 309
-* Office Hours:	Faculty Wing or Room 309: Tue./Thu. 12:15pm-11:45pm
+* Office Hours:	Faculty Wing or Room 309: Mon./Tue./Wed./Thu./Fri. 12:15pm-1:45pm
 * Syllabus:	See the most [up-to-date](../files/PHY2049C.pdf) PDF version.
 
 Summary
