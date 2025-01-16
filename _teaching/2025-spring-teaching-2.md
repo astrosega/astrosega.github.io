@@ -60,6 +60,8 @@ Below is a detailed schedule that will list the material covered in each class s
   
    Homework 2 due.|Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/)
 * Wed., February 5: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
+
+  |[Homework 3](../files/2049Chw3.pdf) (Chp. 7) assigned, due Mon., February 24.
 * Fri., February 7: **Problem-solving session** \|The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Mon., February 10: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Wed., February 12: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
@@ -70,8 +72,10 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., February 19: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Fri., February 21: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
-  [Lab 3](../files/2049Clab3.pdf): Introduction to osciloscopes | Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., March 14.
+  |[Lab 3](../files/2049Clab3.pdf): Introduction to osciloscopes | Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., March 14.
 * Mon., February 24: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+
+  | Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., March 14.
 * Wed., February 26: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Fri., February 28: **Problem-solving session** \| **Quiz Chp. 8** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
