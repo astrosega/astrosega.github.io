@@ -59,7 +59,6 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., January 28:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
 * Thur., January 30: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Fri., January 31: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
-
 * Tues., February 4: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
   Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/)
