@@ -44,8 +44,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., January 15: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead)) \| [Slides](../files/Slides5.pdf)
 
   |[Homework 1](../files/astrohw1.pdf) (Chp. 3-4) assigned, due Wed., January 29.
-* Mon., January 20: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead)) \|
-* Wed., January 22: Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead)) \|
+* Mon., January 20: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead)) \| [Slides](../files/Slides6.pdf)
+* Wed., January 22: Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead)) \| [Slides](../files/Slides6.pdf)
   
    Ch. 4 notes and highligths due|[Stellarium Worksheet 1](../files/Stellarium1.pdf): Introduction to Stellarium
 * Mon., January 27:  Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead))
