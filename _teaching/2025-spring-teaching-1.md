@@ -47,7 +47,6 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |Handout: BBC [article](https://www.bbc.com/news/articles/cx2j8v8wvrko)
 * Thur., January 16: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
-
 * Fri., January 17: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 * Tues., January 21: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
   
