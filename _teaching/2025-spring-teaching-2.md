@@ -52,7 +52,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., January 22: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Fri., January 24: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
   
-  |[Lab 1](../files/2049Clab1.pdf): Electrostatic Generator
+  |[Lab 1](../files/2049lab1.docx): Electrostatic Generator
 * Mon., January 27:  Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Wed., January 29: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Fri., January 31: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
@@ -67,12 +67,12 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., February 12: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Fri., February 14: **Quiz Chp. 7**  \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 
-  |[Lab 2](../files/2049Clab2.pdf): Introduction to the Multimeter
+  |[Lab 2](../files/2049lab2.docx): Introduction to the Multimeter
 * Mon., February 17: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Wed., February 19: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Fri., February 21: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
-  |[Lab 3](../files/2049Clab3.pdf): Introduction to osciloscopes
+  |[Lab 3](../files/2049lab3.docx): Introduction to osciloscopes
 * Mon., February 24: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
   | Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., March 14.
@@ -87,7 +87,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., March 10: Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Wed., March 12: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 * Fri., March 14: Circuits I  (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
-   |[Lab 4](../files/2049Clab4.pdf): Circuits I
+   |[Lab 4](../files/2049lab4.docx): Circuits I
 * Mon., March 17: Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 
    |Homework 4 due. 
@@ -99,12 +99,12 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., March 26: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Fri., March 28: Magnetism I (Ampere's Law) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
   
-   |[Lab 5](files/2049Clab5.pdf): Circuits II
+   |[Lab 5](files/2049lab5.docx): Circuits II
 * Mon., March 31: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Wed., April 2: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Fri., April 4: **Quiz Chp. 11 & 12 thus far** \|  Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
-  | [Lab 6](../files/2049Clab6.pdf): CRTs (Cathode Ray Tube)
+  | [Lab 6](../files/2049lab6.docx): CRTs (Cathode Ray Tube)
 * Mon., April 7: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
   
   Homework 5 due |[Homework 6](../files/2049Chw6.pdf) (Ch 11-14) assigned, due Fri., April 25.
@@ -113,7 +113,7 @@ Below is a detailed schedule that will list the material covered in each class s
 	|Extra credit reading: [Action at a Distance](../files/action-distance.pdf)
 * Fri., April 11: More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
-  | [Lab 7](../files/2049Clab7.pdf): Solenoids and Inductors
+  | [Lab 7](../files/2049lab7.docx): Solenoids and Inductors
 * Mon., April 14: **Problem-solving session** \| Ampere, Faraday, and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction), [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Wed., April 16: **Quiz Chp. 13** \| Ampere, Faraday, and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction), [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
@@ -123,7 +123,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., April 23: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Fri., April 25:  Final Review
 
-   Homework 6 due.|[Lab 8](../files/2049Clab8.pdf): Circuits III
+   Homework 6 due.|[Lab 8](../files/2049lab8.docx): Circuits III
 
 
 **[Final Exam Week: April 28–May 2.]**
