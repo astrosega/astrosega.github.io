@@ -99,7 +99,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., March 26: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Fri., March 28: Magnetism I (Ampere's Law) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
   
-   |[Lab 5](files/2049lab5.pdf): Circuits II
+   |[Lab 5](../files/2049lab5.pdf): Circuits II
 * Mon., March 31: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Wed., April 2: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Fri., April 4: **Quiz Chp. 11 & 12 thus far** \|  Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
