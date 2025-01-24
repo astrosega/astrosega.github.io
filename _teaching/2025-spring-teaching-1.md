@@ -50,7 +50,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., January 17: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 * Tues., January 21: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
   
-  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Tue., February 4. |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/)
+  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Tue., February 4. |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/), due Fri. February 14
 * Thur., January 23: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 
   |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
@@ -60,11 +60,11 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., January 31: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Tues., February 4: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
-  Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/)
+  Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Tue., March 11
 * Thur., February 6: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
 * Fri., February 7: **Quiz Chp. 13 & 9 thus far** \| Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
-  [Lab 2](../files/2048lab2.pdf: measuring *g* (Pendulum)| [Homework 3](../files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Fri., February 21.
+  [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)| [Homework 3](../files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Fri., February 21.
 * Tues., February 11: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 * Thur., February 13: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 * Fri., February 14: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
@@ -107,17 +107,17 @@ Below is a detailed schedule that will list the material covered in each class s
    | [Lab 5](../files/2048Clab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
 * Tues., April 8: Heat (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/1-introduction))
   
-   Homework 5 due |[Homework 6](../files/2048lab5.pdf) (Chp.1b, 2b, 3b) assigned, due Tues., April 25.
+   Homework 5 due |[Homework 6](../files/2048lab5.pdf) (Chp.1b, 2b, 3b) assigned, due Tues., April 25. |Extra credit reading: [The Minus First Law of Thermodynamics](../files/minusfirst.pdf), due Tues. April 22
 * Thur., April 10: Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Fri., April 11:  Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
   
-  |Extra credit reading: [The Minus First Law of Thermodynamics](../files/minusfirst.pdf)
+  |Extra credit reading: [The Minus First Law of Thermodynamics](../files/minusfirst.pdf), due
 * Tues., April 15: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 * Thur., April 17: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 * Fri., April 18: No Classes
 * Tues., April 22: Thermodynamycs II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
-  |Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/)
+  |Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/), due Fri. April 25
 * Thur., April 24: Final Review
 * Fri., April 25: Final Review
 
