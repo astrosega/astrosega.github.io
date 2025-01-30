@@ -63,7 +63,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Tue., March 11
 * Thur., February 6: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
-* Fri., February 7: **Quiz Chp. 13 & 9 thus far** \| Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+* Fri., February 7: **Quiz Chp. 13 & 9 thus far** ([Practice](../files/mock4.pdf)) \| Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)| [Homework 3](../files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Fri., February 21.
 * Tues., February 11: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
