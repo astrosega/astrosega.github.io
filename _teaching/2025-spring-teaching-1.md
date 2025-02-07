@@ -67,8 +67,10 @@ Below is a detailed schedule that will list the material covered in each class s
 
   [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)| [Homework 3](../files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Fri., February 21.
 * Tues., February 11: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
-* Thur., February 13: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf)) \| Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
-* Fri., February 14: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+* Thur., February 13: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+
+  |[Lab 3b](../files/2048lab3b.pdf): Collisions in 1-D
+* Fri., February 14: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf)) \| Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 * Tues., February 18: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Thur., February 20: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Fri., February 21: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
