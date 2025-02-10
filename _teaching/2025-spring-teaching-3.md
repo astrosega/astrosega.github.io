@@ -30,6 +30,7 @@ The primary "required readings" are in the OpenStax book [Astronomy-2e](https://
 Here are some additional resources:
 
 * [This page](https://stevencranmer.bitbucket.io/ASTR_1200_2019/math_links.html) contains links to additional resources (including YouTube videos) for extra help on the MATH topics of this course.
+* [Here](https://radioambulante.org/en/translation/goodbye-pluto-translation) is the English translated transcrip of the Radio Ambulande eposido: Goodbye Pluto
 
 Schedule
 -------------
