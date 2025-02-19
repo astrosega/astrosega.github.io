@@ -117,7 +117,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., April 14: **Problem-solving session** \| Ampere, Faraday, and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction), [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Wed., April 16: **Quiz Chp. 13** \| Ampere, Faraday, and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction), [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
- | Extra credit reading: [The Coordination Problem](../files/measurement.pdf)
+  | Extra credit reading: [The Coordination Problem](../files/measurement.pdf)
 * Fri., April 18: No Clases
 * Mon., April 21: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
 * Wed., April 23: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
