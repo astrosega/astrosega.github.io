@@ -73,7 +73,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., February 21: **Problem-solving session** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Mon., February 24: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
-  | Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., March 14.
+   Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., March 14.
 * Wed., February 26: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
    |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
