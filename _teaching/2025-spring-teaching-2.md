@@ -69,14 +69,14 @@ Below is a detailed schedule that will list the material covered in each class s
   |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
 * Fri., February 14: **Quiz Chp. 7** ([Practice](../files/mock3b.pdf)) \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Mon., February 17: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
-* Wed., February 19: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
-* Fri., February 21: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-
-  |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
+* Wed., February 19: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Fri., February 21: **Problem-solving session** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Mon., February 24: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
   | Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., March 14.
 * Wed., February 26: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+
+   |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
 * Fri., February 28: **Problem-solving session** \| **Quiz Chp. 8** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
   |Extra credit reading: [What is Real, Field or Potential?](../files/potential.pdf)
