@@ -25,12 +25,14 @@ There's a lot more information about this course -- including details about the 
 
 Course Material
 --------------
-The primary "required readings" are in the OpenStax book [Astronomy-2e](https://openstax.org/details/books/astronomy-2e). We will also be using [Stellarium](https://stellarium.org/), given the difficulty to see the nigth sky in Panama City. Likewise, for a stand-in Planetarium we will be using [The World Wide Telescope](https://www.worldwidetelescope.org/) 
+The primary "required readings" are in the OpenStax book [Astronomy-2e](https://openstax.org/details/books/astronomy-2e). We will also be using [Stellarium](https://stellarium.org/), given the difficulty to see the nigth sky in Panama City. Likewise, for a stand-in Planetarium we will be using [The World Wide Telescope](https://www.worldwidetelescope.org/)
+
+[Here](../files/finalAST.pdf) you will find a detailed step-by-step description of the Final Project assigment. Read carefully.
 
 Here are some additional resources:
 
 * [This page](https://stevencranmer.bitbucket.io/ASTR_1200_2019/math_links.html) contains links to additional resources (including YouTube videos) for extra help on the MATH topics of this course.
-* [Here](https://radioambulante.org/en/translation/goodbye-pluto-translation) is the English translated transcrip of the Radio Ambulande eposido: Goodbye Pluto
+* [Here](https://radioambulante.org/en/translation/goodbye-pluto-translation) is the English transcript of the Radio Ambulante episode Goodbye Pluto
 
 Schedule
 -------------
