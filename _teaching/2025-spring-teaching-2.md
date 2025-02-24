@@ -77,7 +77,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., February 26: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
    |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
-* Fri., February 28: **Problem-solving session** \| **Quiz Chp. 8** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Fri., February 28: **Quiz Chp. 8** ([Practice](../files/mock4b.pdf)) \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
   |Extra credit reading: [What is Real, Field or Potential?](../files/potential.pdf)
 
