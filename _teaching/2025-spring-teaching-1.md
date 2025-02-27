@@ -80,7 +80,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   | Homework 3 due 
 * Thur., February 27: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
-* Fri., February 28: **Quiz Chp. 12** ([Practice](../files/mock4.pdf)) \| Mathematical methods intermission.
+* Fri., February 28: **Quiz Chp. 12** ([Practice](../files/mock4.pdf -> [Solved](../files/mock4sol.pdf)) \| Mathematical methods intermission.
 
   |Handout: [Complex numbers](../files/complex_numbers.pdf)
 
