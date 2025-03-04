@@ -87,13 +87,12 @@ Below is a detailed schedule that will list the material covered in each class s
 
 **[March 3-7: Spring Break, no classes.]**
   
-* Tues., March 11: Mathematical methods intermission. \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction)) 
-* Thur., March 13: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Fri., March 14: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-
-  |[Lab 3](../files/2048lab3.pdf): the definition of mass (springs)
+* Tues., March 11: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Thur., March 13: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Fri., March 14: **Quiz Chp. 11 & 12 (round 2)** \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Tues., March 18: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
+
+  |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
 * Thur., March 20: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Fri.,  March 21: **Quiz Chp. 15** \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction)).
 * Tues., March 25: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
