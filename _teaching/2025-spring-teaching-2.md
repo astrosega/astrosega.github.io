@@ -87,6 +87,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., March 10: Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Wed., March 12: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 * Fri., March 14: Circuits I  (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+
    |[Lab 4](../files/2049lab4.pdf): Circuits I
 * Mon., March 17: Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 
