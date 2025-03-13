@@ -89,13 +89,13 @@ Below is a detailed schedule that will list the material covered in each class s
   
 * Tues., March 11: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Thur., March 13: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Fri., March 14: **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Tues., March 18: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Fri., March 14:  Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Tues., March 18: **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
   |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
 * Thur., March 20: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Fri.,  March 21: **Quiz Chp. 15** \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction)).
-* Tues., March 25: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Fri.,  March 21: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction)).
+* Tues., March 25: **Quiz Chp. 15** \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
   Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., April 8.
 * Thur., March 27: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
