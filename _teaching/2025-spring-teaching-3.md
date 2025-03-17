@@ -79,14 +79,12 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., March 10: Here comes the Sun (Chp. [15](https://openstax.org/books/astronomy-2e/pages/15-thinking-ahead))
 * Wed., March 12: The Sun has all the power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/16-thinking-ahead))
 
-     Ch. 16 notes and highligths due | Homework 4 due. |[Homework 5](../files/astrohw5.pdf) (Chp. 15-18,20-22 ) assigned, due Wed., March 19
+     Ch. 16 notes and highligths due | Homework 4 due. |[Homework 5](../files/astrohw5.pdf) (Chp. 15-18,20-22 ) assigned, due Mon., March 24
 * Mon., March 17: Stars (Ch. [18](https://openstax.org/books/university-physics-volume-1/pages/18-thinking-ahead))
 * Wed., March 19: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/19-thinking-ahead))
-
-     |Homework 5 due.
 * Mon., March 24: Gas, and Dust (Ch. [20](https://openstax.org/books/astronomy-2e/pages/20-thinking-ahead))
  
-     |[Homework 6](../files/astrohw6.pdf) (Chp. 19) assigned, due Wed., April 10
+  	Homework 5 due.|[Homework 6](../files/astrohw6.pdf) (Chp. 19) assigned, due Wed., April 10
 * Wed., March 26: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/21-thinking-ahead))
 * Mon., March 31: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/22-thinking-ahead))
 
