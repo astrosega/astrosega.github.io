@@ -95,7 +95,7 @@ Below is a detailed schedule that will list the material covered in each class s
   |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
 * Thur., March 20: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Fri.,  March 21: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction)).
-* Tues., March 25: **Quiz Chp. 15** \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Tues., March 25: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
   Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., April 8.
 * Thur., March 27: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
