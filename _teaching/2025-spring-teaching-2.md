@@ -93,7 +93,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
    |Homework 4 due. 
 * Wed., March 19: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
-* Fri.,  March 21: **Quiz Chp. 10** ([Practice](../files/mock4b.pdf) --> [Solved](../files/mocksol4b.pdf)) \| Magnetism I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+* Fri.,  March 21: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf)) \| Magnetism I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 
   | [Homework 5](../files/2049Chw4.pdf) (Chp. 10, 11) assigned, due Fri., April 4.
 * Mon., March 24: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
