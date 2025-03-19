@@ -84,7 +84,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., March 19: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/19-thinking-ahead))
 * Mon., March 24: Gas, and Dust (Ch. [20](https://openstax.org/books/astronomy-2e/pages/20-thinking-ahead))
  
-  	Homework 5 due.|[Homework 6](../files/astrohw6.pdf) (Chp. 19) assigned, due Wed., April 10
+  Homework 5 due.|[Homework 6](../files/astrohw6.pdf) (Chp. 19) assigned, due Wed., April 10
 * Wed., March 26: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/21-thinking-ahead))
 * Mon., March 31: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/22-thinking-ahead))
 
