@@ -99,6 +99,8 @@ Below is a detailed schedule that will list the material covered in each class s
 
   Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., April 8.
 * Thur., March 27: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+
+  | [Lab 3](../files/2048Clab3.pdf): The definition of mass (springs) 
 * Fri., March 28: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 * Tues., April 1: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
