@@ -98,10 +98,10 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., March 25: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
   Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., April 8.
-* Thur., March 27: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+* Thur., March 27: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
   | [Lab 3](../files/2048Clab3.pdf): The definition of mass (springs) 
-* Fri., March 28: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+* Fri., March 28: Waves and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Tues., April 1: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
   |[Lab 4](../files/2048lab4.pdf): Archimides \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
