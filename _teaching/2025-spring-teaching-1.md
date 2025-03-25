@@ -110,7 +110,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., April 8: Sound Waves and Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
   
    |Homework 5 due
-* Thur., April 10: **Quiz Chp. 14 & 17** \| Sound Waves (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
+* Thur., April 10: **Quiz Chp. 14, 16 & 17** \| Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction), Ch. [16], and Ch. [17])
   
 * Fri., April 11: Sound Waves (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
