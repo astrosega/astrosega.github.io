@@ -102,12 +102,12 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., March 28: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
   
    |[Lab 4](../files/2048lab4.pdf): Archimides \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
-* Tues., April 1: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Tues., April 1: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/17-introduction)) and Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 * Thur., April 3: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 * Fri., April 4: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
    | [Lab 5](../files/2048Clab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
-* Tues., April 8: **Quiz Chp. 14 & 17 thus far** \| Heat (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/1-introduction))
+* Tues., April 8: **Quiz Chp. 14 & 17 \| Heat (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/1-introduction))
   
    Homework 5 due |[Homework 6](../files/2048lab5.pdf) (Chp.1b, 2b, 3b) assigned, due Tues., April 25. |Extra credit reading: [The Minus First Law of Thermodynamics](../files/minusfirst.pdf), due Tues. April 22
 * Thur., April 10: Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
