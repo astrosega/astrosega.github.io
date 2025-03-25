@@ -115,7 +115,7 @@ Below is a detailed schedule that will list the material covered in each class s
    | [Lab 5](../files/2048Clab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
 * Tues., April 15: Heat (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
-  |[Homework 6](../files/2048hw6.pdf) (Chp.1b, 2b, 3b) assigned, due Tues., April 25. |Extra credit reading: [Waves: concrete objects or abstract entities?](../files/minusfirst.pdf), due Tues. April 22
+  |[Homework 6](../files/2048hw6.pdf) (Chp.1b, 2b, 3b) assigned, due Tues., April 25. |Extra credit reading: [Waves: concrete objects or abstract entities?](../files/Waves.pdf), due Tues. April 22
 * Thur., April 17: Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 * Fri., April 18: No Classes
 * Tues., April 22: Thermodynamycs II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
