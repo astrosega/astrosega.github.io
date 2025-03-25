@@ -104,7 +104,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |[Lab 4](../files/2048lab4.pdf): Archimides \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
 * Thur., April 3: Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
-* Fri., April 4: Sound Waves and Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction)))
+* Fri., April 4: Sound Waves and Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 * Tues., April 8: Sound Waves and Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
   
    |Homework 5 due
