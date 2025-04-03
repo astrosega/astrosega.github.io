@@ -119,8 +119,6 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |Extra credit reading: [What are waves?](../files/Waves.pdf), due Tues. April 22
 * Thur., April 17: Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
-
-  |[Homework 6](../files/2048hw6.pdf) (Chp.1b, 2b, 3b) assigned, due Tues., April 25. 
 * Fri., April 18: No Classes
 * Tues., April 22: Thermodynamycs I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
