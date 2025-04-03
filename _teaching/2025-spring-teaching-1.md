@@ -128,7 +128,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., April 24: Thermodynamycs II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction) and Ch. [4b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 * Fri., April 25: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction) and Ch. [4b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
-	Homework 6 due.|[Lab 6](../files/2048lab6.pdf): Thermal Expansion \| Pre-lab: re-read Ch [1.4b](https://openstax.org/books/university-physics-volume-2/pages/1-3-thermal-expansion)
+	|[Lab 6](../files/2048lab6.pdf): Thermal Expansion \| Pre-lab: re-read Ch [1.4b](https://openstax.org/books/university-physics-volume-2/pages/1-3-thermal-expansion)
 
 
 
