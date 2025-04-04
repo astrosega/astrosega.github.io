@@ -84,7 +84,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., March 19: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/19-thinking-ahead))
 * Mon., March 24: Gas, and Dust (Ch. [20](https://openstax.org/books/astronomy-2e/pages/20-thinking-ahead))
  
-  Homework 5 due.|[Homework 6](../files/astrohw6.pdf) (Chp. 19) assigned, due Wed., April 10
+  Homework 5 due.|[Homework 6](../files/astrohw6.pdf) (Chp. 19) assigned, due Wed., April 14
 * Wed., March 26: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/21-thinking-ahead))
 * Mon., March 31: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/22-thinking-ahead))
 
@@ -92,18 +92,19 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., April 2: The Death of a Star (Ch. [23](https://openstax.org/books/astronomy-2e/pages/23-thinking-ahead))
 
   
-* Mon., April 7: Black Holes (Ch. [24](https://openstax.org/books/astronomy-2e/pages/24-thinking-ahead))
+* Mon., April 7: The Death of a Star (Ch. [23](https://openstax.org/books/astronomy-2e/pages/23-thinking-ahead))
+* Wed., April 9: Black Holes (Ch. [24](https://openstax.org/books/astronomy-2e/pages/24-thinking-ahead))
 
-  Ch. 24 notes and highligths due |[Worldwide Telescope Worksheet 2](../files/wwt2.pdf): Stellar Remnants
-* Wed., April 9: The Milky Way: not in equilibrium (Ch. [25](https://openstax.org/books/astronomy-2e/pages/25-thinking-ahead))
+	Ch. 24 notes and highligths due |[Worldwide Telescope Worksheet 2](../files/wwt2.pdf): Stellar Remnants
+* Mon., April 14: The Milky Way: not in equilibrium (Ch. [25](https://openstax.org/books/astronomy-2e/pages/25-thinking-ahead))
 
-	Homework 6 due. |[Homework 7](../files/astrohw7.pdf) (Chp. 26-28 ) assigned, due Wed., April 23
-* Mon., April 14: Galaxies I (Ch. [26](https://openstax.org/books/astronomy-2e/pages/26-thinking-ahead))
-* Wed., April 16: Galaxies II (Ch. [28](https://openstax.org/books/astronomy-2e/pages/28-thinking-ahead))
-* Mon., April 21: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/39-thinking-ahead))
+   | Homework 6 due. |[Homework 7](../files/astrohw7.pdf) (Chp. 26-28 ) assigned, due Wed., April 23
+* Wed., April 16: Galaxies I (Ch. [26](https://openstax.org/books/astronomy-2e/pages/26-thinking-ahead))
+* Mon., April 21: Galaxies II (Ch. [28](https://openstax.org/books/astronomy-2e/pages/28-thinking-ahead))
 
    Ch. 29 notes and highligths due | Homework 7 due.|[Worldwide Telescope Worksheet 3](../files/wwt3.pdf): How Hubble discovered the Universe is expanding
-* Wed., April 23: Final Exam Review
+* Wed., April 23: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/39-thinking-ahead))
+* Thur., April 24: Final Exam at the multipurpose court, 6:30 post meridian 🕡
 
 
 **[Final Exam Week: April 28–May 2.]**
