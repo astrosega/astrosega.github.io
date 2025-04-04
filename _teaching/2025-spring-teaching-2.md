@@ -107,7 +107,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., April 7: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
   
   Homework 5 due |[Homework 6](../files/2049Chw6.pdf) (Ch 11-14) assigned, due Fri., April 25.
-* Wed., April 9: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf)  \| More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+* Wed., April 9: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf)) \| More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
 	|Extra credit reading: [Action at a Distance](../files/action-distance.pdf)
 * Fri., April 11: More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
