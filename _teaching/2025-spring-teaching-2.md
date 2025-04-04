@@ -79,7 +79,7 @@ Below is a detailed schedule that will list the material covered in each class s
    |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
 * Fri., February 28: **Quiz Chp. 8** ([Practice](../files/mock4b.pdf)) \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
-  |Extra credit reading: [What is Real, Field or Potential?](../files/potential.pdf)
+  |Extra credit reading: [What is Real, Field or Potential?](../files/potentials.pdf)
 
 
 **[March 3-7: Spring Break, no classes.]**
@@ -95,21 +95,19 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., March 19: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 * Fri.,  March 21: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf)) \| Magnetism I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 
-  | [Homework 5](../files/2049Chw4.pdf) (Chp. 10, 11) assigned, due Fri., April 4.
+  | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Fri., April 7.
 * Mon., March 24: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Wed., March 26: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Fri., March 28: Magnetism I (Ampere's Law) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
   
-   |[Lab 5](../files/2049lab5.pdf): Circuits II
+   |[Lab 6](../files/2049lab6.pdf): CRTs (Cathode Ray Tube)
 * Mon., March 31: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Wed., April 2: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
-* Fri., April 4: **Quiz Chp. 11 & 12 thus far** \|  Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
-
-  | [Lab 6](../files/2049lab6.pdf): CRTs (Cathode Ray Tube)
+* Fri., April 4: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Mon., April 7: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
   
   Homework 5 due |[Homework 6](../files/2049Chw6.pdf) (Ch 11-14) assigned, due Fri., April 25.
-* Wed., April 9: More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+* Wed., April 9: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf)) \| More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
 	|Extra credit reading: [Action at a Distance](../files/action-distance.pdf)
 * Fri., April 11: More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
