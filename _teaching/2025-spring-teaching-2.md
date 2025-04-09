@@ -120,7 +120,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., April 18: No Clases
 * Mon., April 21: **Quiz Chp. 13** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
 * Wed., April 23: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
-* Fri., April 25:  Circuits II
+* Fri., April 25:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
    Homework 6 due.|[Lab 8](../files/2049lab8.pdf): Circuits III
 
