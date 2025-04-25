@@ -125,4 +125,4 @@ Below is a detailed schedule that will list the material covered in each class s
    Homework 6 due.|[Lab 8](../files/2049lab8.pdf): Circuits III
 
 
-**[Final Exam Week: April 28–May 2.]**
+**[Final Exam Week: April 28–May 2. ([Practice](../files/mockFinalExam.pdf))]** 
