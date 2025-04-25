@@ -131,4 +131,4 @@ Below is a detailed schedule that will list the material covered in each class s
 
 
 
-**[Final Exam Week: April 28–May 2.]**
+**[Final Exam Week: April 28–May 2. ([Practice](../files/mockFinalExam.pdf))]** 
