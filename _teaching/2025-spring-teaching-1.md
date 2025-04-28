@@ -2,7 +2,7 @@
 title: "PHY2048C (Spring 2025)"
 collection: teaching
 type: "Undergraduate course"
-category: current
+category: past
 permalink: /teaching/2025-spring-teaching-1
 venue: "Florida State University"
 date: 2025-01-07
