@@ -2,7 +2,7 @@
 title: "PHY2048C (Spring 2025)"
 collection: teaching
 type: "Undergraduate course"
-category: current
+category: previous
 permalink: /teaching/2025-spring-teaching-1
 venue: "Florida State University"
 date: 2025-01-07
@@ -111,19 +111,19 @@ Below is a detailed schedule that will list the material covered in each class s
   |Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
 * Tues., April 8: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
-    |Extra credit reading: [What are waves?](../files/Waves.pdf), due Tues. April 22
+    |Extra credit reading: [What are waves?](../files/Waves.pdf), due Tues. April 17
 * Thur., April 10: Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
   
 * Fri., April 11: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
   | [Lab 5](../files/2048lab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
-* Tues., April 15: **Quiz Chp. 14, 16 & 17** ([Practice](../files/mock6.odt)) \| Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Tues., April 15: **Quiz Chp. 14, 16 & 17** ([Practice](../files/mock6.pdf)) \| Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
 * Thur., April 17: Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
+
+    Homework 5 due|Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/), due Tue. April 22
 * Fri., April 18: No Classes
 * Tues., April 22: Thermodynamycs I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
-
-  Homework 5 due|Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/), due Fri. April 25
 * Thur., April 24: Thermodynamycs II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction) and Ch. [4b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 * Fri., April 25: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction) and Ch. [4b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
@@ -131,4 +131,4 @@ Below is a detailed schedule that will list the material covered in each class s
 
 
 
-**[Final Exam Week: April 28–May 2.]**
+**[Final Exam Week: April 28–May 2. ([Practice](../files/mockFinalExam.pdf))]** 
