@@ -93,7 +93,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., July 9: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Thu., July 10: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
-   | Extra credit reading: [The Coordination Problem](../files/measurement.pdf) |Handout: [Complex numbers](../files/complex_numbers.pdf)  
+   | Extra credit reading: [The Coordination Problem](../files/measurement.pdf)| Handout: [Complex numbers](../files/complex_numbers.pdf)  
 * Mon., July 14: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
 * Tue., July 15: **Problem-Solving Session** \| More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
