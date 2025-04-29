@@ -3,7 +3,7 @@ title: "PHY2049C (Summer 2025)"
 collection: teaching
 type: "Undergraduate course"
 category: current
-permalink: /teaching/2025-summer-teaching-1
+permalink: /teaching/2025-summer-teaching-2
 venue: "Florida State University"
 date: 2025-05-12
 location: "Panama City, Panama"
