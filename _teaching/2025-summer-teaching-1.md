@@ -61,7 +61,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., June 5: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Mon., June 9: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
-  Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., March 14
+  Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., Mon 23
 * Tue., June 10: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
 * Wed., June 11: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
