@@ -59,7 +59,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., June 5: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)) 
 * Mon., June 9: **Quiz Chp. 6** ([Practice](../files/mock2b.pdf)) \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)) 
 
-   Homework 2 due.|Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/)/what-is-space/), due Fri., Mon 23
+   Homework 2 due.|Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/), due Mon. 23
 * Tue., June 10: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
 
   |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
