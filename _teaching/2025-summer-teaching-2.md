@@ -89,7 +89,7 @@ Below is a detailed schedule that will list the material covered in each class s
    |[Lab 4](../files/2049lab4.pdf): Circuits I
 * Tue., July 8: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
-  |[Lab 6](../files/2049lab6.pdf): CRTs (Cathode Ray Tube)Homework 4 due. | [Homework 5](../files/2049Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 16.
+  |[Lab 6](../files/2049lab6.pdf): CRTs (Cathode Ray Tube) | Homework 4 due. | [Homework 5](../files/2049Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 16.
 * Wed., July 9: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Thu., July 10: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
