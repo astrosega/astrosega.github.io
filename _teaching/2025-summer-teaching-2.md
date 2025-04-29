@@ -76,7 +76,7 @@ Below is a detailed schedule that will list the material covered in each class s
   |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
 * Tue., June 24: **Quiz Chp. 8** ([Practice](../files/mock4b.pdf)) \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
-  |Extra credit reading: [Action at a Distance](../files/action-distance.pdf)
+  |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due July 7
 
 * Wed., June 25: Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Thu., June 26: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
@@ -93,7 +93,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., July 9: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Thu., July 10: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
-   | Extra credit reading: [The Coordination Problem](../files/measurement.pdf)| Handout: [Complex numbers](../files/complex_numbers.pdf)  
+   | Extra credit reading: [The Coordination Problem](../files/measurement.pdf), due July 21| Handout: [Complex numbers](../files/complex_numbers.pdf)  
 * Mon., July 14: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
 * Tue., July 15: **Problem-Solving Session** \| More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
