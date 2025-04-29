@@ -16,7 +16,8 @@ Physics Studio B
 * Location:	Room 309
 * Office Hours:	Faculty Wing or Room 309: Mon./Tue./Wed./Thu./Fri. 12:20pm-1:00pm
 * Syllabus:	See the most [up-to-date](../files/PHY2049C.pdf) PDF version.
-ummary
+
+Summary
 -----------
 In this course, engineering and science majors will learn about the electromagnetic phenomena and the motion under electromagnetic fields. They will learn the basics of electronics (circuits) and of how day-to-day electromechanic technology works. They will also learn about the nature of a classical fields and the mathematics behind working with fields.
 
@@ -43,16 +44,13 @@ Below is a detailed schedule that will list the material covered in each class s
   Handout: [syllabus](../files/PHY2049C.pdf) | [Homework 1](../files/2049Chw1.pdf) (Chp. 5) assigned, due Wed., May 21.
 * Tue., May 13:  Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Wed., May 14: **Problem-solving session** \| Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Thu., January 15: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-  |Handout: BBC [article](https://www.bbc.com/news/articles/cx2j8v8wvrko)
+* Thu., May 15: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Mon., May 19:  **Quiz Chp. 5** ([Practice](../files/mock1b.pdf)) \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Tue., May 20: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Wed., May 21: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
   
-  Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6) assigned, due Tue., Jun 9 |Extra 
+  Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6) assigned, due Tue., Jun 9 
 * Thu., May 22: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
-
-  |[Lab 1](../files/2049lab1.pdf): Measurements and dimesions
 * Mon., June 2: **Quiz Chp. 5** ([Practice](../files/mock2b.pdf) -> [Solved](../images/mock2sol.jpg)) \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 
    |[Lab 1](../files/2049lab1.pdf): Electrostatic Generator
@@ -72,7 +70,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., June 18: **Problem-solving session** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Thu., June 19: **Problem-solving session** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
-   Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., March 14.
+   Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., July 8.
 * Mon., June 23: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
   |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
@@ -81,22 +79,20 @@ Below is a detailed schedule that will list the material covered in each class s
   |Extra credit reading: [Action at a Distance](../files/action-distance.pdf)
 
 * Wed., June 25: Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-
-  |Handout: [Complex numbers](../files/complex_numbers.pdf)  
 * Thu., June 26: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 * Mon., June 30: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 * Tue., July 1:  **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf)) \| Magnetism I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 * Wed., July 2: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Thu., July 3: Magnetism I (Ampere's Law) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Mon.,  July 7:  Fri., March 28: Magnetism I (Ampere's Law) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
-  
-   |[Lab 6](../files/2049lab6.pdf): CRTs (Cathode Ray Tube)
+
+   |[Lab 4](../files/2049lab4.pdf): Circuits I
 * Tue., July 8: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
-  Homework 4 due. | [Homework 5](../files/2049Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 16.
+   |[Lab 6](../files/2049lab6.pdf): CRTs (Cathode Ray Tube)Homework 4 due. | [Homework 5](../files/2049Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 16.
 * Wed., July 9: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Thu., July 10: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
-   | Extra credit reading: [The Coordination Problem](../files/measurement.pdf)
+   | Extra credit reading: [The Coordination Problem](../files/measurement.pdf) |Handout: [Complex numbers](../files/complex_numbers.pdf)  
 * Mon., July 14: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
 * Tue., July 15: **Problem-Solving Session** \| More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
@@ -106,16 +102,13 @@ Below is a detailed schedule that will list the material covered in each class s
    Homework 5 due |[Homework 6](../files/2049Chw6.pdf) (Ch 11-14) assigned. due July 23
 * Thu., July 17: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf)) \| More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Mon, July 21: Ampere, Faraday, and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction), [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
-* Tue., July 22: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction), [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction)) (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Tue., July 22: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
-  | Homework 4 due. | [Lab 7](../files/2049lab7.pdf): Solenoids and Inductors
+  | [Lab 7](../files/2049lab7.pdf): Solenoids and Inductors
 * Wed., July 23: Wed., April 16: **Quiz Chp. 13** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
 
-   Homework 6 due.|[Lab 8](../files/2049lab8.pdf): Circuits III
-* Thu., July 24: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
-
-    |[Lab 8, day 2](../files/2049lab8.pdf): Circuits III
-
+   Homework 6 due.|[Lab 7, day 2](../files/2049lab8.pdf): Solenoids and Inductors
+* Thu., July 24: Circuits II and Final Review (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
 
 
 
