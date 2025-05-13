@@ -47,7 +47,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., May 15: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Mon., May 19:  **Quiz Chp. 5** ([Practice](../files/mock1b.pdf)) \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Tue., May 20: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Wed., May 21: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
+* Wed., May 21: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
   
   Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6) assigned, due Tue., Jun 9 
 * Thu., May 22: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
