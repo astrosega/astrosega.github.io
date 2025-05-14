@@ -43,7 +43,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   Handout: [syllabus](../files/PHY2048C.pdf) | [Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Wed., May 21.
 * Tue., May 13: The Structure of Mechanics. Motion in 1D. (Chp. [1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction) & [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction))
-* Wed., May 14: **Quiz Chp. 1 & 3** ([Practice](../files/mock1.pdf) \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
+* Wed., May 14: **Quiz Chp. 1 & 3** ([Practice](../files/mock1.pdf)) \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Thu., May 15: Vectors, motion in higher dimensions, Reference Frames. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 
   |Handout: BBC [article](https://www.bbc.com/news/articles/cx2j8v8wvrko)
