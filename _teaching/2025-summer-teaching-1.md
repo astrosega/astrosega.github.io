@@ -47,7 +47,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., May 15: Vectors, motion in higher dimensions, Reference Frames. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 
   |Handout: BBC [article](https://www.bbc.com/news/articles/cx2j8v8wvrko)
-* Mon., May 19: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
+* Mon., May 19: Vectors, motion in higher dimensions, Reference Frames. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Tue., May 20: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 * Wed., May 21: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
   
