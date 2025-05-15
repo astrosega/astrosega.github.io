@@ -43,8 +43,8 @@ Below is a detailed schedule that will list the material covered in each class s
 
   Handout: [syllabus](../files/PHY2049C.pdf) | [Homework 1](../files/2049Chw1.pdf) (Chp. 5) assigned, due Wed., May 21.
 * Tue., May 13:  Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Wed., May 14: **Problem-solving session** \| Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Thu., May 15: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+* Wed., May 14:  Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+* Thu., May 15: **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Mon., May 19:  **Quiz Chp. 5** ([Practice](../files/mock1b.pdf)) \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Tue., May 20: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Wed., May 21: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
