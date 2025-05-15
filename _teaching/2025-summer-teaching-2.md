@@ -57,7 +57,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., June 3: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Wed., June 4: **Problem-solving session** \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Thu., June 5: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)) 
-* Mon., June 9: **Quiz Chp. 6** ([Practice](../files/mock2b.pdf)) \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)) 
+* Mon., June 9: **Quiz Chp. 6** ([Practice](../files/mock2bb.pdf)) \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)) 
 
    Homework 2 due.|Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/), due Mon. 23
 * Tue., June 10: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
