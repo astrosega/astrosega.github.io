@@ -96,7 +96,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 22.
 * Mon., July 7: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Tue., July 9: Waves and Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Tue., July 8: Waves and Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Wed., July 9: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
  |Extra credit reading: [What are waves?](../files/Waves.pdf), due Mon. July 21
@@ -110,12 +110,15 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed, July 16: Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction)) 
 * Thu., July 17: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
-  | Homework 5 due.
+  |[Lab 5](../files/2048lab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
 * Mon., July 21: **Quiz Chp. 14, 16 & 17** ([Practice](../files/mock6.pdf)) \| Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
+* Tue, July 22: Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
-* Thu., July 24: Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
+  | Homework 5 due.
+* Wed., July 23: Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
+* Thu., July 24: Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
-    |[Lab 5](../files/2048lab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/) |Homework 5 due
+    |[Lab 6](../files/2048lab6.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/) |Homework 5 due
 
 
 
