@@ -1,4 +1,4 @@
----
+https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/physical-astronomy-for-the-mechanistic-universe---
 title: "PHY2048C (Summer 2025)"
 collection: teaching
 type: "Undergraduate course"
@@ -53,63 +53,65 @@ Below is a detailed schedule that will list the material covered in each class s
   
   Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Tue., Jun 9 |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/), due Fri. May 29
 * Thu., May 22: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
+* Mon., May 26: **Problem-Solving Session** \| Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 
   |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
-* Mon., June 2: **Quiz Chp. 5** ([Practice](../files/mock2.pdf)) -> [Solved](../images/mock2sol.jpg)) \| Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
-* Tues., June 3:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
-* Wed., June 4: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
-* Thu., June 5: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
-* Mon., June 9: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
+* Tue., May 27: **Quiz Chp. 5** ([Practice](../files/mock2.pdf)) -> [Solved](../images/mock2sol.jpg)) \| Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
+* Wed., May 28:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
+* Thu., May 29: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
+* Mon., June 2: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
+* Tue., June 3: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
+* Wed., June 4: **Quiz Chp. 8** \| (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction)) 
 
   Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., Mon 23
-* Tue., June 10: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
-* Wed., June 11: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+* Thu., June 5: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
+* Mon., June 9: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   |[Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)| [Homework 3](../files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Tue., June 23.
-* Thu., June 12: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+* Tue., June 10: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   |[Lab 3](../files/2048lab3b.pdf): Collisions in 1-D
-* Mon., June 16: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg)) \| Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
-* Tue., June 17: Rotational Dynamics I (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
-* Wed., June 18: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
-* Thu., June 19: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Wed., June 11: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg)) \| Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+* Thu., June 12: Rotational Dynamics I (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
+* Mon., June 16: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
+* Tue., June 17: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
   | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Tues., July 9.
-* Mon., June 23: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Wed., June 18: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
   | Homework 3 due 
-* Tue., June 24: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
-* Wed., June 25: **Quiz Chp. 12** ([Practice](../files/mock4.pdf) -> [Solved](../files/mock4sol.pdf)) \| Mathematical methods intermission.
+* Thu., June 19: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Mon., June 23: **Quiz Chp. 12** ([Practice](../files/mock4.pdf) -> [Solved](../files/mock4sol.pdf)) \| Mathematical methods intermission.
 
   |Handout: [Complex numbers](../files/complex_numbers.pdf)  
-* Thu., June 26: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
-* Mon., June 30: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Tue., July 1:  **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Wed., July 2: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Tue., June 24: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Wed., June 25: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Thu., June 26:  **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Mon., June 30: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
   |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
-* Thu., July 3: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Mon.,  July 7: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction)).
-* Tue., July 8: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Tue., July 1: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Wed.,  July 2: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction)).
+* Thu., July 3: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
   Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 22.
-* Wed., July 9: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Thu., July 10: Waves and Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Mon., July 14: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+* Mon., July 7: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Tue., July 9: Waves and Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Wed., July 9: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
  |Extra credit reading: [What are waves?](../files/Waves.pdf), due Mon. July 21
-* Tue., July 15: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+* Thu., July 10: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
   |[Lab 4](../files/2048lab4.pdf): Archimides and Springs \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
-* Wed., July 16: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Mon., July 14: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
   |Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
-* Thu., July 17: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
-* Mon, July 21: Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction)) 
-* Tue., July 22: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Tue., July 15: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Wed, July 16: Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction)) 
+* Thu., July 17: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
   | Homework 5 due.
-* Wed., July 23: **Quiz Chp. 14, 16 & 17** ([Practice](../files/mock6.pdf)) \| Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
+* Mon., July 21: **Quiz Chp. 14, 16 & 17** ([Practice](../files/mock6.pdf)) \| Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
 * Thu., July 24: Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
