@@ -115,10 +115,10 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tue, July 22: Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
   | Homework 5 due.
-* Wed., July 23: Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
+* Wed., July 23: Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 * Thu., July 24: Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
-    |[Lab 6](../files/2048lab6.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/) |Homework 5 due
+    |[Lab 6](../files/2048lab6.pdf): Thermal expansion \| Pre-lab: re-read Ch [1.3b](https://openstax.org/books/university-physics-volume-2/pages/1-3-thermal-expansion)
 
 
 
