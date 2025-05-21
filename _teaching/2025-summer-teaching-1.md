@@ -61,7 +61,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., May 29: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Mon., June 2: **Problem-Solving Session** \| Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Tue., June 3: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
-* Wed., June 4: **Quiz Chp. 8** \| (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction)) 
+* Wed., June 4: **Quiz Chp. 8** ([Practice](../files/mock3r.pdf)) \| (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction)) 
 
   Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/) **OR** [What is Spacetime?](https://1000wordphilosophy.com/2022/06/24/philosophy-of-time/), due Fri., Mon 23
 * Thu., June 5: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
