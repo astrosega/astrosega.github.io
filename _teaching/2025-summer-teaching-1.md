@@ -56,7 +56,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., May 26: **Problem-Solving Session** \| Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 
   |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
-* Tue., May 27: **Quiz Chp. 5** ([Practice](../files/mock2.pdf)) -> [Solved](../images/mock2sol.jpg)) \| Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
+* Tue., May 27: **Quiz Chp. 5** ([Practice](../files/mock2.pdf) -> [Solved](../images/mock2sol.jpg)) \| Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 * Wed., May 28:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
 * Thu., May 29: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Mon., June 2: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
