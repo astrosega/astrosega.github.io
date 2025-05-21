@@ -59,15 +59,15 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tue., May 27: **Quiz Chp. 5** ([Practice](../files/mock2.pdf) -> [Solved](../images/mock2sol.jpg)) \| Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 * Wed., May 28:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
 * Thu., May 29: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
-* Mon., June 2: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
+* Mon., June 2: **Problem-Solving Session** \| Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Tue., June 3: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 * Wed., June 4: **Quiz Chp. 8** \| (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction)) 
 
   Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., Mon 23
-* Thu., June 5: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
-* Mon., June 9: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+* Thu., June 5: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   |[Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)| [Homework 3](../files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Tue., June 23.
+* Mon., June 9: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 * Tue., June 10: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   |[Lab 3](../files/2048lab3b.pdf): Collisions in 1-D
@@ -80,7 +80,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., June 18: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
   | Homework 3 due 
-* Thu., June 19: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Thu., June 19:**Problem-Solving Session** \|  Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Mon., June 23: **Quiz Chp. 12** ([Practice](../files/mock4.pdf) -> [Solved](../files/mock4sol.pdf)) \| Mathematical methods intermission.
 
   |Handout: [Complex numbers](../files/complex_numbers.pdf)  
@@ -107,7 +107,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
 * Tue., July 15: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
-* Wed, July 16: Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction)) 
+* Wed, July 16: **Problem-Solving Session** \| Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction)) 
 * Thu., July 17: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
   |[Lab 5](../files/2048lab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
