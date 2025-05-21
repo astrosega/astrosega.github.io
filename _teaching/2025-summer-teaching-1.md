@@ -1,3 +1,4 @@
+---
 title: "PHY2048C (Summer 2025)"
 collection: teaching
 type: "Undergraduate course"
