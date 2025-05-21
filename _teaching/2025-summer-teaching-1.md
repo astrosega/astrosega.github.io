@@ -1,4 +1,3 @@
-https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/physical-astronomy-for-the-mechanistic-universe---
 title: "PHY2048C (Summer 2025)"
 collection: teaching
 type: "Undergraduate course"
