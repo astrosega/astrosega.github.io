@@ -52,12 +52,12 @@ Below is a detailed schedule that will list the material covered in each class s
   Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6) assigned, due Tue., Jun 9 
 * Thu., May 22: **Problem-solving session** \| The Electric Field and Gauss's Law (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction) and Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Mon., May 26 **Quiz Chp. 5** ([Practice](../files/mock2b.pdf)) \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
-* Tue., May 27: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
-
-  |[Lab 1](../files/2049lab1.pdf): Electrostatic Generator
+* Tue., May 28: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Wed., May 28: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Thu., May 29  The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Mon., June 2: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
+
+  |[Lab 1](../files/2049lab1.pdf): Electrostatic Generator
 * Tues., June 3: **Problem-solving session** \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Wed., June 4: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Thu., June 5: **Problem-solving session** \| Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
