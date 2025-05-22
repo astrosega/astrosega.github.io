@@ -46,11 +46,11 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., May 14:  Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Thu., May 15: **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Mon., May 19:  **Quiz Chp. 5** ([Practice](../files/mock1b.pdf)) \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Tue., May 20: **Problem-solving session** \| (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Wed., May 21: Gauss's Law (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
+* Tue., May 20: **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+* Wed., May 21: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
   
   Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6) assigned, due Tue., Jun 9 
-* Thu., May 22: Conductors and Gauss's Law (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction) and Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Thu., May 22: Conductors and Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Mon., May 26 **Quiz Chp. 5** ([Practice](../files/mock2b.pdf)) \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Tue., May 28: Conservation of Energy in 2D (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Wed., May 28: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
