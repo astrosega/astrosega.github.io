@@ -49,7 +49,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tue., May 20: **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Wed., May 21: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
   
-  Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6) assigned, due Tue., Jun 9 
+  Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6) assigned, due Tue., Jun 3 
 * Thu., May 22: Conductors and Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Mon., May 26 **Quiz Chp. 5** ([Practice](../files/mock2b.pdf)) \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Tue., May 28: **Problem-solving session** \| Conductors and Gauss' Law (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
@@ -59,11 +59,13 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |[Lab 1](../files/2049lab1.pdf): Electrostatic Generator
 * Tues., June 3: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
+
+  | Homework 2 due. | [Homework 3](../files/2049Chw3.pdf)  (Ch 9) assigned, due Fri., June 18.
 * Wed., June 4: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Thu., June 5: **Problem-solving session** \| Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Mon., June 9: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)) 
 
-   Homework 2 due.|Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/), due Mon. 23
+   Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/), due Mon. 23
 * Tue., June 10: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
 
   |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
