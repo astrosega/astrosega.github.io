@@ -58,8 +58,6 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., May 28: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Thu., May 29  The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Mon., June 2: **Quiz Chp. 5** ([Practice](../files/mock2b.pdf)) \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
-
-   |[Lab 1](../files/2049lab1.pdf): Electrostatic Generator
 * Tues., June 3: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Wed., June 4: **Problem-solving session** \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Thu., June 5: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
