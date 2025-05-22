@@ -79,9 +79,6 @@ Below is a detailed schedule that will list the material covered in each class s
 
    |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due July 7
 * Tue., June 24: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
-
-  |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due July 7
-
 * Wed., June 25: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 * Thu., June 26: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf)) \| Magnetism I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 * Mon., June 30: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
