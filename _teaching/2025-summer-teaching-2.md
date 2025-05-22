@@ -101,20 +101,20 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tue., July 15: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
   |[Lab 7, day 2](../files/2049lab7.pdf): Solenoids and Inductors
-* Wed., July 16: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+* Wed., July 16: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
    Homework 5 due |[Homework 6](../files/2049Chw6.pdf) (Ch 11-14) assigned. due July 23
-* Thu., July 17: **Problem-Solving Session** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
-* Mon, July 21: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+* Thu., July 17: **Problem-Solving Session** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+* Mon, July 21: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
   |[Lab 8](../files/2049lab8.pdf): Circuits II (LRC Circuits)
-* Tue., July 22: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+* Tue., July 22: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
   |[Lab 8, day 2](../files/2049lab8.pdf): Circuits II (LRC Circuits)
-* Wed., July 23: Wed., April 16: **Quiz Chp. 13** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
+* Wed., July 23: Wed., April 16: **Quiz Chp. 13** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
    | Homework 6 due.
-* Thu., July 24: Maxwell Equations (Ch. [16](https://openstax.org/books/university-physics-volume-2/pages/4-introduction))
+* Thu., July 24: Maxwell Equations (Ch. [16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction))
 
 
 
