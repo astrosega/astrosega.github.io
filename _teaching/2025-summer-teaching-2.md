@@ -65,7 +65,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., June 5: **Quiz Chp. 7** ([Practice](../files/mock3b.pdf)) \|  The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Mon., June 9: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)) 
 
-   Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/), due Mon. 23
+  | Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/), due Mon. 23
 * Tue., June 10: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
 
   |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
@@ -96,7 +96,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., July 9: **Problem-Solving Session** \| Magnetism and Faraday and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction), Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
   
   | Extra credit reading: [The Coordination Problem](../files/measurement.pdf), due July 21| Handout: [Complex numbers](../files/complex_numbers.pdf)  
-* Thu., July 10:**Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf)) \| More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+* Thu., July 10: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf)) \| More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Mon., July 14: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
   | [Lab 7](../files/2049lab7.pdf): Solenoids and Inductors
