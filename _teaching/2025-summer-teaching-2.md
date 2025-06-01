@@ -62,19 +62,19 @@ Below is a detailed schedule that will list the material covered in each class s
 
   | Homework 2 due. | [Homework 3](../files/2049Chw3.pdf)  (Ch 9) assigned, due Fri., June 18.
 * Wed., June 4: **Problem-solving session** \| The Electric Potential (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
-* Thu., June 5: **Quiz Chp. 7** ([Practice](../files/mock3b.pdf)) \|  The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
+* Thu., June 5: Capacitance (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Mon., June 9: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)) 
 
   | Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/), due Mon. 23
-* Tue., June 10: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
-* Wed., June 11: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
-* Thu., June 12: **Problem-solving session** \| Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
+* Tue., June 10: **Problem-solving session** \| The Electric Potential and Capacitance (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/8-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
+* Wed., June 11: **Quiz Chp. 7, 8** ([Practice](../files/mock3b.pdf)) \| Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
+* Thu., June 12: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Mon., June 16:  Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Tue., June 17: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
    
   |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
 * Wed., June 18: **Problem-solving session** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-* Thu., June 19: **Quiz Chp. 8** ([Practice](../files/mock4b.pdf)) \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Thu., June 19: **Quiz Chp. 9** ([Practice](../files/mock4b.pdf)) \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
    |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) OR [What is real? Field or potential](../files/potentials.pdf) due July 7
 * Mon., June 23: Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
