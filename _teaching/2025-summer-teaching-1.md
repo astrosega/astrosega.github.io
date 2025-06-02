@@ -62,11 +62,13 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tue., June 3: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 * Wed., June 4: **Quiz Chp. 8** ([Practice](../files/mock3r.pdf)) \| (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction)) 
 
-  Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/) **OR** [What is Spacetime?](https://1000wordphilosophy.com/2022/06/24/philosophy-of-time/), due Fri., Mon 23
+   |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/) **OR** [What is Spacetime?](https://1000wordphilosophy.com/2022/06/24/philosophy-of-time/), due Fri., Mon 23
 * Thu., June 5: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   |[Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)| [Homework 3](../files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Tue., June 23.
 * Mon., June 9: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+
+   |Homework 2 due.
 * Tue., June 10: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   |[Lab 3](../files/2048lab3b.pdf): Collisions in 1-D
