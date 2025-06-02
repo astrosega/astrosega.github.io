@@ -12,7 +12,7 @@ Physics Studio A
 
 * Instructor:	Prof. Daniel D. Sega ([email](mailto:dsega@fsu.edu))
 * Instructor's Office: 1st Floor, Faculty Wing	
-* Course Times: Fall 2025, Mon./Tue. 9:30 am-11:30am Wed./Thu. 9:30am-12m
+* Course Times: Summer 2025, Mon./Tue. 9:30 am-11:30am Wed./Thu. 9:30am-12m
 * Location:	3rd Floor, Room 309
 * Office Hours: 1st Floor, Faculty Wing or Room 309: M to Th 12:20-1:00 pm
 * Syllabus:	See the most [up-to-date](../files/PHY2048C.pdf) PDF version.
@@ -60,7 +60,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., May 29: Work \| Conservation of Energy in 2D <mark>(2.5 hr lecture)</mark> (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction), [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Mon., June 2: **Problem-Solving Session** \| Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Tue., June 3: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
-* Wed., June 4: **Quiz Chp. 8** ([Practice](../files/mock3r.pdf)) \| (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction)) 
+* Wed., June 4: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf)) \| Work (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction)) 
 
    |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/) **OR** [What is Spacetime?](https://1000wordphilosophy.com/2022/06/24/philosophy-of-time/), due Fri., Mon 23
 * Thu., June 5: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
