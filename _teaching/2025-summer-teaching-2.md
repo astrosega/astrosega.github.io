@@ -67,9 +67,9 @@ Below is a detailed schedule that will list the material covered in each class s
 
    Homework 2 due.| Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/), due Mon. 23
 * Tue., June 10: **Problem-solving session** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-* Wed., June 11: **Quiz Chp. 7, 8** ([Practice](../files/mock3b.pdf)) \| Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Wed., June 11: **Quiz Chp. 7, 8** ([Practice](../files/mock3b.pdf)) \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Thu., June 12: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
-* Mon., June 16: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Mon., June 16: Circuits I  (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
     |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
 * Tue., June 17: **Quiz Chp. 9** ([Practice](../files/mock4b.pdf)) \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
