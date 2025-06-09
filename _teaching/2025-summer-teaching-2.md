@@ -63,31 +63,31 @@ Below is a detailed schedule that will list the material covered in each class s
    | [Homework 3](../files/2049Chw3.pdf)  (Ch 9) assigned, due Fri., June 18.
 * Wed., June 4: **Problem-solving session** \| The Electric Potential (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Thu., June 5: Capacitance (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
-* Mon., June 9: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)) 
+* Mon., June 9: **Problem-solving session** \| The Electric Potential and Capacitance (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/8-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
 
    Homework 2 due.| Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/), due Mon. 23
-* Tue., June 10: **Problem-solving session** \| The Electric Potential and Capacitance (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/8-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
-* Wed., June 11: **Quiz Chp. 7, 8** ([Practice](../files/mock3b.pdf)) \| Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
-* Thu., June 12: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-* Mon., June 16:  Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-* Tue., June 17: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-   
-  |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
-* Wed., June 18: **Problem-solving session** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-* Thu., June 19: **Quiz Chp. 9** ([Practice](../files/mock4b.pdf)) \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Tue., June 10: **Quiz Chp. 7, 8** ([Practice](../files/mock3b.pdf)) \| Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
+* Wed., June 11: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Thu., June 12: **Problem-solving session** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Mon., June 16: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+
+    |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
+* Tue., June 17: **Quiz Chp. 9** ([Practice](../files/mock4b.pdf)) \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Wed., June 18: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
+* Thu., June 19: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
    |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) OR [What is real? Field or potential](../files/potentials.pdf) due July 7
-* Mon., June 23: Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Mon., June 23: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
      |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes | Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., July 8.
-* Tue., June 24: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
-* Wed., June 25: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
-* Thu., June 26: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf)) \| Magnetism I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+* Tue., June 24: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+* Wed., June 25: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf)) \| Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+* Thu., June 26: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Mon., June 30: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
   |[Lab 4](../files/2049lab4.pdf): Circuits I
 * Tue., July 1:  Magnetism I (Magnetic force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
-* Wed., July 2: Magnetism I and II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
+* Wed., July 2: Magnetism II (Magnetic field) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Thu., July 3: Magnetism II (Magnetic field) (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Mon.,  July 7: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Tue., July 8: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
