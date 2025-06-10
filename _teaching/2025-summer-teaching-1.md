@@ -73,12 +73,12 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., June 11: Multiparticle Dynamics (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 
   |[Lab 3](../files/2048lab3b.pdf): Collisions in 1-D
-* Thu., June 12: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg))
-* Mon., June 16: Rotational Dynamics I (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
-* Tue., June 17: Rotational Dynamics II (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Thu., June 12: **Problem-Solving Session** \| Multiparticle Dynamics
+* Mon., June 16: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg))
+* Tue., June 17: Rotational Dynamics I (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
   | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Tues., July 9.
-* Wed., June 18: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Wed., June 18: Rotational Dynamics II (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
   | Homework 3 due 
 * Thu., June 19:**Problem-Solving Session** \|  Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
