@@ -70,10 +70,10 @@ Below is a detailed schedule that will list the material covered in each class s
 
    |Homework 2 due.
 * Tue., June 10: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
-* Wed., June 11: Multiparticle Dynamics (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
+* Wed., June 11: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   |[Lab 3](../files/2048lab3b.pdf): Collisions in 1-D
-* Thu., June 12: **Problem-Solving Session** \| Multiparticle Dynamics
+* Thu., June 12: **Problem-Solving Session** \| Multiparticle Dynamics & Gravitation (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction) & Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 * Mon., June 16: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg))
 * Tue., June 17: Rotational Dynamics I (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
