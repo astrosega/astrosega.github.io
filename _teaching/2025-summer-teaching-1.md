@@ -92,7 +92,9 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
 * Tue., July 1: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Wed.,  July 2: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction)).
+* Wed.,  July 2: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+
+    |[Lab 4](../files/2048lab4.pdf): Rotating Frames
 * Thu., July 3: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
   Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 22.
