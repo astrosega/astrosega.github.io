@@ -105,7 +105,7 @@ Below is a detailed schedule that will list the material covered in each class s
    |Extra credit reading: [What are waves?](../files/Waves.pdf), due Mon. July 21
 * Thu., July 10: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
-  |[Lab 4](../files/2048lab4.pdf): Archimides and Springs \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
+  |[Lab 5](../files/2048lab5.pdf): Archimides and Springs \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
 * Mon., July 14: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
   |Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
@@ -113,7 +113,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed, July 16: **Problem-Solving Session** \| Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction)) 
 * Thu., July 17: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
-  |[Lab 5](../files/2048lab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
+  |[Lab 6](../files/2048lab6.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
 * Mon., July 21: **Quiz Chp. 14, 16 & 17** ([Practice](../files/mock6.pdf)) \| Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction)) 
 * Tue, July 22: Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
@@ -121,7 +121,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., July 23: Thermodynamics I (Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 * Thu., July 24: Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
-    |[Lab 6](../files/2048lab6.pdf): Thermal expansion \| Pre-lab: re-read Ch [1.3b](https://openstax.org/books/university-physics-volume-2/pages/1-3-thermal-expansion)
+    |[Lab 7](../files/2048lab7.pdf): Thermal expansion \| Pre-lab: re-read Ch [1.3b](https://openstax.org/books/university-physics-volume-2/pages/1-3-thermal-expansion)
 
 
 
