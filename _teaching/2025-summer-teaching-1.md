@@ -81,13 +81,13 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., June 18: Rotational Dynamics II (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
   | Homework 3 due 
-* Thu., June 19:**Problem-Solving Session** \|  Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
-* Mon., June 23: **Quiz Chp. 12** ([Practice](../files/mock4.pdf) -> [Solved](../files/mock4sol.pdf)) \| Mathematical methods intermission.
+* Thu., June 19: **Problem-Solving Session** \|  Rotational Dynamics I & II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/12-introduction) and Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Mon., June 23: **Quiz Chp. 12** ([Practice](../files/mock4.pdf) -> [Solved](../files/mock4sol.pdf)) \| Mathematical methods intermission. 
+* Tue., June 24: **Problem-Solving Session** \| Rotational Dynamics I (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and II (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Wed., June 25: **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Thu., June 26: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
-  |Handout: [Complex numbers](../files/complex_numbers.pdf)  
-* Tue., June 24: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
-* Wed., June 25: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Thu., June 26:  **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+  |Handout: [Complex numbers](../files/complex_numbers.pdf) 
 * Mon., June 30: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
   |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
