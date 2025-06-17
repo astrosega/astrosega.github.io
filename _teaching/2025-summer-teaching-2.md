@@ -72,8 +72,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., June 16: Circuits I  (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
     |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
-* Tue., June 17: **Quiz Chp. 9** ([Practice](../files/mock4b.pdf)) \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-* Wed., June 18: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
+* Tue., June 17: **Problem-solving session** \| Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Wed., June 18: **Quiz Chp. 9** ([Practice](../files/mock4b.pdf)) \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Thu., June 19: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
    |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) OR [What is real? Field or potential](../files/potentials.pdf) due July 7
