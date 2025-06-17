@@ -79,10 +79,10 @@ Below is a detailed schedule that will list the material covered in each class s
 
   | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Tues., July 9.
 * Wed., June 18: Rotational Dynamics II (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Thu., June 19: **Problem-Solving Session** \|  Rotational Dynamics I & II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/12-introduction) and Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Mon., June 23: **Quiz Chp. 11 & 12** ([Practice](../files/mock4.pdf) -> [Solved](../files/mock4sol.pdf)) \| Mathematical methods intermission.
 
   | Homework 3 due 
-* Thu., June 19: **Problem-Solving Session** \|  Rotational Dynamics I & II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/12-introduction) and Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
-* Mon., June 23: **Quiz Chp. 12** ([Practice](../files/mock4.pdf) -> [Solved](../files/mock4sol.pdf)) \| Mathematical methods intermission. 
 * Tue., June 24: **Problem-Solving Session** \| Rotational Dynamics I (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and II (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Wed., June 25: **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Thu., June 26: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
@@ -96,9 +96,9 @@ Below is a detailed schedule that will list the material covered in each class s
 
     |[Lab 4](../files/2048lab4.pdf): Rotating Frames
 * Thu., July 3: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-
-  Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 22.
 * Mon., July 7: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+
+    Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 22.
 * Tue., July 8: Waves and Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Wed., July 9: Waves and Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
