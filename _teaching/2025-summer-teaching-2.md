@@ -81,12 +81,12 @@ Below is a detailed schedule that will list the material covered in each class s
 
      |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes | Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., July 8.
 * Tue., June 24: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
-* Wed., June 25: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf)) \| Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
-* Thu., June 26: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+* Wed., June 25: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+* Thu., June 26: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf)) \| Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Mon., June 30: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+* Tue., July 1:  Magnetism I (Magnetic force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
   |[Lab 4](../files/2049lab4.pdf): Circuits I
-* Tue., July 1:  Magnetism I (Magnetic force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Wed., July 2: Magnetism II (Magnetic field) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Thu., July 3: Magnetism II (Magnetic field) (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Mon.,  July 7: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
