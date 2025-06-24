@@ -84,22 +84,22 @@ Below is a detailed schedule that will list the material covered in each class s
 
   | Homework 3 due 
 * Tue., June 24: **Problem-Solving Session** \| Rotational Dynamics I (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and II (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
-* Wed., June 25: **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Thu., June 26: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Wed., June 25: **Problem-Solving Session** \| Rotational Dynamics III (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
+* Thu., June 26: **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
   |Handout: [Complex numbers](../files/complex_numbers.pdf) 
-* Mon., June 30: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Mon., June 30: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Tue., July 1: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
   |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
-* Tue., July 1: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Wed.,  July 2: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Wed.,  July 2: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
     |[Lab 4](../files/2048lab4.pdf): Rotating Frames
-* Thu., July 3: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Mon., July 7: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Thu., July 3: Waves ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf))
+* Mon., July 7: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf))
 
     Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 22.
-* Tue., July 8: Waves and Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Tue., July 8: Waves (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 * Wed., July 9: Waves and Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
    |Extra credit reading: [What are waves?](../files/Waves.pdf), due Mon. July 21
