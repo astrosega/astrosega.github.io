@@ -95,7 +95,7 @@ Below is a detailed schedule that will list the material covered in each class s
   |[Lab 6](../files/2049lab6.pdf): CRTs (Cathode Ray Tube) | Homework 4 due. | [Homework 5](../files/2049Chw5_old.pdf) (Chp. 12 & 14) assigned, due Tues., July 16.
 * Wed., July 9: **Problem-Solving Session** \| Magnetism and Faraday and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction), Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
   
-  | Extra credit reading: [The Coordination Problem](../files/measurement.pdf), due July 21| Handout: [Complex numbers](../files/complex_numbers.pdf)  
+  | Extra credit reading: [The Coordination Problem](../files/measurement.pdf), due July Thu. 17| Handout: [Complex numbers](../files/complex_numbers.pdf)  
 * Thu., July 10: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf)) \| More Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Mon., July 14: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
