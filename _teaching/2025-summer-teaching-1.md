@@ -85,7 +85,7 @@ Below is a detailed schedule that will list the material covered in each class s
   | Homework 3 due 
 * Tue., June 24: **Problem-Solving Session** \| Rotational Dynamics I (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and II (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Wed., June 25: **Problem-Solving Session** \| Rotational Dynamics III (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
-* Thu., June 26: **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Thu., June 26: **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf) -> [Solved](../files/mock5sol.pdf))) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
   |Handout: [Complex numbers](../files/complex_numbers.pdf) 
 * Mon., June 30: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
