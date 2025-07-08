@@ -99,8 +99,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., July 7: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf))
 
     Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 22.
-* Tue., July 8: Waves (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
-* Wed., July 9: Waves and Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Tue., July 8: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Wed., July 9: Waves and Fluid Statics (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) & Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
    |Extra credit reading: [What are waves?](../files/Waves.pdf), due Thu. July 17
 * Thu., July 10: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
