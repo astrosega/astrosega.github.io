@@ -113,7 +113,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tue., July 22: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
   |[Lab 8, day 2](../files/2049lab8.pdf): Circuits II (LRC Circuits)
-* Wed., July 23: Wed., April 16: **Quiz Chp. 13** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf) \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+* Wed., July 23: Wed., April 16: **Quiz Chp. 13, 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf) \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
    | Homework 6 due.
 * Thu., July 24: Maxwell Equations (Ch. [16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction))
