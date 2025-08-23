@@ -43,7 +43,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   Handout: [syllabus](../files/PHY2048C.pdf) | [Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Tue., September 21.
 * Thur., August 28: No Classes
-* Fri., August 29: **Quiz Chp. 1 & 3** ([Practice](../files/mock1.pdf) \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
+* Fri., August 29: **Quiz Chp. 1 & 3** ([Practice](../files/mock1.pdf)) \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Tues., September 2: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Thur., September 4: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Fri., September 5: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
