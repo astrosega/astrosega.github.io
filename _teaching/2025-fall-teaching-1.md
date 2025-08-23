@@ -49,7 +49,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., September 5: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 * Tues., September 9: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
   
-  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Tue., September 23. |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/), due Fri. October 3
+  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Tue., September 23. |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/), due Fri. September 19
 * Thur., September 11: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 
   |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
@@ -99,7 +99,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri.,  November 7: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Tues., November 11: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
-  Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., December 4.
+  Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., December 4. | Extra credit reading: [What are waves?](../files/Waves.pdf), due Fri. November 14
 * Thur., November 13: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Fri., November 14: Waves and Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Tues., November 18: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
@@ -110,8 +110,6 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
 * Tues., November 25: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
-
-    |Extra credit reading: [What are waves?](../files/Waves.pdf), due Tues. April 17
 * Thur., November 27: Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
    | [Lab 6](../files/2048lab6.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
