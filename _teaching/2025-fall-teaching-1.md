@@ -85,6 +85,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., October 24: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
    | [Lab 4, day 2](../files/2048lab3b.pdf): Rotating Frames
+
 * Tues., October 28: **Problem Solving Session** | Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Thur., October 30: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
