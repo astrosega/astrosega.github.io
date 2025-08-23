@@ -73,7 +73,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., October 10: **Problem-solving session** \| Currents and Resistance and Capacitance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Mon., October 13: **Problem-solving session** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
-   Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., November 14.
+   Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., October 27.
 * Wed., October 15: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
    |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
@@ -91,7 +91,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., October 29:  Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Fri.,  October 31:  Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
-  | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Fri., November 7.
+  | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Fri., November 17.
 * Mon., November 3: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Wed., November 5: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf))
 * Fri., November 7: Magnetism I  (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
