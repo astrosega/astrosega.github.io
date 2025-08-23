@@ -57,7 +57,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., September 16:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
 * Thur., September 18: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Fri., September 19: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
-*  Tues., September 23:   **Problem-Solving Session** | Conservation of Energy in 2D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
+*  Tues., September 23:   **Problem-Solving Session** \| Conservation of Energy in 2D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Thur., September 25: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
 * Fri., September 26: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 * Tues., September 30:  Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
