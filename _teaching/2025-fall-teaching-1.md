@@ -14,7 +14,7 @@ Physics Studio A
 * Instructor's Office: 2nd Floor, Faculty Wing	
 * Course Times: Fall 2025, Tue./Thu./Fri., 9:30 am-12:00 m
 * Location:	3rd Floor, Room 309
-* Office Hours: 1st Floor, Faculty Wing or Room 309: M to F 12:15-12:45 pm
+* Office Hours: 1st Floor, Faculty Wing or Room 309: M to F 12:20-12:50 pm
 * Syllabus:	See the most [up-to-date](../files/PHY2048C.pdf) PDF version.
 
 Summary
@@ -57,18 +57,18 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., September 16:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
 * Thur., September 18: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Fri., September 19: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
-*  Tues., September 23:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
-* Thur., September 25: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
-* Fri., September 26: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
-* Tues., September 30: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
+*  Tues., September 23:   **Problem-Solving Session** | Conservation of Energy in 2D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
+* Thur., September 25: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
+* Fri., September 26: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
+* Tues., September 30: **Problem-Solving Session** | Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
-  Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., March 14
+  Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., October 17
 * Thur., October 2: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
 * Fri., October 3: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
-  [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)| [Homework 3](../files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Tue., February 25.
+  [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)| [Homework 3](../files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Tue., October 21.
 * Tues., October 7: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
-* Thur., October 9: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+* Thur., October 9: **Problem-Solving Session** | Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   |[Lab 3b](../files/2048lab3b.pdf): Collisions in 1-D
 * Fri., October 10: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg)) \| Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
@@ -76,7 +76,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., October 16: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Fri., October 17: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
-  | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Tues., March 25.
+  | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Tues., November 11.
 * Tues., October 21: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
   | Homework 3 due 
@@ -95,7 +95,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri.,  November 7: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Tues., November 11: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
-  Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., April 8.
+  Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., December 4.
 * Thur., November 13: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
   | [Lab 3](../files/2048lab3.pdf): The definition of mass (springs) 
@@ -118,8 +118,8 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Thur., December 4: Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
-    Homework 5 due|Extra credit reading: [What is time?](https://1000wordphilosophy.com/2023/07/17/times-arrow/), due Tue. April 22
-* Fri., December 5: Thermodynamics II (Ch. [3b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction) and Ch. [4b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
+    Homework 5 due
+* Fri., December 5: Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
 	|[Lab 6](../files/2048lab6.pdf): Thermal Expansion \| Pre-lab: re-read Ch [1.4b](https://openstax.org/books/university-physics-volume-2/pages/1-3-thermal-expansion)
 
