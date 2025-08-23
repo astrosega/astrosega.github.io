@@ -39,16 +39,16 @@ Schedule
 
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts, and [Stellarium](https://stellarium-web.org/) and [World Wide Telescope](https://www.worldwidetelescope.org/) worksheets, and various course deadlines.
 
-* Mon., January 25: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction)) \| [Slides](../files/slides1.pdf)
+* Mon., January 25: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction))
 
   |Handout: [syllabus](../files/2048C.pdf)
-* Wed., January 27: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction)) \| [Slides](../files/slides2.pdf)
-* Mon., September 1 : Humans' relation to the sky (Chp. [2](https://openstax.org/books/astronomy-2e/pages/2-thinking-ahead)) \| [Slides](../files/Ch-3-AST1002.pdf)
-* Wed., January 3: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead)) \| [Slides](../files/Slides5.pdf)
+* Wed., January 27: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction))
+* Mon., September 1 : Humans' relation to the sky (Chp. [2](https://openstax.org/books/astronomy-2e/pages/2-thinking-ahead))
+* Wed., January 3: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead))
 
   |[Homework 1](../files/astrohw1.pdf) (Chp. 3-4) assigned, due Wed., January 29.
-* Mon., January 8: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead)) \| [Slides](../files/Slides6.pdf)
-* Wed., January 10: Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead)) \| [Slides](../files/slides6.pdf)
+* Mon., January 8: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead))
+* Wed., January 10: Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead))
   
    Ch. 4 notes and highligths due|[Stellarium Worksheet 1](../files/Stellarium1.pdf): Introduction to Stellarium
 * Mon., January 15:  Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead))
