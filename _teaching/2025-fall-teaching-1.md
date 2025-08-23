@@ -87,14 +87,16 @@ Below is a detailed schedule that will list the material covered in each class s
    | [Lab 4, day 2](../files/2048lab3b.pdf): Rotating Frames
 
 * Tues., October 28: **Problem Solving Session** | Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
-* Thur., October 30: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Thur., October 30: **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
   | Handout: [Complex numbers](../files/complex_numbers.pdf)
-* Fri., October 31:  Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Fri., October 31:  Mathematical Methods
+
+   Handout: [Complex numbers](../files/complex_numbers.pdf)
 * Tues., November 4: No classes
+* Thur., November 6:  Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
   |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
-* Thur., November 6:  **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Fri.,  November 7: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Tues., November 11: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
