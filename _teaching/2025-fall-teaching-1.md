@@ -121,7 +121,7 @@ Below is a detailed schedule that will list the material covered in each class s
     Homework 5 due
 * Fri., December 5: Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
-	|[Lab 6](../files/2048lab7.pdf): Thermal Expansion \| Pre-lab: re-read Ch [1.4b](https://openstax.org/books/university-physics-volume-2/pages/1-3-thermal-expansion)
+	|[Lab 7](../files/2048lab7.pdf): Thermal Expansion \| Pre-lab: re-read Ch [1.4b](https://openstax.org/books/university-physics-volume-2/pages/1-3-thermal-expansion)
 
 
 
