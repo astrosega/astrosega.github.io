@@ -60,50 +60,50 @@ Below is a detailed schedule that will list the material covered in each class s
 *  Tues., September 23:   **Problem-Solving Session** | Conservation of Energy in 2D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Thur., September 25: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
 * Fri., September 26: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
-* Tues., September 30: **Problem-Solving Session** | Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
+* Tues., September 30:  Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
+[Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)| [Homework 3](../files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Tue., October 21.
   Homework 2 due. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., October 17
 * Thur., October 2: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
 * Fri., October 3: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
-  [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)| [Homework 3](../files/2048Chw3.pdf) (Ch 10 & 11) assigned, due Tue., October 21.
+  | [Lab 3](../files/2048lab3b.pdf): Collisions in 1D
 * Tues., October 7: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 * Thur., October 9: **Problem-Solving Session** | Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
-
-  |[Lab 3b](../files/2048lab3b.pdf): Collisions in 1-D
-* Fri., October 10: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg)) \| Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
-* Tues., October 14: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
+* Fri., October 10: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg))
+* Tues., October 14: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Thur., October 16: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Fri., October 17: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
   | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Tues., November 11.
-* Tues., October 21: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Tues., October 21:  **Quiz Chp. 12** ([Practice](../files/mock4r2.pdf))
 
-  | Homework 3 due 
+   | Homework 3 due 
 * Thur., October 23: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
-* Fri., October 24: **Quiz Chp. 12** ([Practice](../files/mock4.pdf) -> [Solved](../files/mock4sol.pdf)) \| Mathematical methods intermission.
 
-  |Handout: [Complex numbers](../files/complex_numbers.pdf)
+  |[Lab 4, day 2](../files/2048lab3b.pdf): Collisions in 1D
+* Fri., October 24: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+  | [Lab 4, day 1](../files/2048lab3b.pdf): Rotating Frames
   
-* Tues., October 28: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Tues., October 28: **Problem Solving Session** | Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Thur., October 30: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+
+  | Handout: [Complex numbers](../files/complex_numbers.pdf)
 * Fri., October 31:  Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Tues., November 4: No classes
 
   |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
-* Thur., November 6:  **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Thur., November 6:  **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Fri.,  November 7: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Tues., November 11: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
   Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., December 4.
 * Thur., November 13: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-
-  | [Lab 3](../files/2048lab3.pdf): The definition of mass (springs) 
 * Fri., November 14: Waves and Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Tues., November 18: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 * Thur., November 20: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
-  |[Lab 4](../files/2048lab4.pdf): Archimides \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
+  |[Lab 5](../files/2048lab5.pdf): Archimides and Springs\| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
 * Fri., November 21: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
   |Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
@@ -112,7 +112,7 @@ Below is a detailed schedule that will list the material covered in each class s
     |Extra credit reading: [What are waves?](../files/Waves.pdf), due Tues. April 17
 * Thur., November 27: Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
-   | [Lab 5](../files/2048lab5.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
+   | [Lab 6](../files/2048lab6.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
 * Fri., November 28: No Classes
 * Tues., December 2: **Quiz Chp. 14, 16 & 17** ([Practice](../files/mock6.pdf)) \| Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
@@ -121,7 +121,7 @@ Below is a detailed schedule that will list the material covered in each class s
     Homework 5 due
 * Fri., December 5: Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
-	|[Lab 6](../files/2048lab6.pdf): Thermal Expansion \| Pre-lab: re-read Ch [1.4b](https://openstax.org/books/university-physics-volume-2/pages/1-3-thermal-expansion)
+	|[Lab 6](../files/2048lab7.pdf): Thermal Expansion \| Pre-lab: re-read Ch [1.4b](https://openstax.org/books/university-physics-volume-2/pages/1-3-thermal-expansion)
 
 
 
