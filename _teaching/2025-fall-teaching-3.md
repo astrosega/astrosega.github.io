@@ -72,16 +72,16 @@ Below is a detailed schedule that will list the material covered in each class s
   |Ch. 12 notes and highligths due
 * Wed., October 15: Comets, Asteroids, and Meteorites (Chp. [13](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
 
-  Homework 3 due. |[Homework 4](../files/astrohw4.pdf) (Chp. 13-14) assigned, due Wed., March 12 
+  Homework 3 due. |[Homework 4](../files/astrohw5.pdf) (Chp. 13-14) assigned, due Wed., March 12 
 * Mon., October 20: Here comes the Sun (Chp. [15](https://openstax.org/books/astronomy-2e/pages/15-thinking-ahead))
 * Wed., October 22: The Sun has all the power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/16-thinking-ahead))
 
-     Ch. 16 notes and highligths due | Homework 4 due. |[Homework 5](../files/astrohw5.pdf) (Chp. 15-18,20-22 ) assigned, due Mon., March 24
+     | Ch. 16 notes and highligths due
 * Mon., October 27: Stars (Ch. [18](https://openstax.org/books/university-physics-volume-1/pages/18-thinking-ahead))
 * Wed., October 29: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/19-thinking-ahead))
 * Mon., November 3: Gas, and Dust (Ch. [20](https://openstax.org/books/astronomy-2e/pages/20-thinking-ahead))
  
-  Homework 5 due.|[Homework 6](../files/astrohw6.pdf) (Chp. 19) assigned, due Wed., April 14
+  Homework 4 due.|[Homework 5](../files/astrohw6.pdf) (Chp. 19) assigned, due Wed., April 14
 * Wed., November 5: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/21-thinking-ahead))
 * Mon., November 10: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/22-thinking-ahead))
 
@@ -95,11 +95,11 @@ Below is a detailed schedule that will list the material covered in each class s
 	Ch. 24 notes and highligths due |[Worldwide Telescope Worksheet 2](../files/wwt2.pdf): Stellar Remnants
 * Mon., November 24: The Milky Way: not in equilibrium (Ch. [25](https://openstax.org/books/astronomy-2e/pages/25-thinking-ahead))
 
-   | Homework 6 due. |[Homework 7](../files/astrohw7.pdf) (Chp. 26-28 ) assigned, due Wed., April 23
+   | Homework 5 due. |[Homework 6](../files/astrohw7.pdf) (Chp. 26-28 ) assigned, due Wed., April 23
 * Wed., November 26: Galaxies I (Ch. [26](https://openstax.org/books/astronomy-2e/pages/26-thinking-ahead))
 * Mon., December 1: Galaxies II (Ch. [28](https://openstax.org/books/astronomy-2e/pages/28-thinking-ahead))
 
-   Ch. 29 notes and highligths due | Homework 7 due.|[Worldwide Telescope Worksheet 3](../files/wwt3.pdf): How Hubble discovered the Universe is expanding
+   Ch. 29 notes and highligths due | Homework 6 due.|[Worldwide Telescope Worksheet 3](../files/wwt3.pdf): How Hubble discovered the Universe is expanding
 * Wed., December 3: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/39-thinking-ahead))
 
 
