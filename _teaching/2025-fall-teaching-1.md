@@ -69,7 +69,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   | [Lab 3](../files/2048lab3b.pdf): Collisions in 1D
 * Tues., October 7: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
-* Thur., October 9: **Problem-Solving Session** | Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+* Thur., October 9: **Problem-Solving Session** \| Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 * Fri., October 10: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg))
 * Tues., October 14: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Thur., October 16: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
@@ -85,8 +85,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., October 24: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
    | [Lab 4, day 2](../files/2048lab3b.pdf): Rotating Frames
-
-* Tues., October 28: **Problem Solving Session** | Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Tues., October 28: **Problem Solving Session** \| Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Thur., October 30: **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
   | Handout: [Complex numbers](../files/complex_numbers.pdf)
