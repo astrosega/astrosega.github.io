@@ -15,7 +15,7 @@ Planets, Stars, and Galaxies
 * Course Times: Spring 2025, Mon./Wed. 1:00-2:15pm
 * Location:	Room 205
 * Office Hours:	2nd Floor Faculty Wing or Room 309: M-F 12:15pm-12:45pm
-* Syllabus:	See the most [up-to-date](../files/AST1002.pdf) PDF version.
+* Syllabus:	See the most [up-to-date](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/EVyPpMo85FZNmlIPzDHtXqAB0ywZJloRs7FlWsf5lMeo2Q?e=QIFtWE) PDF version.
 
 Summary
 -----------
@@ -41,7 +41,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Mon., August 25: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction))
 
-  |Handout: [syllabus](../files/2048C.pdf)
+  |Handout: [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/EVyPpMo85FZNmlIPzDHtXqAB0ywZJloRs7FlWsf5lMeo2Q?e=QIFtWE)
 * Wed., August 27: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction))
 * Mon., September 1 : Humans' relation to the sky (Chp. [2](https://openstax.org/books/astronomy-2e/pages/2-thinking-ahead))
 * Wed., September 3: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead))
