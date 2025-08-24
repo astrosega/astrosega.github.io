@@ -25,7 +25,8 @@ There's a lot more information about this course -- including details about the 
 
 Course Material
 --------------
-The primary "required readings" are in the OpenStax book [University Physics 2](https://openstax.org/details/books/university-physics-volume-2). 
+The primary "required readings" are in the OpenStax book [University Physics 2](https://openstax.org/details/books/university-physics-volume-2).
+To set-up an extra credit tutorial studemnts must fill this [excel sheet](https://fsu-my.sharepoint.com/:x:/g/personal/dds24b_fsu_edu/EcC_iYU374NNkIspqj8Vi8gBCE0axqZM-TYc4j7BiNf1yA?e=J2Pl8N)
 
 Here are some additional resources:
 
@@ -91,7 +92,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., October 29:  Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Fri.,  October 31:  Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
-  | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Fri., November 17.
+   | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Fri., November 17.
 * Mon., November 3: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Wed., November 5: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf))
 * Fri., November 7: Magnetism I  (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
@@ -99,19 +100,19 @@ Below is a detailed schedule that will list the material covered in each class s
    |[Lab 5, day 1](../files/2049lab6.pdf): CRTs (Cathode Ray Tube)
 * Mon., November 10: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
-   |[Lab 5, day 2](../files/2049lab6.pdf): CRTs (Cathode Ray Tube)
+   |[Lab 5, day 2](../files/2049lab6.pdf): CRTs (Cathode Ray Tube) | Extra credit reading: [The Coordination Problem](../files/measurement.pdf)
 * Wed., November 12: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Fri., November 14: **Problem-solving session** \|  Ampere, Faraday, and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction), [13](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Mon., November 17:  Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
-  |Homework 5 due |[Homework 6](../files/2049Chw6.pdf) (Ch 11-14) assigned, due Fri., November 25.
+    |Homework 5 due |[Homework 6](../files/2049Chw6.pdf) (Ch 11-14) assigned, due Fri., November 25. 
 * Wed., November 19: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Fri., November 21: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
- 	 | [Lab 6, day 1](../files/2049lab7.pdf): Solenoids and Inductors
+ 	  | [Lab 6, day 1](../files/2049lab7.pdf): Solenoids and Inductors
 * Mon., November 24:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
-   | [Lab 6, day 2](../files/2049lab7.pdf): Solenoids and Inductors
+   | [Lab 6, day 2](../files/2049lab7.pdf): Solenoids and Inductors | Extra credit reading: [The Coordination Problem](../files/measurement.pdf)
 * Wed., November 26:   **Problem-Solving Session** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Fri., November 28: No Clases
 * Mon., December 1:  **Quiz Chp. 13, 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
