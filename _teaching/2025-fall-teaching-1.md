@@ -26,6 +26,7 @@ There's a lot more information about this course -- including details about the 
 Course Material
 --------------
 The primary "required readings" are in the OpenStax book [University Physics 1](https://openstax.org/details/books/university-physics-volume-1) and the first section (thermodynamics) of [University Physics 2](https://openstax.org/details/books/university-physics-volume-2). For one of our experiments in this class (Lab 5), you will be using your phone, and the app phyphox, which you can download [here](https://phyphox.org).
+To set-uo the extra credit tutorial student must fill this [Excell sheet](https://fsu-my.sharepoint.com/:x:/g/personal/dds24b_fsu_edu/EbGIrTEXo5FEqlu11QnDru0BvYV9sLJTQs5WJOCyuGZXQQ?e=tmn2OK)
 
 Here are some additional resources:
 
