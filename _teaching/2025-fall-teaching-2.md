@@ -100,7 +100,7 @@ Below is a detailed schedule that will list the material covered in each class s
    |[Lab 5, day 1](../files/2049lab6.pdf): CRTs (Cathode Ray Tube)
 * Mon., November 10: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
-   |[Lab 5, day 2](../files/2049lab6.pdf): CRTs (Cathode Ray Tube) | Extra credit reading: [The Coordination Problem](../files/measurement.pdf)
+   |[Lab 5, day 2](../files/2049lab6.pdf): CRTs (Cathode Ray Tube)
 * Wed., November 12: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Fri., November 14: **Problem-solving session** \|  Ampere, Faraday, and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction), [13](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Mon., November 17:  Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
