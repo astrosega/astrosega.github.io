@@ -3,7 +3,7 @@ title: "AST1002 (Spring 2025)"
 collection: teaching
 type: "Undergraduate course"
 category: past
-permalink: /teaching/2025-spring-teaching-3
+permalink: /teaching/2025-fall-teaching-3
 venue: "Florida State University"
 date: 2025-01-07
 location: "Panama City, Panama"
