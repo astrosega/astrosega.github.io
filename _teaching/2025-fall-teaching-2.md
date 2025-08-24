@@ -15,7 +15,7 @@ Physics Studio B
 * Course Times: Spring 2025, Mon./Wed. 9:30-12:00m /Fri. 1 - 3:30pm,
 * Location:	Room 309
 * Office Hours:	Faculty Wing or Room 309: Mon./Tue./Wed./Thu./Fri. 12:20pm-12:50pm
-* Syllabus:	See the most [up-to-date](../files/PHY2049C0.pdf) PDF version.
+* Syllabus:	See the most [up-to-date](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/ETg1afqeqgtCgptYHYLXOx8BBGWcKb1ElEtqx_xA5ADJSA?e=5KlYUY) version.
 
 Summary
 -----------
@@ -41,7 +41,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Mon., August 25: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
-  Handout: [syllabus](../files/PHY2049C.pdf) | [Homework 1](../files/2049Chw1.pdf) (Chp. 5-Electrostatics) assigned, due Mon., September 8.
+  Handout: [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/ETg1afqeqgtCgptYHYLXOx8BBGWcKb1ElEtqx_xA5ADJSA?e=5KlYUY) | [Homework 1](../files/2049Chw1.pdf) (Chp. 5-Electrostatics) assigned, due Mon., September 8.
 * Wed., August 27: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Fri., August 29: **Problem-solving session** \| Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Mon., Septemper 1: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
