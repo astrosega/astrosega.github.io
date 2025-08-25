@@ -1,8 +1,8 @@
 ---
-title: "AST1002 (Spring 2025)"
+title: "AST1002 (Fall 2025)"
 collection: teaching
 type: "Undergraduate course"
-category: past
+category: current
 permalink: /teaching/2025-fall-teaching-3
 venue: "Florida State University"
 date: 2025-01-07
@@ -12,9 +12,9 @@ Planets, Stars, and Galaxies
 
 * Instructor:	Prof. Daniel D. Sega ([email](mailto:dsega@fsu.edu))
 * Instructor's Office: 2nd Floor, Faculty Wing
-* Course Times: Spring 2025, Mon./Wed. 1:00-2:15pm
-* Location:	Room 205
-* Office Hours:	2nd Floor Faculty Wing or Room 309: M-F 12:15pm-12:45pm
+* Course Times: Fall 2025, Mon./Wed. 1:00-2:15pm
+* Location:	Room 207
+* Office Hours:	2nd Floor Faculty Wing or Room 309: M-F 12:20pm-12:50pm
 * Syllabus:	See the most [up-to-date](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/EVyPpMo85FZNmlIPzDHtXqAB0ywZJloRs7FlWsf5lMeo2Q?e=QIFtWE) PDF version.
 
 Summary
