@@ -72,37 +72,37 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., October 6: Currents and Resistance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Wed., October 8: **Problem-solving session** \| Currents and Resistance and Capacitance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Fri., October 10: **Problem-solving session** \| Currents and Resistance and Capacitance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-* Mon., October 13: **Problem-solving session** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Mon., October 13: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
    Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., October 27.
-* Wed., October 15: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Wed., October 15: **Quiz Chp. 8** ([Practice](../files/mock4b.pdf))
 
    |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
-* Fri., October 17: **Quiz Chp. 8** ([Practice](../files/mock4b.pdf))
+* Fri., October 17: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
   ||Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. October 31.
-* Mon., October 20: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
-* Wed., October 22: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+* Mon., October 20: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+* Wed., October 22: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf))
 * Fri., October 24: Circuits I  (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 
    |[Lab 4](../files/2049lab4.pdf): Circuits I
-* Mon., October 27: October 29: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf))
+* Mon., October 27: October 29: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
    |Homework 4 due. 
-* Wed., October 29:  Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
-* Fri.,  October 31:  Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
+* Wed., October 29:  Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
+* Fri.,  October 31:  **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
    | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Fri., November 17.
-* Mon., November 3: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
-* Wed., November 5: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf))
-* Fri., November 7: Magnetism I  (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
-  
-   |[Lab 5, day 1](../files/2049lab6.pdf): CRTs (Cathode Ray Tube)
-* Mon., November 10: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
-
-   |[Lab 5, day 2](../files/2049lab6.pdf): CRTs (Cathode Ray Tube)
+* Mon., November 3: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf)) (https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
+* Wed., November 5: No Classes
+* Fri., November 7: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+* Mon., November 10: No Classes
 * Wed., November 12: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
-* Fri., November 14: **Problem-solving session** \|  Ampere, Faraday, and Lenz (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction), [13](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+
+    | [Lab 5, day 1](../files/2049lab6.pdf): Solenoids and Inductors
+* Fri., November 14: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+
+   | [Lab 5, day 2](../files/2049lab6.pdf): Solenoids and Inductors
 * Mon., November 17:  Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
     |Homework 5 due |[Homework 6](../files/2049Chw6.pdf) (Ch 11-14) assigned, due Fri., November 25. 
