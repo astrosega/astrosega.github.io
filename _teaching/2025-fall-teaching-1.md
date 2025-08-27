@@ -43,7 +43,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., August 26: The Structure of Mechanics. Motion in 1D. (Chp. [1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction) & [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction))
 
   Handout: [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/EXbD0gGLt4dBkUWCaRf4NPUB3kMeGC2z1ltiGOPoKfWPIw?e=CgRX7w) | [Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Tue., September 21.
-* Thur., August 28: No Classes
+* Thur., August 28: Vectors (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/3-introduction)) \| **Problem-Solving Session** \| Motion in 1D. Chp. [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction)
 * Fri., August 29: **Quiz Chp. 1 & 3** ([Practice](../files/mock1.pdf)) \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Tues., September 2: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Thur., September 4: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
