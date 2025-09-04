@@ -54,7 +54,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., September 11: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 
   |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
-* Fri., September 12: **Quiz Chp. 5 & 6** ([Practice](../files/mock2.pdf) -> [Solved](../images/mock2sol.jpg)) \| Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
+* Fri., September 12: **Quiz Chp. 5 & 6** ([Practice](../files/mock2.pdf) -> [Solved](../images/mock2sol.jpg))
 * Tues., September 16:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
 * Thur., September 18: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Fri., September 19: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
