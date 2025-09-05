@@ -42,7 +42,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Tues., August 26: The Structure of Mechanics. Motion in 1D. (Chp. [1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction) & [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction))
 
-  Handout: [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/EXbD0gGLt4dBkUWCaRf4NPUB3kMeGC2z1ltiGOPoKfWPIw?e=CgRX7w) | [Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Tue., September 21.
+  Handout: [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/EXbD0gGLt4dBkUWCaRf4NPUB3kMeGC2z1ltiGOPoKfWPIw?e=CgRX7w) | [Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Tue., September 9.
 * Thur., August 28: Vectors (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/3-introduction)) \| **Problem-Solving Session** \| Motion in 1D. Chp. [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction)
 * Fri., August 29: **Quiz Chp. 1 & 3** ([Practice](../files/mock1.pdf) -> [Solved](../files/mocksol1.pdf)) \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Tues., September 2: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
@@ -50,7 +50,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., September 5: Newton's Laws II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 * Tues., September 9: **Problem-Solving Session** \| Newton's Laws I & II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction) & Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
   
-  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Tue., September 9. |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/), due Fri. September 19
+  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Tue., September 9. |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/), due Fri. September 23
 * Thur., September 11: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 
   |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
