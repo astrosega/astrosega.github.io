@@ -51,7 +51,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6 ) assigned, due Mon., September 22.
 * Wed., September 10: **Quiz Chp. 5 (Electric field)** ([Practice](../files/mock2b.pdf))
-* Fri., September 11: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Fri., September 12: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
   
   |[Lab 1](../files/2049lab1.pdf): Electrostatic Generator
 * Mon., September 15:  **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
