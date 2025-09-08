@@ -47,15 +47,15 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., Septemper 1: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Wed., September 3: **Quiz Chp. 5 (Coulomb Force)** ([Practice](../files/mock1b.pdf))
 * Fri., September 5: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) \| **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Mon., September 8: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Mon., September 8: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) \| **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
   Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6 ) assigned, due Mon., September 22.
 * Wed., September 10: **Quiz Chp. 5 (Electric field)** ([Practice](../files/mock2b.pdf))
 * Fri., September 12: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
   
   |[Lab 1](../files/2049lab1.pdf): Electrostatic Generator
-* Mon., September 15:  **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
-* Wed., September 17:  The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
+* Mon., September 15:  Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Wed., September 17:  **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Fri., September 19:  The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Mon., September 22: **Quiz Chp. 6** ([Practice](../files/mock3b.pdf))
   
