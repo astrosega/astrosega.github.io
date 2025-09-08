@@ -39,16 +39,16 @@ Schedule
 
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts, and [Stellarium](https://stellarium-web.org/) and [World Wide Telescope](https://www.worldwidetelescope.org/) worksheets, and various course deadlines.
 
-* Mon., August 25: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction))
+* Mon., August 25: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction)) 
 
   |Handout: [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/EVyPpMo85FZNmlIPzDHtXqAB0ywZJloRs7FlWsf5lMeo2Q?e=QIFtWE)
-* Wed., August 27: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction))
+* Wed., August 27: Scales of the Universe. What is astronomy all about? (Chp. [1](https://openstax.org/books/astronomy-2e/pages/1-introduction)) ([Slides](../files/Slides1.pdf))
 * Mon., September 1 : Humans' relation to the sky (Chp. [2](https://openstax.org/books/astronomy-2e/pages/2-thinking-ahead))
-* Wed., September 3: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead))
+* Wed., September 3: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead)) ([Slides](../files/Slides2.pdf))
 
   |[Homework 1](../files/astrohw1.pdf) (Chp. 3-4) assigned, due Wed., September 17.
 * Mon., September 8: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead))
-* Wed., September 10: Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead))
+* Wed., September 10: Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead)) 
   
    Ch. 4 notes and highligths due|[Stellarium Worksheet 1](../files/Stellarium1.pdf): Introduction to Stellarium
 * Mon., September 15:  Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead))
