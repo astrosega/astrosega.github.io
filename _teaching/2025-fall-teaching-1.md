@@ -54,9 +54,9 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., September 11: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 
   |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
-* Fri., September 12: **Quiz Chp. 5 & 6** ([Practice](../files/mock2.pdf) -> [Solved](../images/mock2sol.jpg))
-* Tues., September 16:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
-* Thur., September 18: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
+* Fri., September 12: **Problem-Solving Session** \| Newton's Laws I & II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction) & Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
+* Tues., September 16:  **Quiz Chp. 5 & 6** ([Practice](../files/mock2.pdf) -> [Solved](../images/mock2sol.jpg))Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
+* Thur., September 18: Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
 * Fri., September 19: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 *  Tues., September 23:   **Problem-Solving Session** \| Conservation of Energy in 2D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 
