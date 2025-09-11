@@ -34,6 +34,7 @@ Here are some additional resources:
 * This book is based on R. Shankar's [Open Course](https://oyc.yale.edu/physics/phys-200) (Yale University), which is available online. These lectures were, and still are, a helpful resource for me.
 * The phone app *phyphox* will be required in some of the labs, download [here](https://phyphox.org/download/).
 * Here is a [worksheet](../files/verbalal.pdf) to practice verbal algebra problems. Problems like this will be use to test your ability of translating English and concepts into equations, an essential skill in this class.
+* Here are some examples of extra credit reading [questions](../files/hectorEC.pdf) and [mini-essay](../files/anabellaEC.pdf).
 
 Schedule
 -------------
