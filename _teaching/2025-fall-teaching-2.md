@@ -57,7 +57,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., September 15:  Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Wed., September 17:  **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Fri., September 19:  The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
-* Mon., September 22: **Quiz Chp. 6** ([Practice](../files/mock3b.pdf))
+* Mon., September 22: **Quiz Chp. 6** ([Practice](../files/mock2bb.pdf))
   
    Homework 2 due.|Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/)
 * Wed., September 24:  **Problem-solving session** \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
