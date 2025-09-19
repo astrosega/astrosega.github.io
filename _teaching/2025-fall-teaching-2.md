@@ -93,7 +93,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri.,  October 31:  **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
    | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Fri., November 17.
-* Mon., November 3: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf)) (https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
+* Mon., November 3: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf))
 * Wed., November 5: No Classes
 * Fri., November 7: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Mon., November 10: No Classes
@@ -109,7 +109,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., November 19: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Fri., November 21: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
- 	| [Lab 6, day 1](../files/2049lab7.pdf): Solenoids and Inductors
+  	| [Lab 6, day 1](../files/2049lab7.pdf): Solenoids and Inductors
 * Mon., November 24:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
    | [Lab 6, day 2](../files/2049lab7.pdf): Solenoids and Inductors | Extra credit reading: [The Coordination Problem](../files/measurement.pdf)
