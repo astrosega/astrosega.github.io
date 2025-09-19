@@ -62,7 +62,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
 	
 	|Handout: [Conservation of Energy in 2D and Problems](../files/ShankarCh6andProblems.pdf)
-*  Tues., September 23:   **Problem-Solving Session** \| Conservation of Energy in 2D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
+*  Tues., September 23:   **Problem-Solving Session** \| Conservation of Energy in 1D & 2D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 
    | Homework 2 due.
 * Thur., September 25: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
