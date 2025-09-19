@@ -59,9 +59,12 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., September 16:  **Quiz Chp. 5 & 6** ([Practice](../files/mock2.pdf) -> [Solved](../images/mock2sol.jpg))
 * Thur., September 18: Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
 * Fri., September 19: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction)) <mark>(2.5-hour lecture)</mark>
+
+	
+	|Handout: [Conservation of Energy in 2D and Problems](../files/ShankarCh6andProblems.pdf)
 *  Tues., September 23:   **Problem-Solving Session** \| Conservation of Energy in 2D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 
-  | Homework 2 due.
+   | Homework 2 due.
 * Thur., September 25: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
 * Fri., September 26: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 * Tues., September 30:  Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
@@ -91,10 +94,9 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., October 28: **Problem Solving Session** \| Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Thur., October 30: **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
-  | Handout: [Complex numbers](../files/complex_numbers.pdf)
 * Fri., October 31:  Mathematical Methods
 
-   Handout: [Complex numbers](../files/complex_numbers.pdf)
+   | Handout: [Complex numbers](../files/complex_numbers.pdf)
 * Tues., November 4: No classes
 * Thur., November 6:  Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
