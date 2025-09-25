@@ -66,7 +66,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
    | Homework 2 due.
 * Thur., September 25: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
-* Fri., September 26: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
+* Fri., September 26: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
 * Tues., September 30:  Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
 	 | [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum) | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Tue., October 21. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., October 10
