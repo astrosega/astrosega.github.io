@@ -69,23 +69,23 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., September 29: **Quiz Chp. 7** ([Practice](../files/mock3b.pdf))
 * Wed., October 1: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Fri., October 3: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-* Mon., October 6: Currents and Resistance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
-* Wed., October 8: **Problem-solving session** \| Currents and Resistance and Capacitance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
-* Fri., October 10: **Problem-solving session** \| Currents and Resistance and Capacitance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-* Mon., October 13: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-
-   Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., October 27.
-* Wed., October 15: **Quiz Chp. 8** ([Practice](../files/mock4b.pdf))
+* Mon., October 6: **Problem-solving session** \| Currents and Resistance and Capacitance  (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
+* Wed., October 8: **Problem-solving session** \| Currents and Resistance and Capacitance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Fri., October 10: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
    |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
-* Fri., October 17: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
+* Mon., October 13: **Quiz Chp. 8** ([Practice](../files/mock4b.pdf))
 
-  ||Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. October 31.
-* Mon., October 20: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
-* Wed., October 22: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf))
-* Fri., October 24: Circuits I  (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
+   Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., October 27.
+* Wed., October 15: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
+* Fri., October 17: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 
-   |[Lab 4](../files/2049lab4.pdf): Circuits I
+  |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. October 31.
+* Mon., October 20: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf))
+* Wed., October 22: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+* Fri., October 24: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+
+    |[Lab 4](../files/2049lab4.pdf): Circuits I
 * Mon., October 27: October 29: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
    |Homework 4 due. 
