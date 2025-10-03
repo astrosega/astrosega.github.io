@@ -109,7 +109,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., November 19: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Fri., November 21: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
-  	| [Lab 6, day 1](../files/2049lab7.pdf): Solenoids and Inductors
+  | [Lab 6, day 1](../files/2049lab7.pdf): Solenoids and Inductors
 * Mon., November 24:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
    | [Lab 6, day 2](../files/2049lab7.pdf): Solenoids and Inductors | Extra credit reading: [The Coordination Problem](../files/measurement.pdf)
