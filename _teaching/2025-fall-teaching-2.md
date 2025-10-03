@@ -70,14 +70,14 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., October 1: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Fri., October 3: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Mon., October 6: **Problem-solving session** \| Currents and Resistance and Capacitance  (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
-* Wed., October 8: **Problem-solving session** \| Currents and Resistance and Capacitance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-* Fri., October 10: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Wed., October 8: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
-   |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
-* Mon., October 13: **Quiz Chp. 8** ([Practice](../files/mock4b.pdf))
+    |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
+* Fri., October 10: **Quiz Chp. 8 & 9** ([Practice](../files/mock4b.pdf))
+* Mon., October 13: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
    Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., October 27.
-* Wed., October 15: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
+* Wed., October 15: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))introduction))
 * Fri., October 17: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 
   |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. October 31.
