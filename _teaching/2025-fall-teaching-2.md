@@ -21,7 +21,7 @@ Summary
 -----------
 In this course, engineering and science majors will learn about the electromagnetic phenomena and the motion under electromagnetic fields. They will learn the basics of electronics (circuits) and of how day-to-day electromechanic technology works. They will also learn about the nature of a classical fields and the mathematics behind working with fields.
 
-There's a lot more information about this course -- including details about the textbook, who should/shouldn't take this class, and how your grade is calculated -- in the [syllabus](../files/PHY2049C.pdf).
+There's a lot more information about this course -- including details about the textbook, who should/shouldn't take this class, and how your grade is calculated -- in the [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/ETg1afqeqgtCgptYHYLXOx8BBGWcKb1ElEtqx_xA5ADJSA?e=5KlYUY).
 
 Course Material
 --------------
