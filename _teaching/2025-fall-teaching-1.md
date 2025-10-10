@@ -33,7 +33,7 @@ Here are some additional resources:
 * An excellent, more abridged e-book for this course is available through the FSU Library [Fundamental of Physics I](https://fsu-flvc.primo.exlibrisgroup.com/discovery/openurl?institution=01FALSC_FSU&vid=01FALSC_FSU:Home&isbn=9780300243772&genre=book&eisbn=9780300249583&title=Fundamentals%20of%20Physics%20I&sid=jstor:jstor). Give it a try if the OpenStax book treatment of a topic does not click with you. Ramamurti Shankar writes in a very particular voice that can help some students.
 * This book is based on R. Shankar's [Open Course](https://oyc.yale.edu/physics/phys-200) (Yale University), which is available online. These lectures were, and still are, a helpful resource for me.
 * The phone app *phyphox* will be required in some of the labs, download [here](https://phyphox.org/download/).
-* Here is a [worksheet](../files/verbalal.pdf) to practice verbal algebra problems. Here is [another one](../files/verbalal.pdf). Problems like this will be use to test your ability of translating English and concepts into equations, an essential skill in this class.
+* Here is a [worksheet](../files/verbalal.pdf) to practice verbal algebra problems. Here is [another one](../files/Algebra.pdf). Problems like this will be use to test your ability of translating English and concepts into equations, an essential skill in this class.
 * Here are some examples of extra credit reading [questions](../files/hectorEC.pdf) and [mini-essay](../files/anabellaEC.pdf).
 
 Schedule
