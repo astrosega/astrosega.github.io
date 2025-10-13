@@ -74,7 +74,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
   Homework 3 due. |[Homework 4](../files/astrohw5.pdf) (Chp. 13-14) assigned, due Wed., November 3 
 * Mon., October 20: Here comes the Sun (Chp. [15](https://openstax.org/books/astronomy-2e/pages/15-thinking-ahead))
-* Wed., October 22: The Sun has all the power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/16-thinking-ahead))
+* Wed., October 22: The Sun's power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/16-thinking-ahead))
 
      | Ch. 16 notes and highligths due
 * Mon., October 27: Stars (Ch. [18](https://openstax.org/books/university-physics-volume-1/pages/18-thinking-ahead))
