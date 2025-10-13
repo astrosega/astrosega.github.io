@@ -69,7 +69,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., October 8: The Giant Planets (Chp. [11](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))
 * Mon., October 13: Ring, Moons, and Pluto (Chp. [12](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
   
-  |Ch. 12 notes and highligths due|[Stellarium Worksheet 2](../files/wwtextra.pdf): Navigating the Solar System
+  |Ch. 12 notes and highligths due|[WWT Worksheet extra](../files/wwtextra.pdf): Navigating the Solar System
 * Wed., October 15: Comets, Asteroids, and Meteorites (Chp. [13](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
 * Mon., October 20: Here comes the Sun (Chp. [15](https://openstax.org/books/astronomy-2e/pages/15-thinking-ahead))
 
