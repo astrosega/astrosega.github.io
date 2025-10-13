@@ -62,18 +62,18 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., September 29: Earth (Chp. [8](https://openstax.org/books/astronomy-2e/pages/8-thinking-ahead))
 * Wed., October 1: Moon and Mercury (Chp. [9](https://openstax.org/books/astronomy-2e/pages/9-thinking-ahead))
 	
-	Ch. 9 notes and highligths due|[Stellarium Worksheet 2](../files/Stellarium2.pdf): Retrograde Motion
+	Ch. 9 notes and highligths due
 * Mon., October 6: Venus and Mars (Chp. [10](https://openstax.org/books/astronomy-2e/pages/10-thinking-ahead))
   
   |Homework 2 due. |[Homework 3](../files/astrohw3.pdf) (Chp. 8-11 ) assigned, due Wed., October 15
 * Wed., October 8: The Giant Planets (Chp. [11](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))
 * Mon., October 13: Ring, Moons, and Pluto (Chp. [12](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
   
-  |Ch. 12 notes and highligths due
+  |Ch. 12 notes and highligths due|[Stellarium Worksheet 2](../files/Stellarium2.pdf): Retrograde Motion
 * Wed., October 15: Comets, Asteroids, and Meteorites (Chp. [13](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
-
-  Homework 3 due. |[Homework 4](../files/astrohw5.pdf) (Chp. 13-14) assigned, due Wed., November 3 
 * Mon., October 20: Here comes the Sun (Chp. [15](https://openstax.org/books/astronomy-2e/pages/15-thinking-ahead))
+
+   Homework 3 due. |[Homework 4](../files/astrohw5.pdf) (Chp. 13-14) assigned, due Wed., November 3 
 * Wed., October 22: The Sun's power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/16-thinking-ahead))
 
      | Ch. 16 notes and highligths due
