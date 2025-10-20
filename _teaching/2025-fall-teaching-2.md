@@ -77,7 +77,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., October 13: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
    Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., October 27.
-* Wed., October 15: **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))introduction))
+* Wed., October 15: **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 * Fri., October 17: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 
   |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. October 31.
