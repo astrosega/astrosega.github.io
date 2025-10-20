@@ -98,14 +98,12 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., November 7: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Mon., November 10: No Classes
 * Wed., November 12: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
-
-    | [Lab 5, day 1](../files/2049lab6.pdf): Solenoids and Inductors
 * Fri., November 14: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
-   | [Lab 5, day 2](../files/2049lab6.pdf): Solenoids and Inductors
+   | [Lab 5, day 1](../files/2049lab6.pdf): Solenoids and Inductors
 * Mon., November 17:  Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
-    |Homework 5 due |[Homework 6](../files/2049Chw6.pdf) (Ch 11-14) assigned, due Fri., November 25. 
+  | [Lab 5, day 1](../files/2049lab6.pdf): Solenoids and Inductors|Homework 5 due |[Homework 6](../files/2049Chw6.pdf) (Ch 11-14) assigned, due Fri., November 25. 
 * Wed., November 19: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Fri., November 21: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
