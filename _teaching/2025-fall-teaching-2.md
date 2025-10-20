@@ -86,18 +86,18 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., October 24: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
     |[Lab 4](../files/2049lab4.pdf): Circuits I
-* Mon., October 27: October 29: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+* Mon., October 27: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
    |Homework 4 due. 
-* Wed., October 29:  Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
+* Wed., October 29: Magnetism I (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Fri.,  October 31:  **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
    | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Fri., November 17.
-* Mon., November 3: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf))
+* Mon., November 3: No Classes
 * Wed., November 5: No Classes
 * Fri., November 7: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Mon., November 10: No Classes
-* Wed., November 12: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+* Wed., November 12: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf))
 * Fri., November 14: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
    | [Lab 5, day 1](../files/2049lab6.pdf): Solenoids and Inductors
