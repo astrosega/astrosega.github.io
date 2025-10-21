@@ -82,7 +82,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., October 17: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
   | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Tues., November 11.
-* Tues., October 21:  **Quiz Chp. 12** ([Practice](../files/mock4r2.pdf))
+* Tues., October 21:  **Quiz Chp. 12** ([Practice](../files/mock4.pdf))
 
    | Homework 3 due 
 * Thur., October 23: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
