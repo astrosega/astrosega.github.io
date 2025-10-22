@@ -103,7 +103,7 @@ Below is a detailed schedule that will list the material covered in each class s
    | [Lab 5, day 1](../files/2049lab6.pdf): CRTs
 * Mon., November 17:  Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
-  | [Lab 5, day 1](../files/2049lab6.pdf):CRTs |Homework 5 due |[Homework 6](../files/2049Chw6.pdf) (Ch 11-14) assigned, due Fri., November 25. 
+  |Homework 5 due |[Homework 6](../files/2049Chw6.pdf) (Ch 11-14) assigned, due Fri., November 25. 
 * Wed., November 19: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Fri., November 21: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
