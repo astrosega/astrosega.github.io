@@ -95,11 +95,11 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., November 5: No Classes
 * Fri., November 7: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf))
 * Mon., November 10: No Classes
-* Wed., November 12: **Problem-Solving Session** \| Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
-* Fri., November 14: Faraday and Lenz (Ch. [13] (https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+* Wed., November 12: **Problem-Solving Session** \| Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction)
+* Fri., November 14: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction))
 
    | [Lab 5](../files/2049lab6.pdf): CRTs
-* Mon., November 17:  **Quiz Chp. 13** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf)) (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) 
+* Mon., November 17:  **Quiz Chp. 13** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
 * Wed., November 19: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Fri., November 21: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
