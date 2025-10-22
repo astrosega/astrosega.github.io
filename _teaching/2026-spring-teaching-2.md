@@ -103,7 +103,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., November 19: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Fri., November 21: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
-   | [Lab 6, day 1](../files/2049lab7.pdf): Solenoids and Inductors
+   | [Lab 6](../files/2049lab7.pdf): Solenoids and Inductors
 * Mon., November 24:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Wed., November 26:   **Problem-Solving Session** \| Inductance & Circuits II (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) & (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Fri., November 28: No Clases
