@@ -73,18 +73,18 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., October 15: Comets, Asteroids, and Meteorites (Chp. [13](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
 * Mon., October 20: Here comes the Sun (Chp. [15](https://openstax.org/books/astronomy-2e/pages/15-thinking-ahead))
 
-   Homework 3 due. |[Homework 4](../files/astrohw5.pdf) (Chp. 13-14) assigned, due Wed., November 3 
+   Homework 3 due. |[Homework 4](../files/astrohw5.pdf) (Chp. 13-14) assigned, due Wed., November 12 
 * Wed., October 22: The Sun's power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/16-thinking-ahead))
 
      | Ch. 16 notes and highligths due
 * Mon., October 27: Stars (Ch. [18](https://openstax.org/books/university-physics-volume-1/pages/18-thinking-ahead))
 * Wed., October 29: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/19-thinking-ahead))
-* Mon., November 3: Gas, and Dust (Ch. [20](https://openstax.org/books/astronomy-2e/pages/20-thinking-ahead))
- 
-  Homework 4 due.|[Homework 5](../files/astrohw6.pdf) (Chp. 19) assigned, due Wed., November 24
-* Wed., November 5: No Class
+* Mon., November 3: No Class
+ * Wed., November 5: No Class
 * Mon., November 10: No Class
 * Wed., November 12: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/21-thinking-ahead))
+
+  Homework 4 due.|[Homework 5](../files/astrohw6.pdf) (Chp. 19) assigned, due Wed., November 24
 * Mon., November 17: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/22-thinking-ahead))
 
   Ch. 22 notes and highligths due |[Stellarium Worksheet 3](../files/Stellarium3.pdf): The H-R diagram
