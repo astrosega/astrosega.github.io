@@ -92,7 +92,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., October 29: Magnetism I (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Fri.,  October 31:  **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 
-   | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Fri., November 17.
+   | [Homework 5](../files/2049Chw5_old.pdf) (Chp. 10, 11) assigned, due Fri., November 17.
 * Mon., November 3: No Classes
 * Wed., November 5: No Classes
 * Fri., November 7: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
