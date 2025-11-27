@@ -113,11 +113,13 @@ Below is a detailed schedule that will list the material covered in each class s
    | [Lab 6, day 2](../files/2049lab7.pdf): Solenoids and Inductors | Extra credit reading: [The Coordination Problem](../files/measurement.pdf)
 * Wed., November 26:   **Problem-Solving Session** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Fri., November 28: No Clases
-* Mon., December 1:  **Quiz Chp. 13, 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
-* Wed., December 3: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+* Mon., December 1:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
   | [Lab 7, day 1](../files/2049lab8.pdf): Circuits III
-* Fri., December 5:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+* Wed., December 3: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+
+  | [Lab 7, day 2](../files/2049lab8.pdf): Circuits III
+* Fri., December 5:  **Quiz Chp. 13, 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
 
    Homework 6 due. | [Lab 7, day 2](../files/2049lab8.pdf): Circuits III
 
