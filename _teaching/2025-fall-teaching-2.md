@@ -121,7 +121,7 @@ Below is a detailed schedule that will list the material covered in each class s
   | [Lab 7, day 2](../files/2049lab8.pdf): Circuits III
 * Fri., December 5:  **Quiz Chp. 13, 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
 
-   Homework 6 due. |
+  | Homework 6 due. |
 
 
 **[Final Exam Week: Wednesday December 10. ([Practice](../files/mockFinalExamb.pdf))]** 
