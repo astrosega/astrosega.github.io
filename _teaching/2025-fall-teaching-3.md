@@ -2,7 +2,7 @@
 title: "AST1002 (Fall 2025)"
 collection: teaching
 type: "Undergraduate course"
-category: current
+category: past
 permalink: /teaching/2025-fall-teaching-3
 venue: "Florida State University"
 date: 2025-01-07
