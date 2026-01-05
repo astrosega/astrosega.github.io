@@ -60,20 +60,18 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., February 5: **Problem-solving session** \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
   
    Homework 2 due.|Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/)
-* Fri., February 6:  The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
-
-   |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter|[Homework 3](../files/2049Chw3.pdf) (Chp. 7) assigned, due Thur., February 26.
-* Tues., February 10: **Quiz Chp. 7** ([Practice](../files/mock3b.pdf))
-* Thur., February 12: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
-* Fri., February 13: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Fri., February 6:  **Quiz Chp. 7** ([Practice](../files/mock3b.pdf))
+* Tues., February 10: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
+* Thur., February 12: **Problem-solving session** \| Capacitance  (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
+* Fri., February 13: Currents, Resistance, and Circuits (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction) and Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 * Tues., February 17: No Classes
 * Thur., February 19: No Classes
 * Fri., February 20: No Classes
-* Tues., February 24: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Tues., February 24: **Problem-solving session** \| Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Thur., February 26: **Quiz Chp. 8 & 9** ([Practice](../files/mock4b.pdf))
 * Fri., February 27: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
-   Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., February 27.
+   [Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter | [Homework 3](../files/2049Chw3.pdf) (Chp. 7) assigned, due Thur., February 26. Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., February 27.
 * Tues., March 3:  **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
   |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. March 31.
