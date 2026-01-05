@@ -45,7 +45,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., January 9: **No Classes**
 * Tues., January 13: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Thur., January 15: **Problem-solving session** \| Electrostatics & The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Fri., January 16: **Quiz Chp. 5** ([Practice1](../files/mock1b.pdf), ([Practice2](../files/mock2b.pdf)))
+* Fri., January 16: **Quiz Chp. 5** ([Practice1](../files/mock1b.pdf), [Practice2](../files/mock2b.pdf))
 * Tues., January 20: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) 
 * Thur., January 22: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 
