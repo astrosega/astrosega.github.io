@@ -117,4 +117,4 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., April 23:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Wed., April 24:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
-**[Final Exam Week: Tuesday April 28. ([Practice](../files/mockFinalExamb.pdf))]** 
+**[Final Exam: Tuesday April 28. ([Practice](../files/mockFinalExamb.pdf))]** 
