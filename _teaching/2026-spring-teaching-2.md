@@ -49,7 +49,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., January 20: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) 
 * Thur., January 22: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 
-  Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6 ) assigned, due Thur., February 22.
+  Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6 ) assigned, due Thur., February 5.
 * Fri., January 23: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Tues., January 27: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
   
@@ -63,6 +63,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., February 6:  **Quiz Chp. 7** ([Practice](../files/mock3b.pdf))
 * Tues., February 10: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Thur., February 12: **Problem-solving session** \| Capacitance  (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
+
+  | [Homework 3](../files/2049Chw3.pdf) (Chp. 7) assigned, due Tues., March 3
 * Fri., February 13: Currents, Resistance, and Circuits (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction) and Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 * Tues., February 17: No Classes
 * Thur., February 19: No Classes
@@ -71,10 +73,10 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., February 26: **Quiz Chp. 8 & 9** ([Practice](../files/mock4b.pdf))
 * Fri., February 27: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
-   [Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter | [Homework 3](../files/2049Chw3.pdf) (Chp. 7) assigned, due Thur., February 26. Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., February 27.
+   [Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
 * Tues., March 3:  **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
-  |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. March 31.
+  Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., March 12.| Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Tues. March 17.
 * Thur., March 5: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf))
 
   |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. March 31.
@@ -88,10 +90,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., March 13: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Tues., March 17:  Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
-   | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Tues., March 17.
+   | Homework 4 due. | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Tues., March 17.
 * Thur., March 19: Magnetism II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
-
-   |Homework 4 due. 
 * Fri., March 20: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Tues., March 24: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Thur., March 26: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf))
