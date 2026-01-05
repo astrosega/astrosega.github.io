@@ -59,7 +59,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., February 3:   The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
 * Thur., February 5: **Problem-solving session** \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
   
-   Homework 2 due.|Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/)
+   Homework 2 due. | Extra credit reading 1: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/) due Tues., Fri. Frebuary 13
 * Fri., February 6:  **Quiz Chp. 7** ([Practice](../files/mock3b.pdf))
 * Tues., February 10: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Thur., February 12: **Problem-solving session** \| Capacitance  (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
@@ -76,10 +76,10 @@ Below is a detailed schedule that will list the material covered in each class s
    [Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
 * Tues., March 3:  **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
-  Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., March 12.| Extra credit reading: [Action at a Distance](../files/action-distance.pdf)
+  Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Tues., March 17.
 * Thur., March 5: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf))
 
-  |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. March 31.
+  |Extra credit reading 2: [Action at a Distance](../files/action-distance.pdf) due Fri. March 31.
 * Fri., March 6: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Tues., March 10: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
@@ -90,7 +90,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., March 13: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Tues., March 17:  Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
-   | Homework 4 due. | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Tues., March 17.
+   | Homework 4 due. | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Tues., April 7.
 * Thur., March 19: Magnetism II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Fri., March 20: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Tues., March 24: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
@@ -102,6 +102,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., April 2:  **Quiz Chp. 13** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
 * Fri., April 3: No Classes
 * Tues., April 7: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
+
+    | Homework 5 due. | [Homework 6](../files/2049Chw6.pdf) (Chp. 12, 13, 14) assigned, due Tues., April 24.
 * Thur., April 9:   Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
    | [Lab 6, day 1](../files/2049lab7.pdf): Solenoids and Inductors
