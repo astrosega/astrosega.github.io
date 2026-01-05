@@ -106,8 +106,10 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., April 7: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Thur., April 9:   Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
-   | [Lab 6](../files/2049lab7.pdf): Solenoids and Inductors
+   | [Lab 6, day 1](../files/2049lab7.pdf): Solenoids and Inductors
 * Fri., April 10:   Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
+
+  | [Lab 6, day 2](../files/2049lab7.pdf): Solenoids and Inductors
 * Tues., April 14: **Problem-Solving Session** \| Inductance & Circuits II (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) & (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Thur., April 16:   **Problem-Solving Session** \| Inductance & Circuits II (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) & (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Fri., April 17: **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
