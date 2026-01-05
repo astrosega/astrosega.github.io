@@ -14,7 +14,7 @@ Physics Studio B
 * Instructor's Office: 2nd Floor, Faculty Wing	
 * Course Times: Spring 2026, Tues./Thur./Fri 9:30-12:00m
 * Location:	Room 309
-* Office Hours:	Faculty Wing or Room 309: Mon./Tue./Wed./Thu./Fri. 12:20pm-12:50pm
+* Office Hours:	Faculty Wing or Room 309: Thur./Tue./Fri./Thu./Fri. 12:20pm-12:50pm
 * Syllabus:	See the most [up-to-date](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/ETg1afqeqgtCgptYHYLXOx8BBGWcKb1ElEtqx_xA5ADJSA?e=5KlYUY) version.
 
 Summary
@@ -39,81 +39,82 @@ Schedule
 
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts and problem sets, and various course deadlines.
 
-* Mon., August 25: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+* Thu., January 8: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
-  Handout: [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/ETg1afqeqgtCgptYHYLXOx8BBGWcKb1ElEtqx_xA5ADJSA?e=5KlYUY) | [Homework 1](../files/2049Chw1.pdf) (Chp. 5-Electrostatics) assigned, due Mon., September 8.
-* Wed., August 27: **Problem-solving session** \| Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Fri., August 29: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Mon., Septemper 1: **Problem-solving session** \| Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Wed., September 3: **Quiz Chp. 5** ([Practice1](../files/mock1b.pdf), ([Practice2](../files/mock2b.pdf)))
-* Fri., September 5: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) 
-* Mon., September 8: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+  Handout: [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/ETg1afqeqgtCgptYHYLXOx8BBGWcKb1ElEtqx_xA5ADJSA?e=5KlYUY) | [Homework 1](../files/2049Chw1.pdf) (Chp. 5-Electrostatics) assigned, due Thur., January 22.
+* Fri., January 9: **No Classes**
+* Tues., January 13: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+* Thur., January 15: **Problem-solving session** \| Electrostatics & The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+* Fri., January 16: **Quiz Chp. 5** ([Practice1](../files/mock1b.pdf), ([Practice2](../files/mock2b.pdf)))
+* Tues., January 20: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) 
+* Thur., January 22: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 
-  Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6 ) assigned, due Mon., September 22.
-* Wed., September 10: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
-* Fri., September 12: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+  Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6 ) assigned, due Thur., February 22.
+* Fri., January 23: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Tues., January 27: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
   
   |[Lab 1](../files/2049lab1.pdf): Electrostatic Generator
-* Mon., September 15:  **Quiz Chp. 6** ([Practice](../files/mock2bb.pdf))
-* Wed., September 17:   The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
-* Fri., September 19:   The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
-* Mon., September 22: **Problem-solving session** \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
+* Thur., January 29:  **Quiz Chp. 6** ([Practice](../files/mock2bb.pdf))
+* Fri., January 30:   The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
+* Tues., February 3:   The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
+* Thur., February 5: **Problem-solving session** \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
   
    Homework 2 due.|Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/)
-* Wed., September 24:  The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
+* Fri., February 6:  The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 
-   |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter|[Homework 3](../files/2049Chw3.pdf) (Chp. 7) assigned, due Mon., October 13.
-* Fri., September 26: **Quiz Chp. 7** ([Practice](../files/mock3b.pdf))
-* Mon., September 29: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
-* Wed., October 1: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-* Fri., October 3: **Problem-solving session** \| Currents and Resistance and Capacitance  (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
-* Mon., October 6: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+   |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter|[Homework 3](../files/2049Chw3.pdf) (Chp. 7) assigned, due Thur., February 26.
+* Tues., February 10: **Quiz Chp. 7** ([Practice](../files/mock3b.pdf))
+* Thur., February 12: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
+* Fri., February 13: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Tues., February 17: **Problem-solving session** \| Currents and Resistance and Capacitance  (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
+* Thur., February 19: Currents and Resistance  (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
     |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
-* Wed., October 8: **Quiz Chp. 8 & 9** ([Practice](../files/mock4b.pdf))
-* Fri., October 10: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
-* Mon., October 13: **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
+* Fri., February 20: **Quiz Chp. 8 & 9** ([Practice](../files/mock4b.pdf))
+* Tues., February 24: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
+* Thur., February 26: **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
-   Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., October 27.
-* Wed., October 15: **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
-* Fri., October 17:  **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf))
+   Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., February 27.
+* Fri., February 27: **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
+* Tues., March 3:  **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf))
 
-  |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. October 31.
-* Mon., October 20: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
-* Wed., October 22: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
-* Fri., October 24: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+  |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. March 31.
+* Thur., March 5: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+* Fri., March 6: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+* Tues., March 10: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
     |[Lab 4](../files/2049lab4.pdf): Circuits I
-* Mon., October 27: Magnetism II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+* Thur., March 12: Magnetism II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
    |Homework 4 due. 
-* Wed., October 29: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
-* Fri., October 31:  Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+* Fri., March 13: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
+* Tues., March 17:  Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
-   | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Fri., November 17.
-* Mon., November 3: No Classes
-* Wed., November 5: No Classes
-* Fri., November 7: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf))
-* Mon., November 10: No Classes
-* Wed., November 12: **Problem-Solving Session** \| Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction)
-* Fri., November 14: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction))
+   | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Tues., March 17.
+* Thur., March 19: No Classes
+* Fri., March 20: No Classes
+* Tues., March 24: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf))
+* Thur., March 26: No Classes
+* Fri., March 27: **Problem-Solving Session** \| Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction)
+* Tues., March 31: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction))
 
    | [Lab 5](../files/2049lab6.pdf): CRTs
-* Mon., November 17:  **Quiz Chp. 13** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
-* Wed., November 19: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
-* Fri., November 21: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
+* Thur., April 2:  **Quiz Chp. 13** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
+* Fri., April 3: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
+* Tues., April 7: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
    | [Lab 6](../files/2049lab7.pdf): Solenoids and Inductors
-* Mon., November 24:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
-* Wed., November 26:   **Problem-Solving Session** \| Inductance & Circuits II (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) & (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
-* Fri., November 28: No Clases
-* Mon., December 1:  **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
-* Wed., December 3: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+* Thur., April 9:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
+* Fri., April 10:   **Problem-Solving Session** \| Inductance & Circuits II (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) & (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+* Tues., April 14: No Clases
+* Thur., April 16:  **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
+* Fri., April 17: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
   | [Lab 7, day 1](../files/2049lab8.pdf): Circuits III
-* Fri., December 5:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+* Tues., April 21:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
    Homework 6 due. | [Lab 7, day 2](../files/2049lab8.pdf): Circuits III
+* Thur., April 23:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+* Wed., April 24:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
-
-**[Final Exam Week: Wednesday December 10. ([Practice](../files/mockFinalExamb.pdf))]** 
+**[Final Exam Week: Tuesday April 28. ([Practice](../files/mockFinalExamb.pdf))]** 
