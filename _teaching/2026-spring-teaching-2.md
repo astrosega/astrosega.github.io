@@ -76,7 +76,7 @@ Below is a detailed schedule that will list the material covered in each class s
    [Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
 * Tues., March 3:  **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
-  Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., March 12.| Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Tues. March 17.
+  Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Fri., March 12.| Extra credit reading: [Action at a Distance](../files/action-distance.pdf)
 * Thur., March 5: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf))
 
   |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. March 31.
