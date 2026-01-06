@@ -2,7 +2,7 @@
 title: "PHY2048C (Spring 2026)"
 collection: teaching
 type: "Undergraduate course"
-category: past
+category: current
 permalink: /teaching/2026-spring-teaching-1
 venue: "Florida State University"
 date: 2026-01-07
