@@ -1,18 +1,18 @@
 ---
-title: "PHY2048C (Spring 2025)"
+title: "PHY2048C (Spring 2026)"
 collection: teaching
 type: "Undergraduate course"
 category: past
-permalink: /teaching/2025-spring-teaching-1
+permalink: /teaching/2026-spring-teaching-1
 venue: "Florida State University"
-date: 2025-01-07
+date: 2026-01-07
 location: "Panama City, Panama"
 ---
 Physics Studio A
 
 * Instructor:	Prof. Daniel D. Sega ([email](mailto:dsega@fsu.edu))
 * Instructor's Office: 2nd Floor, Faculty Wing	
-* Course Times: Spring 2025, Tue./Thu./Fri., 9:30 am-12:00 m
+* Course Times: Spring 2025, Mon./Wed., 9:30 am-12:00 m. Fri. 1-3:30pm
 * Location:	3rd Floor, Room 309
 * Office Hours: 1st Floor, Faculty Wing or Room 309: M to F 12:15-12:45 pm
 * Syllabus:	See the most [up-to-date](../files/PHY2048C0.pdf) PDF version.
