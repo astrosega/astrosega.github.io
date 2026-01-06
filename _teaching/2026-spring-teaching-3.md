@@ -45,7 +45,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., January 12 : Humans' relation to the sky (Chp. [2](https://openstax.org/books/astronomy-2e/pages/2-thinking-ahead))
 * Wed., January 14: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead))
 
-  |[Homework 1](../files/astrohw1.pdf) (Chp. 3-4) assigned, due Wed., January 17.
+  |[Homework 1](../files/astrohw1.pdf) (Chp. 3-4) assigned, due Wed., January 28.
 * Mon., January 19: Orbits and Gravity (Chp. [3](https://openstax.org/books/astronomy-2e/pages/3-thinking-ahead))
 * Wed., January 21: Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead)) 
   
@@ -53,7 +53,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., January 26:  Earth, Moon, and Sky (Chp. [4](https://openstax.org/books/astronomy-2e/pages/4-thinking-ahead))
 * Wed., January 28: Radiation and Spectra (Chp. [5](https://openstax.org/books/astronomy-2e/pages/5-thinking-ahead))
 
-  Homework 1 due. |[Homework 2](../files/astrohw2.pdf) (Chp. 5-6) assigned, due Wed., February 6.
+  Homework 1 due. |[Homework 2](../files/astrohw2.pdf) (Chp. 5-6) assigned, due Wed., February 23.
 * Mon., February 2: Astronomical Instruments (Chp. [6](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
 * Wed., February 4: Solar System (Chp. [7](https://openstax.org/books/astronomy-2e/pages/7-thinking-ahead))
 
@@ -63,12 +63,10 @@ Below is a detailed schedule that will list the material covered in each class s
 	
 	|Ch. 9 notes and highligths due
 * Mon., February 16: No Class
-  
-  |Homework 2 due. |[Homework 3](../files/astrohw3.pdf) (Chp. 8-11 ) assigned, due Wed., February 15
-* Wed., February 18: No Class
+  * Wed., February 18: No Class
 * Mon., February 23: Venus and Mars (Chp. [10](https://openstax.org/books/astronomy-2e/pages/10-thinking-ahead))
   
-  |Ch. 12 notes and highligths due
+  |Ch. 12 notes and highligths due | Homework 2 due. |[Homework 3](../files/astrohw3.pdf) (Chp. 8-11 ) assigned, due Wed., March 16
 * Wed., February 25: The Giant Planets (Chp. [11](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
 
   |[WWT Worksheet 2](../files/wwt1.pdf)
@@ -84,7 +82,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., March 11: Comets, Asteroids, and Meteorites (Chp. [13](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
 * Mon., March 16: Here comes the Sun (Chp. [15](https://openstax.org/books/astronomy-2e/pages/15-thinking-ahead))
 
-   Homework 3 due. |[Homework 4](../files/astrohw4.pdf) (Chp. 13-14) assigned, due Wed., March 12 
+   Homework 3 due. |[Homework 4](../files/astrohw4.pdf) (Chp. 13-14) assigned, due Wed., April 8 
  * Wed., March 18: The Sun's power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/16-thinking-ahead))
 
      | Ch. 16 notes and highligths due
