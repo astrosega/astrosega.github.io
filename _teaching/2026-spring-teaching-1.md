@@ -43,7 +43,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Wed., January 7: The Structure of Mechanics. Motion in 1D. (Chp. [1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction) & [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction))
 
-  Handout: [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/EXbD0gGLt4dBkUWCaRf4NPUB3kMeGC2z1ltiGOPoKfWPIw?e=CgRX7w) | [Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Tue., January 9.
+  Handout: [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/EXbD0gGLt4dBkUWCaRf4NPUB3kMeGC2z1ltiGOPoKfWPIw?e=CgRX7w) | [Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Tue.,January 23.
 * Fri., January 9: No classes
 * Mon., January 12: Vectors (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/3-introduction)) \| **Problem-Solving Session** \| Motion in 1D. Chp. [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction)
 * Wed., January 14: **Quiz Chp. 1 & 3** ([Practice](../files/mock1.pdf) -> [Solved](../files/mocksol1.pdf)) \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
@@ -52,7 +52,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., January 21: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 * Fri., January 23: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 
-  |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
+  |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions | Homework 1 due. | [Homework 2](../files/homework2.pdf) (Chp. 5 & 6) assigned, due Tue., February 9.
 * Mon., January 26: **Problem-Solving Session** \| Newton's Laws I & II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction) & Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 * Wed., January 28:  **Quiz Chp. 5 & 6** ([Practice](../files/mock2.pdf) -> [Solved](../images/mock2sol.jpg))
 * Fri., January 30: Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
@@ -62,12 +62,13 @@ Below is a detailed schedule that will list the material covered in each class s
 	|Handout: [Conservation of Energy in 2D and Problems](../files/ShankarCh6andProblems.pdf)
 *  Wed., February 4:   **Problem-Solving Session** \| Conservation of Energy in 1D & 2D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 
-   | Homework 2 due.
 * Fri., February 6: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 * Mon., February 9: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
+
+  | Homework 2 due.
 * Wed., February 11:  Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
-	 | [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum) | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Fri., February 13. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Mon., February 10
+	 | [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum) | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Fri., March 2. | Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Mon., February 10
 * Fri., February 13: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
 * Mon., February 16: No Classes
 
@@ -79,22 +80,17 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., February 27: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg))
 * Mon., March 2: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 
-  | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Wed., March 11.
+  Homework 3 due | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Wed., March 25.
 * Wed., March 4:  Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
-
-  | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Wed., March 11.
 * Fri., March 6: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
-  | Homework 3 due |[Lab 4, day 1](../files/2048lab4.pdf): Rotating Frames
+  | [Lab 4, day 1](../files/2048lab4.pdf): Rotating Frames
 * Mon., March 9: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
    | [Lab 4, day 2](../files/2048lab4.pdf): Rotating Frames
 * Wed., March 11: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
 * Fri., March 13: **Quiz Chp. 12** ([Practice](../files/mock4.pdf))
-
-
-   | [Lab 4, day 2](../files/2048lab4.pdf): Rotating Frames
 * Mon., March 16:  **Problem Solving Session** \| Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Wed., March 18: **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf) -> [Solved](../images/mock6sol.jpg)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Fri., March 20:  Mathematical Methods
@@ -106,10 +102,10 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
 * Wed., March 25: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-  Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Wed., Abril 4. | Extra credit reading: [What are waves?](../files/Waves.pdf), due Mon. March 14
+  Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Wed., Abril 17.
 * Fri., March 27: **Problem Solving Session** \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
-  Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Wed., Abril 4. | Extra credit reading: [What are waves?](../files/Waves.pdf), due Mon. March 14
+ | Extra credit reading: [What are waves?](../files/Waves.pdf), due Fri. April 3
 * Mon., March 30: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Wed., Abril 1: Waves (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 * Fri., Abril 3: No Classes
