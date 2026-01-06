@@ -96,8 +96,6 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., March 20:  Mathematical Methods
 
    | Handout: [Complex numbers](../files/complex_numbers.pdf)
-
-  |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
 * Mon.,  March 23: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
   |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
