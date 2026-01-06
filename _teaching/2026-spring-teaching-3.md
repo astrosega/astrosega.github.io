@@ -68,7 +68,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., February 18: No Class
 * Mon., February 23: Venus and Mars (Chp. [10](https://openstax.org/books/astronomy-2e/pages/10-thinking-ahead))
   
-  |Ch. 12 notes and highligths due|[WWT Worksheet 2](../files/wwt1.pdf)
+  |Ch. 12 notes and highligths due
 * Wed., February 25: The Giant Planets (Chp. [11](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
 
   |[WWT Worksheet 2](../files/wwt1.pdf)
