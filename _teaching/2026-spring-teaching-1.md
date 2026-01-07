@@ -71,11 +71,11 @@ Below is a detailed schedule that will list the material covered in each class s
 	 | [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum) | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Fri., March 2. | Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Mon., February 10
 * Fri., February 13: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
 * Mon., February 16: No Classes
-
-  | [Lab 3](../files/2048lab3b.pdf): Collisions in 1D
 * Wed., February 18: No Classes
 * Fri., February 20: No Classes
 * Mon., February 23: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+
+  | [Lab 3](../files/2048lab3b.pdf): Collisions in 1D
 * Wed., February 25:**Problem-Solving Session** \| Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 * Fri., February 27: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg))
 * Mon., March 2: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
