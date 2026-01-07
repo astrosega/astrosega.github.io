@@ -58,7 +58,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., January 30:   The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Tues., February 3:   The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
 
-  [Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
+   | [Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
 * Thur., February 5: **Problem-solving session** \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
   
    Homework 2 due. | Extra credit reading 1: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/) & [Action at a Distance](../files/action-distance.pdf) due Tues., Fri. Frebuary 13
@@ -75,7 +75,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., February 26: **Quiz Chp. 8 & 9** ([Practice](../files/mock4b.pdf))
 * Fri., February 27: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
-   [Lab 3](../files/2049lab3.pdf): Introduction to Oscilloscopes
+   |  [Lab 3](../files/2049lab3.pdf): Introduction to Oscilloscopes
 * Tues., March 3:  **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
   Homework 3 due | [Homework 4](../files/2049Chw4.pdf)  (Ch 9) assigned, due Tues., March 17.
