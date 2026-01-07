@@ -90,21 +90,21 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., March 25: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/19-thinking-ahead))
 * Mon., March 30: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/21-thinking-ahead))
 
-  Homework 4 due.|[Homework 5](../files/astrohw5.pdf) (Chp. 19, 26-28) assigned, due Wed., April 8
+  Homework 4 due.| [Homework 5](../files/astrohw5.pdf) (Chp. 19, 26-28) assigned, due Wed., April 8
 * Wed., April 1: The Life of a Star (Ch. [22](https://openstax.org/books/astronomy-2e/pages/22-thinking-ahead))
 
   Ch. 22 notes and highligths due |[Stellarium Worksheet 2](../files/Stellarium3.pdf): The H-R diagram
 * Mon., April 6: Death of an Star and Black Holes (Ch. [23](https://openstax.org/books/astronomy-2e/pages/23-thinking-ahead) & Ch. [24](https://openstax.org/books/astronomy-2e/pages/24-thinking-ahead))
 
-	Ch. 24 notes and highligths due |[Worldwide Telescope Worksheet 3](../files/wwt2.pdf): Stellar Remnants
+	Ch. 24 notes and highligths due | [Worldwide Telescope Worksheet 3](../files/wwt2.pdf): Stellar Remnants
 * Wed., April 8: The Milky Way: not in equilibrium (Ch. [25](https://openstax.org/books/astronomy-2e/pages/25-thinking-ahead))
-
-   | Homework 5 due.
 * Mon., April 13: Galaxies I (Ch. [26](https://openstax.org/books/astronomy-2e/pages/26-thinking-ahead))
 * Wed., April 15: Galaxies II (Ch. [28](https://openstax.org/books/astronomy-2e/pages/28-thinking-ahead))
 
-   Ch. 29 notes and highligths due |[Worldwide Telescope Worksheet 4](../files/wwt3.pdf): How Hubble discovered the Universe is expanding
+   Ch. 29 notes and highligths due | [Worldwide Telescope Worksheet 4](../files/wwt3.pdf): How Hubble discovered the Universe is expanding
 * Mon., April 20: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/39-thinking-ahead))
+
+   | Homework 5 due.
 * Wed., April 22: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/39-thinking-ahead))
 
 
