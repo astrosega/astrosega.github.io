@@ -108,4 +108,4 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., April 22: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/39-thinking-ahead))
 
 
-**[Final Exam Week: April 8 - 15 (for Telescope route) / Final Exam day: Wed April 29 (for Essay route)]**
+**[Final Exam Week: April 8 - 15 (for Telescope route) / Final Exam day: Mon April 27 (for Essay route)]**
