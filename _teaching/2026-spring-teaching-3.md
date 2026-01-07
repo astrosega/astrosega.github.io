@@ -67,7 +67,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., February 23: Venus and Mars (Chp. [10](https://openstax.org/books/astronomy-2e/pages/10-thinking-ahead))
   
   |Ch. 12 notes and highligths due | Homework 2 due. |[Homework 3](../files/astrohw3.pdf) (Chp. 8-11 ) assigned, due Wed., March 16
-* Wed., February 25: The Giant Planets (Chp. [11](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead))ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
+* Wed., February 25: The Giant Planets (Chp. [11](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
 
   |[WWT Worksheet 2](../files/wwt1.pdf)
 * Mon., March 2: Ring, Moons, and Pluto (Chp. [12](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
