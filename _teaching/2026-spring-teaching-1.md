@@ -47,7 +47,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., January 9: No classes
 * Mon., January 12: Vectors (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/3-introduction)) \| **Problem-Solving Session** \| Motion in 1D. Chp. [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction)
 * Wed., January 14: **Quiz Chp. 1 & 3** ([Practice](../files/mock1.pdf) -> [Solved](../files/mocksol1.pdf)) \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
-* Fri., January 16: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
+* Fri., January 16: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Mon., January 19: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 * Wed., January 21: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 * Fri., January 23: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
