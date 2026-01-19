@@ -46,7 +46,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., January 13: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Thur., January 15: **Problem-solving session** \| Electrostatics & The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Fri., January 16: Gauss's Law <mark>(45-min lecture)</mark> (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))  \| **Problem-solving session** \| Electrostatics & The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Tues., January 20: **Quiz Chp. 5** ([Practice1](../files/mock1b.pdf), [Practice2](../files/mock2b.pdf))Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Tues., January 20: **Quiz Chp. 5** ([Practice1](../files/mock1b.pdf), [Practice2](../files/mock2b.pdf)--> [Solved](../files/mocksol2b.pdf))
 
   | Extra credit reading 1: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/) due Fri., Fri. January 23
 * Thur., January 22: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) <mark>(1-hour lecture)</mark> \| **Problem-solving session**
