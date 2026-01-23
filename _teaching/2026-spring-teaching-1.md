@@ -26,7 +26,7 @@ There's a lot more information about this course -- including details about the 
 Course Material
 --------------
 The primary "required readings" are in the OpenStax book [University Physics 1](https://openstax.org/details/books/university-physics-volume-1) and the first section (thermodynamics) of [University Physics 2](https://openstax.org/details/books/university-physics-volume-2). For some experiments in this class you will be using your phone, and the app phyphox, which you can download [here](https://phyphox.org).
-To set-uo the extra credit tutorial student must fill this [Excell sheet](https://fsu-my.sharepoint.com/:x:/g/personal/dds24b_fsu_edu/EbGIrTEXo5FEqlu11QnDru0BvYV9sLJTQs5WJOCyuGZXQQ?e=tmn2OK)
+To set-uo the dit tutorial student must fill this [Excell sheet](https://fsu-my.sharepoint.com/:x:/g/personal/dds24b_fsu_edu/EbGIrTEXo5FEqlu11QnDru0BvYV9sLJTQs5WJOCyuGZXQQ?e=tmn2OK)
 
 Here are some additional resources:
 
@@ -34,7 +34,7 @@ Here are some additional resources:
 * This book is based on R. Shankar's [Open Course](https://oyc.yale.edu/physics/phys-200) (Yale University), which is available online. These lectures were, and still are, a helpful resource for me.
 * The phone app *phyphox* will be required in some of the labs, download [here](https://phyphox.org/download/).
 * Here is a [worksheet](../files/verbalal.pdf) to practice verbal algebra problems. Here is [another one](../files/Algebra.pdf). Problems like this will be use to test your ability of translating English and concepts into equations, an essential skill in this class.
-* Here are some examples of extra credit reading [questions](../files/hectorEC.pdf) and [mini-essay](../files/anabellaEC.pdf).
+* Here are some examples of dit reading [questions](../files/hectorEC.pdf) and [mini-essay](../files/anabellaEC.pdf).
 
 Schedule
 -------------
@@ -68,7 +68,7 @@ Below is a detailed schedule that will list the material covered in each class s
   | Homework 2 due.
 * Wed., February 11:  Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
-	 | [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum) | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Fri., March 2. | Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Mon., February 10
+	 | [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum) | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Fri., March 2. | Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., February 20
 * Fri., February 13: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
 * Mon., February 16: No Classes
 * Wed., February 18: No Classes
