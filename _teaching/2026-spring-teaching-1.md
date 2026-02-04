@@ -64,6 +64,7 @@ Below is a detailed schedule that will list the material covered in each class s
 	|Handout: [Conservation of Energy in 2D and Problems](../files/ShankarCh6andProblems.pdf)
 *  Wed., February 4:   **Problem-Solving Session** \| Conservation of Energy in 1D & 2D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 
+	|Handout: [Conservation of Energy in 2D and Problems](../files/Math2DCon.pdf)
 * Fri., February 6: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 * Mon., February 9: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
 
