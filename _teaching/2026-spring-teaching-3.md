@@ -57,7 +57,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., February 2: Astronomical Instruments (Chp. [6](https://openstax.org/books/astronomy-2e/pages/6-thinking-ahead))
 * Wed., February 4: Solar System (Chp. [7](https://openstax.org/books/astronomy-2e/pages/7-thinking-ahead))
 
-	Ch. 7 notes and highligths due|[Worldwide Telescope Worksheet 1](../files/wwte.pdf): Introduction to WWT
+	Ch. 7 notes and highligths due|[Worldwide Telescope Worksheet 1](../files/wwtextra.pdf): Introduction to WWT
 * Mon., February 9: Earth (Chp. [8](https://openstax.org/books/astronomy-2e/pages/8-thinking-ahead))
 * Wed., February 11: Moon and Mercury (Chp. [9](https://openstax.org/books/astronomy-2e/pages/9-thinking-ahead))
 	
