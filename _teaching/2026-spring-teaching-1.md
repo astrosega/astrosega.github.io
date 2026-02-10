@@ -79,8 +79,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., February 23: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   | [Lab 3](../files/2048lab3b.pdf): Collisions in 1D
-* Wed., February 25:**Problem-Solving Session** \| Multiparticle Dynamics, Conservation of Energy, and Gravitation (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction), Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction), Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
-* Fri., February 27: **Quiz Chp. 13 & 9 & 8** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg))
+* Wed., February 25:**Problem-Solving Session** \| Multiparticle Dynamics, Conservation of Energy, and Gravitation (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction), Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
+* Fri., February 27: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg))
 * Mon., March 2: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 
   Homework 3 due | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Wed., March 25.
