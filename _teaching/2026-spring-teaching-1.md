@@ -73,6 +73,8 @@ Below is a detailed schedule that will list the material covered in each class s
 
 	 | [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum) | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Fri., March 2.
 * Fri., February 13: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
+
+  |Handout: [Center of Mass of a Triangle:](../files/CMtriangle.pdf)
 * Mon., February 16: No Classes
 * Wed., February 18: No Classes
 * Fri., February 20: No Classes
