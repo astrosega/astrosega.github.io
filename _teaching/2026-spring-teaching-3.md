@@ -73,12 +73,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., March 2: Ring, Moons, and Pluto (Chp. [12](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
   
   |Ch. 12 notes and highligths due
-* Wed., March 4: The Sun's power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/16-thinking-ahead))
-
-     | Ch. 16 notes and highligths due
+* Wed., March 4: No Class
 * Mon., March 9: Ring, Moons, and Pluto (Chp. [12](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
-  
-  |Ch. 12 notes and highligths due
 * Wed., March 11: Comets, Asteroids, and Meteorites (Chp. [13](https://openstax.org/books/astronomy-2e/pages/13-thinking-ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
 * Mon., March 16: Here comes the Sun (Chp. [15](https://openstax.org/books/astronomy-2e/pages/15-thinking-ahead))
 
