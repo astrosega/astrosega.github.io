@@ -84,8 +84,9 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., March 5: **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
   |Extra credit reading 2: [What's more real, Field or Potential?](../files/potentials.pdf) due Fri. March 13.
-* Fri., March 6: **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
+* Fri., March 6:  Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
+     |[Lab 4](../files/2049lab4.pdf): Circuits I
 * Tues., March 10: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf))
 * Thur., March 12: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction)) <mark>(2.5-hour lecture)</mark>
 
