@@ -92,7 +92,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
    |Homework 4 due. 
 * Fri., March 13: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
-* Tues., March 17:  Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+* Tues., March 17:  Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
    | Homework 4 due. | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Tues., April 7.
 * Thur., March 19: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
@@ -114,7 +114,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., April 10:   Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
   | [Lab 6, day 2](../files/2049lab7.pdf): Solenoids and Inductors
-* Tues., April 14: **Problem-Solving Session** \| Inductance & Circuits II (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) & (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+* Tues., April 14: Inductance & Circuits II (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) & (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Thur., April 16:   **Problem-Solving Session** \| Inductance & Circuits II (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) & (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Fri., April 17: **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
 * Tues., April 21:  Maxwell Equations (Ch. [16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction))
