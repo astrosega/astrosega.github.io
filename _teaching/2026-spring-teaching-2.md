@@ -92,7 +92,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
    |Homework 4 due. 
 * Fri., March 13: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
-* Tues., March 17:  Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
+* Tues., March 17:  Magnetism II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
    | Homework 4 due. | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Tues., April 7.
 * Thur., March 19: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
