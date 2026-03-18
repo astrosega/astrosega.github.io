@@ -97,23 +97,26 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Fri., March 13: **Quiz Chp. 12** ([Practice](../files/mock4.pdf))
 * Mon., March 16:  **Problem Solving Session** \| Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
-* Wed., March 18: **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf) -> [Solved](../images/mock6sol.jpg)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Fri., March 20:  Mathematical Methods
+* Wed., March 18: No Classes
+* Fri., March 20:  **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf) -> [Solved](../images/mock6sol.jpg)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
    | Handout: [Complex numbers](../files/complex_numbers.pdf)
-* Mon.,  March 23: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Mon.,  March 23: Mathematical Methods
 
-  |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
-* Wed., March 25: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-  Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Wed., Abril 17.
+   | Handout: [Complex numbers](../files/complex_numbers.pdf)
+* Wed., March 25: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction)) <mark>(2.5-hour lecture)</mark>
+
+  |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion | Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Wed., Abril 17.
 * Fri., March 27: **Problem Solving Session** \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
  | Extra credit reading: [What are waves?](../files/Waves.pdf), due Fri. April 3
 * Mon., March 30: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf)) \| Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Wed., Abril 1: Waves (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Wed., Abril 1: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 * Fri., Abril 3: No Classes
 * Mon., Abril 6: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
-* Wed., Abril 8: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+
+ |[Lab 5](../files/2048lab5.pdf): Archimides and Springs\| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-
+* Wed., Abril 8: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
 
   |[Lab 5](../files/2048lab5.pdf): Archimides and Springs\| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-
 * Fri., Abril 10: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
