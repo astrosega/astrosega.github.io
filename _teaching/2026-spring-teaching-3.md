@@ -82,8 +82,8 @@ Below is a detailed schedule that will list the material covered in each class s
  * Wed., March 18: The Sun's power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/16-thinking-ahead))
 
      | Ch. 16 notes and highligths due
-* Mon., March 23: Stars (Ch. [18](https://openstax.org/books/university-physics-volume-1/pages/18-thinking-ahead))
-* Wed., March 25: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/19-thinking-ahead))
+* Mon., March 23: Stars (Ch. [18](https://openstax.org/books/astronomy-2e/pages/18-thinking-ahead))
+* Wed., March 25: Distance Ladder (Ch. [19](https://openstax.org/books/astronomy-2e/pages/19-thinking-ahead))
 * Mon., March 30: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/21-thinking-ahead))
 
   Homework 4 due.| [Homework 5](../files/astrohw5.pdf) (Chp. 19, 26-28) assigned, due Mon., April 20
