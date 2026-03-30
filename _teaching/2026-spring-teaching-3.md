@@ -69,7 +69,7 @@ Below is a detailed schedule that will list the material covered in each class s
   |Ch. 12 notes and highligths due | Homework 2 due. |[Homework 3](../files/astrohw3.pdf) (Chp. 8-11 ) assigned, due Wed., March 16
 * Wed., February 25: The Giant Planets (Chp. [11](https://openstax.org/books/astronomy-2e/pages/11-thinking-ahead) & [14](https://openstax.org/books/astronomy-2e/pages/14-thinking-ahead))
 
-  [Worldwide Telescope Worksheet 2](../files/wwt1.pdf): Scavenger Hunt
+  |[Worldwide Telescope Worksheet 2](../files/wwt1.pdf): Scavenger Hunt
 * Mon., March 2: Ring, Moons, and Pluto (Chp. [12](https://openstax.org/books/astronomy-2e/pages/12-thinking-ahead))
   
   |Ch. 12 notes and highligths due
@@ -82,8 +82,8 @@ Below is a detailed schedule that will list the material covered in each class s
  * Wed., March 18: The Sun's power (Chp. [16](https://openstax.org/books/astronomy-2e/pages/16-thinking-ahead))
 
      | Ch. 16 notes and highligths due
-* Mon., March 23: Stars (Ch. [18](https://openstax.org/books/university-physics-volume-1/pages/18-thinking-ahead))
-* Wed., March 25: Distance Ladder (Ch. [19](https://openstax.org/books/university-physics-volume-1/pages/19-thinking-ahead))
+* Mon., March 23: Stars (Ch. [18](https://openstax.org/books/astronomy-2e/pages/18-thinking-ahead))
+* Wed., March 25: Distance Ladder (Ch. [19](https://openstax.org/books/astronomy-2e/pages/19-thinking-ahead))
 * Mon., March 30: Star Formation  (Ch. [21](https://openstax.org/books/astronomy-2e/pages/21-thinking-ahead))
 
   Homework 4 due.| [Homework 5](../files/astrohw5.pdf) (Chp. 19, 26-28) assigned, due Mon., April 20
@@ -104,4 +104,4 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., April 22: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/39-thinking-ahead))
 
 
-**[Final Exam Week: April 8 - 15 (for Telescope route) / Final Exam day: Mon April 27 (for Essay route)]**
+**[Final Exam Week: March 31st (for Telescope route) / Final Exam day: Mon April 27 (for Essay route)]**
