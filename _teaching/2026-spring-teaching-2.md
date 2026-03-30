@@ -101,7 +101,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., March 26: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf))
 * Fri., March 27: **Problem-Solving Session** \| Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction)
 * Tues., March 31: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
-* Thur., April 2:  **Quiz Chp. 13** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
+* Thur., April 2:  **Quiz Chp. 13** ([Practice](../files/mock7b.pdf) --> [Solved](../files/mocksol7b.pdf). Also see problems 2 and 4 of ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
 * Fri., April 3: No Classes
 * Tues., April 7: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
@@ -115,7 +115,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., April 14: Field Trip to Dell
 * Thur., April 16: Circuits II
 * Fri., April 17: **Problem-Solving Session** \| Inductance & Circuits II (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) & (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
-* Tues., April 21:  **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
+* Tues., April 21:  **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf).)
 * Thur., April 23:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
   | [Lab 7, day 1](../files/2049lab8.pdf): Circuits III
