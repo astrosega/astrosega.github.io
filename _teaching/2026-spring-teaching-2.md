@@ -101,7 +101,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., March 26: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) --> [Solved](../files/mocksol6b.pdf))
 * Fri., March 27: **Problem-Solving Session** \| Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction)
 * Tues., March 31: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
-* Thur., April 2:  **Quiz Chp. 13** ([Practice](../files/mock7b.pdf) --> [Solved](../files/mocksol7b.pdf). See problems 2 & 4 of [Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
+* Thur., April 2:  **Quiz Chp. 13** ([Practice](../files/mock7b.pdf) --> [Solved](../files/mocksol7b.pdf). Problems 2 & 4 of [Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
 * Fri., April 3: No Classes
 * Tues., April 7: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
