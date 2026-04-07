@@ -94,7 +94,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., March 13: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Tues., March 17:  Magnetism II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
-   | Homework 4 due. | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Tues., April 7.
+   | Homework 4 due. | [Homework 5](../files/2049Chw5.pdf) (Chp. 10, 11) assigned, due Thur., April 9.
 * Thur., March 19: Magnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Fri., March 20: **Problem-Solving Session** \| Magnetism I & II (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) & Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction))
 * Tues., March 24: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
@@ -106,7 +106,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., April 7:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 * Thur., April 9:   Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
-   | [Lab 6, day 1](../files/2049lab7.pdf): Solenoids and Inductors
+   | [Lab 6, day 1](../files/2049lab7.pdf): Solenoids and Inductors  | Homework 5 due. | [Homework 6](../files/2049Chw6.pdf) (Chp. 14, 15) assigned, due Fri., April 24.
 * Fri., April 10:   Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
 
   | [Lab 6, day 2](../files/2049lab7.pdf): Solenoids and Inductors
