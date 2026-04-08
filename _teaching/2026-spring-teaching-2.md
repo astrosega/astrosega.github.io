@@ -16,6 +16,7 @@ Physics Studio B
 * Location:	Room 309
 * Office Hours:	Faculty Wing or Room 309: Thur./Tue./Fri./Thu./Fri. 12:20pm-12:50pm
 * Syllabus:	See the most [up-to-date](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/ETg1afqeqgtCgptYHYLXOx8BBGWcKb1ElEtqx_xA5ADJSA?e=5KlYUY) version.
+* <iframe src="https://fsu.simplesyllabus.com/doc/ox09mkkhq/2026-Summer-PHY-2049C-0009-Calculus-Based-Physics-II?mode=view" style="width: 100%; height: 768px;"></iframe>
 
 Summary
 -----------
