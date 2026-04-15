@@ -102,8 +102,8 @@ Below is a detailed schedule that will list the material covered in each class s
    Ch. 29 notes and highligths due | [Worldwide Telescope Worksheet 4](../files/wwt3.pdf): How Hubble discovered the Universe is expanding
 * Mon., April 20: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/39-thinking-ahead))
 
-   | Homework 5 due.
 * Wed., April 22: The Big Bang (Ch. [29](https://openstax.org/books/astronomy-2e/pages/39-thinking-ahead))
+   | Homework 5 due.
 
 
 **[Final Exam Week: March 31st (for Telescope route) / Final Exam day: Mon April 27 (for Essay route)]**
