@@ -111,12 +111,13 @@ Below is a detailed schedule that will list the material covered in each class s
 
   | [Lab 6, day 2](../files/2049lab7.pdf): Solenoids and Inductors
 * Tues., April 14: Field Trip to Dell
-
-* Thur., April 16: Circuits II
+* Thur., April 16: **Problem-Solving Session** \| Inductance & Circuits II (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) & (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
     | [Lab 5](../files/2049lab6.pdf): CRTs 
-* Fri., April 17: **Problem-Solving Session** \| Inductance & Circuits II (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/2-introduction)) & (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
-* Tues., April 21:  **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf).)
+* Fri., April 17: **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf).)
+* Tues., April 21: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/2-introduction))
+
+   | [Lab 5](../files/2049lab6.pdf): CRTs 
 * Thur., April 23:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
   | [Lab 7, day 1](../files/2049lab8.pdf): Circuits III
