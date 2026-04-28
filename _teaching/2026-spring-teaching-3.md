@@ -2,7 +2,7 @@
 title: "AST1002 (Spring 2026)"
 collection: teaching
 type: "Undergraduate course"
-category: current
+category: past
 permalink: /teaching/2026-spring-teaching-3
 venue: "Florida State University"
 date: 2026-01-07
