@@ -1,5 +1,5 @@
 ---
-title: "PHY2049C (Summer 2025)"
+title: "PHY2049C (Summer 2026)"
 collection: teaching
 type: "Undergraduate course"
 category: past
