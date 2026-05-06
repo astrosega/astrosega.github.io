@@ -44,7 +44,7 @@ Schedule
 
 * Mon., May 11: Electrostatics (Ch. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
-  | Handout: [syllabus](../files/PHY2049C.pdf) | [Homework 1](../files/2049Chw1.pdf) assigned, due Thu., May 21
+  |[Homework 1](../files/2049Chw1.pdf) assigned, due Thu., May 21
 * Tue., May 12: Electrostatics (Ch. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Wed., May 13: **Problem-solving session** | The Electric Field (Ch. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Thu., May 14: Electric Field (Ch. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
