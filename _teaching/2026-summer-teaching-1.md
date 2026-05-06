@@ -108,7 +108,7 @@ Below is a detailed schedule that will list the material covered in each class s
   |[Lab 5](../files/2048lab5.pdf): Archimides and Springs \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
 * Mon., July 13: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
-  |Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
+  Handout: [PRessure & Blood Pressure](http://www.hyperphysics.phy-astr.gsu.edu/hbase/Fluids/bloodpres.html) | Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
 * Tue., July 14: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 * Wed, July 15: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 * Thu., July 16: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
