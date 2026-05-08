@@ -98,7 +98,7 @@ Schedule
 * Mon., July 6: **Quiz Chp. 13** ([Practice](../files/mock6b.pdf) → [Solved](../files/mocksol6b.pdf))
 * Tue., July 7: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
- | Homework 4 due | [Homework 5](../files/2049Chw5_old.pdf) assigned, due Tue., July 14
+  | Homework 4 due | [Homework 5](../files/2049Chw5_old.pdf) assigned, due Tue., July 14
 * Wed., July 8: **Problem-Solving Session** \| Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Thu., July 9: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
