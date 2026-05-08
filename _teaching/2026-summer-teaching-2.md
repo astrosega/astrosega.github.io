@@ -56,7 +56,7 @@ Schedule
 * Thu., May 21: **Problem-solving session** \| Conductors and Gauss' Law (Ch. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 
   | Homework 1 due | [Homework 2](../files/2049Chw2.pdf) assigned, due Tue., June 2
-* Mon., May 25: **Quiz Chp. 6** ([Practice](../files/mock2bb.pdf)) | Conservation of Energy in 2D (Ch. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
+* Mon., May 25: **Quiz Chp. 6** ([Practice](../files/mock2bb.pdf))
 * Tue., May 26: Conservation of Energy in 2D (Ch. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Wed., May 27: The Electric Potential (Ch. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Thu., May 28: **Problem-solving session** \| The Electric Potential (Ch. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
