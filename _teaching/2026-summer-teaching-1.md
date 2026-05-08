@@ -15,7 +15,7 @@ Physics Studio A
 * Course Times: Summer 2025, Mon./Tue. 9:30 am-11:30am Wed./Thu. 9:30am-12m
 * Location:	3rd Floor, Room 309
 * Office Hours: 1st Floor, Faculty Wing or Room 309: M to Th 12:20-1:00 pm
-* Simple Syllabus (the cookies request are for the embedded simple syllabus site, ignore if you are only using astrosega):
+* Simple Syllabus (the cookies request are only for the embedded simple syllabus site):
   <iframe src="https://fsu.simplesyllabus.com/doc/qcbrwrglc/2026-Summer-PHY-2048C-0007-General-Physics-A?mode=view" style="width: 100%; height: 250px;"></iframe>
 Summary
 -----------
