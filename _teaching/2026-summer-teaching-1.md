@@ -16,7 +16,8 @@ Physics Studio A
 * Location:	3rd Floor, Room 309
 * Office Hours: 1st Floor, Faculty Wing or Room 309: M to Th 12:20-1:00 pm
 * Simple Syllabus (the cookies request are only for the embedded simple syllabus site):
-  <iframe src="https://fsu.simplesyllabus.com/doc/qcbrwrglc/2026-Summer-PHY-2048C-0007-General-Physics-A?mode=view" style="width: 100%; height: 250px;"></iframe>
+  <iframe src="https://fsu.simplesyllabus.com/doc/qcbrwrglc/2026-Summer-PHY-2048C-0007-General-Physics-A?mode=view" style="width: 100%; height: 220px;"></iframe>
+
 Summary
 -----------
 In this course, engineering and science majors will learn about the basic laws of motion in classical mechanics. They will learn how and why objects in our day-to-day move (or stay put) the way that they do, and will know how to predict projectile and rotational motion. They will also learn about the nature of scientific laws and the statistical nature of scientific measurements.
