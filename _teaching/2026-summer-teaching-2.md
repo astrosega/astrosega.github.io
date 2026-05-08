@@ -15,6 +15,7 @@ Physics Studio B
 * Course Times: Summer 2025, Mon./Tue. 3:30-6:00pm Wed./Thu. 3:30-5:30pm,
 * Location:	Room 309
 * Office Hours:	Faculty Wing or Room 309: Mon./Tue./Wed./Thu./Fri. 12:20pm-1:00pm
+* Symple Syllabus (the cookies request are for the embedded ymple syllabus site, ignore if you are only using astrosega):
 <iframe src="https://fsu.simplesyllabus.com/doc/ox09mkkhq/2026-Summer-PHY-2049C-0009-Calculus-Based-Physics-II?mode=view" style="width: 100%; height: 200px;"></iframe>
 
 Summary
