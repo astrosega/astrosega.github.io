@@ -12,7 +12,7 @@ Physics Studio B
 
 * Instructor:	Prof. Daniel D. Sega ([email](mailto:dsega@fsu.edu))
 * Instructor's Office: 1st Floor, Faculty Wing	
-* Course Times: Summer 2025, Mon./Tue. 3:30-6:00pm Wed./Thu. 3:30-5:30pm,
+* Course Times: Summer 2026, Mon./Tue. 9:30 am-11:30am Wed./Thu. 9:30am-12m
 * Location:	Room 309
 * Office Hours:	Faculty Wing or Room 309: Mon./Tue./Wed./Thu./Fri. 12:20pm-1:00pm
 * Simple Syllabus (the cookies request are only for the embedded simple syllabus site):
