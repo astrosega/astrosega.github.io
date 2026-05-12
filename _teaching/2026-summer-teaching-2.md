@@ -76,7 +76,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., June 11:  **Problem-solving session** \| Currents and Resistance (Ch. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction)) & Circuits I (Ch. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Mon., June 15: Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
-  | [Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
+  | [Lab 3](../files/2049lab3.pdf): Introduction to Oscilloscopes
 * Tue., June 16: **Quiz Chp. 9, 10** ([Practice](../files/mock4b.pdf))
 * Wed., June 17: Magnetism I (Force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Thu., June 18: Magnetism I (Force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
