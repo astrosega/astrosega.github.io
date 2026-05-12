@@ -82,23 +82,23 @@ Below is a detailed schedule that will list the material covered in each class s
 
   | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Tues., July 9.
 * Wed., June 17: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
-* Thu., June 18: **Problem-Solving Session** \|  Rotational Dynamics I & II (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction) and Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
-* Mon., June 22: **Quiz Chp. 10 & 12** ([Practice](../files/mock4.pdf) -> [Solved](../files/mock4sol.pdf))
+* Thu., June 18: **Problem-Solving Session** \|  Rotational Dynamics I & II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/10-introduction) and Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
+* Mon., June 22: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 
-  | Homework 3 due 
-* Tue., June 23: **Problem-Solving Session** \| Rotational Dynamics I (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and II (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
-* Wed., June 24: **Problem-Solving Session** \| Rotational Dynamics III (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
-* Thu., June 25: **Quiz Chp. 11 & 12 (round 2)** ([Practice](../files/mock4r2.pdf) -> [Solved](../files/mock5sol.pdf)))
-
-  |Handout: [Complex numbers](../files/complex_numbers.pdf) 
-* Mon., June 29: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Tue., June 30: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-
-  |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
-* Wed.,  July 1: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+   |[Lab 4](../files/2048lab4.pdf): Rotating Frames| Homework 3 due 
+* Tue., June 23: Rotational Dynamics I (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and II (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
     |[Lab 4](../files/2048lab4.pdf): Rotating Frames
-* Thu., July 2: **Problem-Solving Session** \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Wed., June 24: **Quiz Chp. 10 & 12** ([Practice](../files/mock4.pdf) -> [Solved](../files/mock4sol.pdf))
+* Thu., June 25: **Problem-Solving Session** \|  Rotational Dynamics I & II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/10-introduction) and Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
+* Mon., June 29: **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf) -> [Solved](../files/mock5sol.pdf)))
+* Tue., June 30: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+
+    |Handout: [Complex numbers](../files/complex_numbers.pdf) 
+* Wed.,  July 1: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+
+    |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
+* Thu., July 2:  **Problem-Solving Session** \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Mon., July 6: **Quiz Chp. 15** ([Practice](../files/mock5.pdf) -> [Solved](../files/mocksol5.pdf))
 
     Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 22.
