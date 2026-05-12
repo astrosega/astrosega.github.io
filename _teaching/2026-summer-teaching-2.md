@@ -37,13 +37,7 @@ Here are some additional resources:
 
 Schedule
 -------------
-
-
 Below is a detailed schedule that will list the material covered in each class session, links to electronic copies of any handouts and problem sets, and various course deadlines.
-
-
-Schedule
--------------
 
 * Mon., May 11: Electrostatics (Ch. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
