@@ -44,14 +44,16 @@ Below is a detailed schedule that will list the material covered in each class s
   |[Homework 1](../files/2049Chw1.pdf) assigned, due Thu., May 21
 * Tue., May 12: Electrostatics (Ch. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Wed., May 13: **Problem-solving session** \| The Electric Field (Ch. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Thu., May 14: Electric Field (Ch. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+* Thu., May 14: **Problem-solving session** \| The Electric Field (Ch. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
-* Mon., May 18: **Problem-solving session** \| The Electric Field (Ch. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Tue., May 19: **Quiz Chp. 5** ([Practice](../files/mock1b.pdf))
-* Wed., May 20: Gauss's Law (Ch. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Mon., May 18: **Quiz Chp. 5** ([Practice](../files/mock1b.pdf))
+
+  | Extra credit reading 2: [What's more real, Field or Potential?](../files/potentials.pdf) due Fri. May 22.
+* Tue., May 19: Gauss's Law (Ch. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Wed., May 20: **Problem-solving session** \| Conductors and Gauss' Law (Ch. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Thu., May 21: **Problem-solving session** \| Conductors and Gauss' Law (Ch. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 
-  | Homework 1 due | [Homework 2](../files/2049Chw2.pdf) assigned, due Tue., June 2
+  | Homework 1 due | [Homework 2](../files/2049Chw2.pdf) assigned, due Tue., June 2 
 * Mon., May 25: **Quiz Chp. 6** ([Practice](../files/mock2bb.pdf))
 * Tue., May 26: Conservation of Energy in 2D (Ch. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Wed., May 27: The Electric Potential (Ch. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
@@ -79,7 +81,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., June 17: Magnetism I (Force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Thu., June 18: Magnetism I (Force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
- | Handout: [Complex numbers](../files/complex_numbers.pdf)
+ | Handout: [Complex numbers](../files/complex_numbers.pdf)  | Extra credit reading 2: [What's more real, Field or Potential?](../files/potentials.pdf) due Fri. June 26.
 * Mon., June 22: **Problem-solving session** \| Mgnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 * Tue., June 23: Magnetism II (Field) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Wed., June 24: **Problem-solving session** \| Mgnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
