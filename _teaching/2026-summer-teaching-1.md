@@ -17,7 +17,7 @@ Physics Studio A
 * Office Hours: 1st Floor, Faculty Wing or Room 309: M to Th 12:20-1:00 pm
 * Simple Syllabus (the cookies request are only for the embedded simple syllabus site):
 
-<iframe src="https://fsu.simplesyllabus.com/doc/qcbrwrglc/2026-Summer-PHY-2048C-0007-General-Physics-A?mode=view" style="width: 105%; height: 220px;"></iframe>
+<iframe src="https://fsu.simplesyllabus.com/doc/qcbrwrglc/2026-Summer-PHY-2048C-0007-General-Physics-A?mode=view" style="width: 100%; height: 230px;"></iframe>
 
 Summary
 -----------
