@@ -48,7 +48,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Mon., May 18: **Quiz Chp. 5** ([Practice](../files/mock1b.pdf))
 
-  | Extra credit reading 2: [What's more real, Field or Potential?](../files/potentials.pdf) due Fri. May 22.
+  | Extra credit reading 1: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/) due Fri., Fri. May 22
 * Tue., May 19: Gauss's Law (Ch. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Wed., May 20: **Problem-solving session** \| Conductors and Gauss' Law (Ch. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 * Thu., May 21: **Problem-solving session** \| Conductors and Gauss' Law (Ch. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
