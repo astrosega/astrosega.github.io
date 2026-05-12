@@ -116,10 +116,10 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |[Lab 6](../files/2048lab6.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
 * Mon., July 20: **Problem-Solving Session** \| Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction)) 
-* Tue, July 21: **Quiz Chp. 14, 16 & 17** ([Practice](../files/mock6.pdf) -> [Solved](../files/mocksol8.pdf))) \| Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction)) 
+* Tue, July 21: **Problem-Solving Session** \| Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction)) 
 
   | Homework 5 due.
-* Wed., July 22: Heat and Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
+* Wed., July 22: **Quiz Chp. 14, 16 & 17** ([Practice](../files/mock6.pdf) -> [Solved](../files/mocksol8.pdf)))
 * Thu., July 23: Thermodynamics I (Ch. [1b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction)) and Ch. [2b](https://openstax.org/books/university-physics-volume-2/pages/3-introduction))
 
     |[Lab 7](../files/2048lab7.pdf): Thermal expansion \| Pre-lab: re-read Ch [1.3b](https://openstax.org/books/university-physics-volume-2/pages/1-3-thermal-expansion)
