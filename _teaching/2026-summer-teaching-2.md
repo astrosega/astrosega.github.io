@@ -46,7 +46,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., May 13: **Problem-solving session** \| The Electric Field (Ch. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Thu., May 14: **Problem-solving session** \| The Electric Field (Ch. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
-* Mon., May 18: **Quiz Chp. 5** ([Practice](../files/mock1b.pdf))
+* Mon., May 18: **Quiz Chp. 5** ([Practice1](../files/mock1b.pdf), [Practice2](../files/mock2b.pdf)--> [Solved](../files/mocksol2b.pdf))
 
   | Extra credit reading 1: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/) due Fri., Fri. May 22
 * Tue., May 19: Gauss's Law (Ch. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
