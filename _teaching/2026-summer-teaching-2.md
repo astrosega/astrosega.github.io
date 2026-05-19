@@ -63,14 +63,12 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., June 1: Electric Potential and Capacitance (Ch. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction) & [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Tue., June 2: **Problem-solving session** \| Electric Potential (Ch. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 
-  | [Homework 3](../files/2049Chw3.pdf) assigned, due Thu., June 18
+    | Homework 2 due | [Homework 3](../files/2049Chw3.pdf) assigned, due Thu., June 18 
 * Wed., June 3: Capacitance (Ch. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 
   | [Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
 * Thu., June 4: **Problem-solving session** \| Capacitance (Ch. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Mon., June 8: **Quiz Chp. 7, 8** ([Practice](../files/mock3b.pdf))
-
-  | Homework 2 due
 * Tue., June 9: Currents and Resistance (Ch. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Wed., June 10: Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 * Thu., June 11: Currents and Resistance (Ch. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction)) & Circuits I (Ch. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
@@ -81,8 +79,10 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., June 17: Magnetism I (Force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Thu., June 18: Magnetism I (Force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
- | Handout: [Complex numbers](../files/complex_numbers.pdf)  | Extra credit reading 2: [What's more real, Field or Potential?](../files/potentials.pdf) due Fri. June 26.
+ | Handout: [Complex numbers](../files/complex_numbers.pdf) | Extra credit reading 2: [What's more real, Field or Potential?](../files/potentials.pdf) due Fri. June 26. 
 * Mon., June 22: **Problem-solving session** \| Mgnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
+
+  | Homework 3 due | [Homework 4](../files/2049Chw4.pdf) assigned, due Tue., July 7
 * Tue., June 23: Magnetism II (Field) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Wed., June 24: **Problem-solving session** \| Mgnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 * Thu., June 25: **Quiz Chp. 11 & 12** ([Practice](../files/mock5b.pdf) → [Solved](../files/mocksol5b.pdf))
@@ -97,7 +97,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., July 6: **Quiz Chp. 13** ([Practice](../files/mock6b.pdf) → [Solved](../files/mocksol6b.pdf); [Practice](../files/2049Chw6.pdf))
 * Tue., July 7: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
-  | Homework 4 due | [Homework 5](../files/2049Chw5_old.pdf) assigned, due Tue., July 14
+  | Homework 4 due | [Homework 5](../files/2049Chw5_old.pdf) assigned, due Tue., July 16
 * Wed., July 8: **Problem-Solving Session** \| Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Thu., July 9: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
@@ -108,12 +108,12 @@ Below is a detailed schedule that will list the material covered in each class s
   | [Lab 6](../files/2049lab7.pdf): Solenoids and Inductors
 * Thu., July 16: **Problem-Solving Session** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
-  | [Lab 6](../files/2049lab7.pdf) (Day 2) : Solenoids and Inductors
+  | [Lab 6](../files/2049lab7.pdf) (Day 2) : Solenoids and Inductors | Homework 6 due
 * Mon., July 20: **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) → [Solved](../files/mocksol8b.pdf))
 * Tue., July 21: Maxwell Equations (Ch. [16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction))
 * Wed., July 22: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
-  | [Lab 7](../files/2049lab8.pdf): LRC Circuits| Homework 6 due
+  | [Lab 7](../files/2049lab8.pdf): LRC Circuits
 * Thu., July 23: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
   | [Lab 7](../files/2049lab8.pdf): LRC Circuits
