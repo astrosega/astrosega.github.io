@@ -105,16 +105,16 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tue., July 14: **Problem-Solving Session** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Wed., July 15: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
-  | [Lab 6](../files/2049lab7.pdf): Solenoids and Inductors
+  | [Lab 5](../files/2049lab7.pdf): Solenoids and Inductors
 * Thu., July 16: **Problem-Solving Session** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
-  | [Lab 6](../files/2049lab7.pdf) (Day 2) : Solenoids and Inductors | Homework 6 due
+  | [Lab 5](../files/2049lab7.pdf) (Day 2) : Solenoids and Inductors | Homework 6 due
 * Mon., July 20: **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) → [Solved](../files/mocksol8b.pdf))
 * Tue., July 21: Maxwell Equations (Ch. [16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction))
 * Wed., July 22: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
-  | [Lab 7](../files/2049lab8.pdf): LRC Circuits
+  | [Lab 6](../files/2049lab8.pdf): LRC Circuits
 * Thu., July 23: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
-  | [Lab 7](../files/2049lab8.pdf): LRC Circuits
+  | [Lab 6](../files/2049lab8.pdf): LRC Circuits
 **Final Exam Week: July 27–31, 2026** ([Practice](../files/mockFinalExamb.pdf))
