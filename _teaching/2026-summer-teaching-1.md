@@ -56,13 +56,14 @@ Below is a detailed schedule that will list the material covered in each class s
   Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Tue., Jun 9 |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/) **OR** [The Mechanistic Universe](https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/physical-astronomy-for-the-mechanistic-universe) , due Fri. May 29
 * Thu., May 21: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 * Mon., May 25: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction)) \| **Problem-Solving Session** \| Newton's Laws I & II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction) & [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
-* Tue., May 26: **Quiz Chp. 5 & 6** ([Practice](../files/mock2.pdf) -> [Solved](../images/mock2sol.jpg)) \| Work (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
-* Wed., May 27:  Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction), [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
+* Tue., May 26: **Problem-Solving Session** \| Newton's Laws I & II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction) & [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
+* Wed., May 27:   **Quiz Chp. 5 & 6** ([Practice](../files/mock2.pdf) -> [Solved](../images/mock2sol.jpg))
 
-    |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
-* Thu., May 28: Work \| Conservation of Energy in 2D <mark>(2.5 hr lecture)</mark> (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction), [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
+* Thu., May 28: Work \| Conservation of Energy in 1D and 2D <mark>(2.5 hr lecture)</mark> (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction), [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Mon., June 1: **Problem-Solving Session** \| Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
-* Tue., June 2: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
+* Tue., June 2: Vectors, motion in higher dimensions, Reference Frames. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
+
+   |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
 * Wed., June 3: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf)) \| Work (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction)) 
 
    |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/) **OR** [What is Spacetime?](https://1000wordphilosophy.com/2022/06/24/philosophy-of-time/), due Mon 23
@@ -72,7 +73,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., June 8: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
    |Homework 2 due.
-* Tue., June 9: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+* Tue., June 9: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 * Wed., June 10: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   |[Lab 3](../files/2048lab3b.pdf): Collisions in 1-D
