@@ -61,6 +61,8 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Thu., May 28: Work \| Conservation of Energy in 1D and 2D <mark>(2.5 hr lecture)</mark> (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction), [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 * Mon., June 1: **Problem-Solving Session** \| Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
+
+  	|Handout: [Conservation of Energy in 2D and Problems](../files/ShankarCh6andProblems.pdf)
 * Tue., June 2: Vectors, motion in higher dimensions, Reference Frames. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 
    |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
