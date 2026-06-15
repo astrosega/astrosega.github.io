@@ -79,7 +79,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., June 17: Magnetism I (Force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Thu., June 18: Magnetism I (Force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
- | Handout: [Complex numbers](../files/complex_numbers.pdf) | Extra credit reading 2: [What's more real, Field or Potential?](../files/potentials.pdf) due Fri. June 26. 
+    | Handout: [Complex numbers](../files/complex_numbers.pdf) | Extra credit reading 2: [What's more real, Field or Potential?](../files/potentials.pdf) due Fri. June 26. 
 * Mon., June 22: **Problem-solving session** \| Mgnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 
   | Homework 3 due | [Homework 4](../files/2049Chw4.pdf) assigned, due Tue., July 7
