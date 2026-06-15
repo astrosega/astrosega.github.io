@@ -75,7 +75,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
    | [Lab 3](../files/2049lab3.pdf): Introduction to Oscilloscopes
 * Mon., June 15: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
-* Tue., June 16: **Quiz Chp. 9, 10** ([Practice](../files/mock4b.pdf))
+* Tue., June 16: **Quiz Chp. 9, 10** ([Practice](../files/mock4b.pdf), [Practice](../files/mock5b.pdf) → [Solved](../files/mocksol5b.pdf))
 * Wed., June 17: Magnetism I (Force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Thu., June 18: Magnetism I (Force) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
@@ -85,7 +85,7 @@ Below is a detailed schedule that will list the material covered in each class s
   | Homework 3 due | [Homework 4](../files/2049Chw4.pdf) assigned, due Tue., July 7
 * Tue., June 23: Magnetism II (Field) (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 * Wed., June 24: **Problem-solving session** \| Mgnetism II (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
-* Thu., June 25: **Quiz Chp. 11 & 12** ([Practice](../files/mock5b.pdf) → [Solved](../files/mocksol5b.pdf))
+* Thu., June 25: **Quiz Chp. 11 & 12** ([Practice](../files/mock6b.pdf) → [Solved](../files/mocksol6b.pdf); [Practice](../files/2049Chw6.pdf))
 
 * Mon., June 29: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Tue., June 30: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
@@ -94,7 +94,7 @@ Below is a detailed schedule that will list the material covered in each class s
    | [Lab 4](../files/2049lab6.pdf): CRTs
 * Thu., July 2: **Problem-Solving Session** \| Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
-* Mon., July 6: **Quiz Chp. 13** ([Practice](../files/mock6b.pdf) → [Solved](../files/mocksol6b.pdf); [Practice](../files/2049Chw6.pdf))
+* Mon., July 6: **Quiz Chp. 13** ([Practice](../files/mock7b.pdf) --> [Solved](../files/mocksol7b.pdf). Problems 2 & 4 of [Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
 * Tue., July 7: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
   | Homework 4 due | [Homework 5](../files/2049Chw5_old.pdf) assigned, due Tue., July 16
@@ -109,7 +109,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., July 16: **Problem-Solving Session** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
   | [Lab 5](../files/2049lab7.pdf) (Day 2) : Solenoids and Inductors | Homework 6 due
-* Mon., July 20: **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) → [Solved](../files/mocksol8b.pdf))
+* Mon., July 20: **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) → [Solved](../files/mocksol8b.pdf), ([Practice](../files/mockFinalExamb.pdf)))
 * Tue., July 21: Maxwell Equations (Ch. [16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction))
 * Wed., July 22: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
@@ -117,4 +117,4 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., July 23: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
   | [Lab 6](../files/2049lab8.pdf): LRC Circuits
-**Final Exam Week: July 27–31, 2026** ([Practice](../files/mockFinalExamb.pdf))
+**Final Exam Week: July 27–31, 2026**
