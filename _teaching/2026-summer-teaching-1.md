@@ -92,8 +92,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tue., June 23: Rotational Dynamics I (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and II (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
     |[Lab 4](../files/2048lab4.pdf): Rotating Frames
-* Wed., June 24: **Quiz Chp. 10 & 12** ([Practice](../files/mock4.pdf) -> [Solved](../files/mock4sol.pdf))
-* Thu., June 25: **Problem-Solving Session** \|  Rotational Dynamics I & II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/10-introduction) and Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
+* Wed., June 24: **Problem-Solving Session** \|  Rotational Dynamics I & II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/10-introduction) and Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
+* Thu., June 25: **Quiz Chp. 10 & 12** ([Practice](../files/mock4.pdf) -> [Solved](../files/mock4sol.pdf))
 * Mon., June 29: **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf) -> [Solved](../files/mock5sol.pdf)))
 * Tue., June 30: Mathematical Methods \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
