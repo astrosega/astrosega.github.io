@@ -12,13 +12,13 @@ By Daniel Sega
 
 Hello community,
 
-I’ve been asked how to help and where to contribute. Coming from a supply donation center where I helped in the shipping of essentials to Venezuela, I believe the best way to help right now is to make monetary donation to the various organizations on the ground. There is already an abundance of supplies reaching Venezuela and the issue is the distribution of these once they arrive, which we can only aid by donating to the carious organizations in charge of coordinating these. I have separated these organizations into 3 categories: International Rescue Team, Nourishment, and Coordination.
+I’ve been asked how to help and where to contribute. Coming from a supply donation center where I helped in the shipping of essentials to Venezuela, I believe the best way to help right now is to make monetary donation to the various organizations on the ground. There is already an abundance of supplies reaching Venezuela and the issue is the distribution of these once they arrive, which we can only aid by donating to the various organizations in charge of coordinating these. I have separated these organizations into 3 categories: International Rescue Team, Nourishment, and Coordination.
 
 
 I have verified that these teams are documenting their activities on the ground and that these links are legit. Donate to what you believe is most important.
 
 **International Rescue Teams**
-[Grey Bull Rescue | A Donor-Funded Nonprofit Saving Americans & Allies](https://greybullrescue.org/) (they have been on the ground since day zero. One of the fastest-responding international teams I managed to find)
+[Grey Bull Rescue | A Donor-Funded Nonprofit Saving Americans & Allies](https://greybullrescue.org/) (they have been on the ground since day zero. One of the fastest-responding international teams I managed to find that is donation-based ---since many are funded by foreing states)
 
 **Nourishment**
 [World Central Kitchen | WCK](https://wck.org/) (well documented delivery of cooked foods to rescuers and victims)
