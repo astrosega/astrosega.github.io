@@ -35,7 +35,7 @@ I have verified that these teams are documenting their activities on the ground 
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-*When the donation stream starts to die down (which is expected to happen in a couple of weeks), I will post here donation centers in Panama, what is needed,a nd how to volunteer.*
+*When the donation stream starts to die down (which is expected to happen in a couple of weeks), I will post here donation centers in Panama, what is needed, and how to volunteer.*
 
 
 Banner picture: "Bridge over Maracaibo Lake, 2022." Daniel Sega. \
