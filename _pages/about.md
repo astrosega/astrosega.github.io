@@ -26,7 +26,7 @@ I have verified that these teams are documenting their activities on the ground 
 
 **Nourishment**
 
-[World Central Kitchen /| WCK](https://wck.org/) Well documented delivery of cooked foods to rescuers and victims)
+[World Central Kitchen](https://wck.org/) | Well documented delivery of cooked foods to rescuers and survivors
 
 **Coordination**
 
