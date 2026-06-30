@@ -42,7 +42,9 @@ Banner picture: "Bridge over Maracaibo Lake, 2022." Daniel Sega. \
 Profile picture: "Astrosega" (2025) Hand-drawn by Ana Villegas.
 
 
-<!--<img src='/images/maracaibo.jpg'>.
+------------------------------------------------------------------------------------------------------------------------------------
+
+<!---<img src='/images/maracaibo.jpg'>.
 
 A page to find *de re* representations (computer code, publications, and teaching material).
 
@@ -53,5 +55,5 @@ A page to find *de re* representations (computer code, publications, and teachin
 
 Microstory: Del Rigor en La Ciencia (On the Rigors of Science). Translation by Daniel Sega. \
 Banner picture: "Bridge over Maracaibo Lake, 2022." Daniel Sega. \
-Profile picture: "Astrosega" (2025) Hand-drawn by Ana Villegas. -->
+Profile picture: "Astrosega" (2025) Hand-drawn by Ana Villegas. --->
 
