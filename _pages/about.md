@@ -23,7 +23,7 @@ I have verified that these teams are documenting their activities on the ground 
 
 **International Rescue Teams**
 
-[Grey Bull Rescue: A Donor-Funded Nonprofit Saving Americans & Allies](https://greybullrescue.org/) | They have been on the ground since day zero. One of the fastest-responding international teams I managed to find that is donation-based---since many are funded by foreing states)
+[Grey Bull Rescue: A Donor-Funded Nonprofit Saving Americans & Allies](https://greybullrescue.org/) | They have been on the ground since day zero. One of the fastest-responding international teams I managed to find that is donation-based---since many are funded by foreing states
 
 **Nourishment**
 
