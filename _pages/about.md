@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/images/maracaibo.jpg'>.
+<img src='/images/maracaibo.jpg'>
 A Guide for donating to aid the crisis caused by the double earthquake of June 24th in Venezuela
 
 By Daniel Sega
