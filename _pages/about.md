@@ -32,9 +32,9 @@ I have verified that these teams are documenting their activities on the ground 
 **Coordination**
 
 [UN Emergency Fund](https://crisisrelief.un.org/en/?_gl=1*5px5l8*_gcl_au*MTMwMjczNDI3My4xNzgyNDA4OTc3*_ga*MjEwMTA4NTY5My4xNzgyNDA4OTc0*_ga_E60ZNX2F68*czE3ODI3NjI4MDQkbzIkZzEkdDE3ODI3NjI5NTUkajU5JGwwJGgw) | Not so well documented, but I have accounts that show they have been responsible for easing the bureaucracy for different rescuers and aid to enter the country. They were [officially](https://correodelcaroni.com/mundo/ocha-destina-15-millones-de-dolares-para-la-respuesta-humanitaria-en-venezuela/) deployed to Venezuela on day zero as well. This is what they normally do in situations like this: [We coordinate \| OCHA](https://www.unocha.org/we-coordinate).
+------------------------------------------------------------------------------------------------------------------------------------
 
-
-When the donation stream starts to die down (which is expected to happen in a couple of weeks), I will post here donation centers in Panama, what is needed,a nd how to volunteer.
+*When the donation stream starts to die down (which is expected to happen in a couple of weeks), I will post here donation centers in Panama, what is needed,a nd how to volunteer.*
 
 
 Banner picture: "Bridge over Maracaibo Lake, 2022." Daniel Sega. \
