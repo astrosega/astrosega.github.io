@@ -102,18 +102,18 @@ Below is a detailed schedule that will list the material covered in each class s
 
     |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
 * Thu., July 2:  **Problem-Solving Session** \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Mon., July 6: **Quiz Chp. 15** ([Practice](../files/mock5.pdf) -> [Solved](../files/mocksol5.pdf))
+* Mon., July 6:  **Problem-Solving Session** \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
     Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Tues., July 22.
-* Tue., July 7: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
-* Wed., July 8: Waves and Fluid Statics (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) & Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
-* Thu., July 9: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
+* Tue., July 7:  **Quiz Chp. 15** ([Practice](../files/mock5.pdf) -> [Solved](../files/mocksol5.pdf))
+* Wed., July 8: Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Thu., July 9: Waves and Fluid Statics (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) & Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
   |[Lab 5](../files/2048lab5.pdf): Archimides and Springs \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
 * Mon., July 13: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
   Handout: [Pressure & Blood Pressure](http://www.hyperphysics.phy-astr.gsu.edu/hbase/Fluids/bloodpres.html) | Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
-* Tue., July 14: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Tue., July 14: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 * Wed, July 15: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 * Thu., July 16: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
