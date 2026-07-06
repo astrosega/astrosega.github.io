@@ -95,22 +95,21 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., July 2: **Problem-Solving Session** \| Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 
 * Mon., July 6: **Quiz Chp. 13** ([Practice](../files/mock7b.pdf) --> [Solved](../files/mocksol7b.pdf). Problems 2 & 4 of [Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
-* Tue., July 7: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+* Tue., July 7: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction)) \|  **Problem-Solving Session**
 
   | Homework 4 due | [Homework 5](../files/2049Chw5_old.pdf) assigned, due Tue., July 16
 * Wed., July 8: **Problem-Solving Session** \| Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+
+   | [Lab 5](../files/2049lab7.pdf): Solenoids and Inductors
 * Thu., July 9: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
+   | [Lab 5](../files/2049lab7.pdf) (Day 2) : Solenoids and Inductors
 * Mon., July 13: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Tue., July 14: **Problem-Solving Session** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
-* Wed., July 15: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
-
-  | [Lab 5](../files/2049lab7.pdf): Solenoids and Inductors
-* Thu., July 16: **Problem-Solving Session** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
-
-  | [Lab 5](../files/2049lab7.pdf) (Day 2) : Solenoids and Inductors | Homework 6 due
-* Mon., July 20: **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) → [Solved](../files/mocksol8b.pdf), ([Practice](../files/mockFinalExamb.pdf)))
-* Tue., July 21: Maxwell Equations (Ch. [16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction))
+* Wed., July 15: **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) → [Solved](../files/mocksol8b.pdf), ([Practice](../files/mockFinalExamb.pdf)))
+* Thu., July 16: Maxwell Equations (Optics) (Ch. [16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction))
+* Mon., July 20: **Problem-Solving Session** \| Maxwell Equations (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+* Tue., July 21: **Quiz Chp. 16**
 * Wed., July 22: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
   | [Lab 6](../files/2049lab8.pdf): LRC Circuits
