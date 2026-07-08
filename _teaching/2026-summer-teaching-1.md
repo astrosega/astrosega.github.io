@@ -110,11 +110,10 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thu., July 9: Waves and Fluid Statics (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) & Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 * Mon., July 13: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
-  Handout: [Pressure & Blood Pressure](http://www.hyperphysics.phy-astr.gsu.edu/hbase/Fluids/bloodpres.html) |   |[Lab 5](../files/2048lab5.pdf): Archimides and Springs \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
+ |[Lab 5](../files/2048lab5.pdf): Archimides and Springs \| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
 * Tue., July 14: * Wed, July 15: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
-
-   |Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
+     Handout: [Pressure & Blood Pressure](http://www.hyperphysics.phy-astr.gsu.edu/hbase/Fluids/bloodpres.html) | Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
 
 * Wed, July 15: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 * Thu., July 16: Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
