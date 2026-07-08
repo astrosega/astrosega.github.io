@@ -107,13 +107,15 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., July 13: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Tue., July 14: **Problem-Solving Session** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Wed., July 15: **Quiz Chp. 14 & 15** ([Practice](../files/mock8b.pdf) → [Solved](../files/mocksol8b.pdf), ([Practice](../files/mockFinalExamb.pdf)))
-* Thu., July 16: Maxwell Equations (Optics) (Ch. [16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction))
-* Mon., July 20: **Problem-Solving Session** \| Maxwell Equations (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
-* Tue., July 21: **Quiz Chp. 16**
-* Wed., July 22: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+* Thu., July 16:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))Maxwell Equations (Optics) (Ch. [16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction))
 
-  | [Lab 6](../files/2049lab8.pdf): LRC Circuits
-* Thu., July 23: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+    | [Lab 6](../files/2049lab8.pdf): LRC Circuits
+* Mon., July 20:  Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
-  | [Lab 6](../files/2049lab8.pdf): LRC Circuits
+    | [Lab 6](../files/2049lab8.pdf): LRC Circuits
+* Tue., July 21: Maxwell Equations (Optics) (Ch. [16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction))
+* Wed., July 22: **Problem-Solving Session** \| Maxwell Equations (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
+* Thu., July 23: **Quiz Chp. 16**
+
+
 **Final Exam Week: July 27–31, 2026**
