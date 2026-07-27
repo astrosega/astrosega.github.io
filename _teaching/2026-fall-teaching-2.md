@@ -3,7 +3,7 @@ title: "PHY2049C (Fall 2026)"
 collection: teaching
 type: "Undergraduate course"
 category: current
-permalink: /teaching/2025-fall-teaching-2
+permalink: /teaching/2026-fall-teaching-2
 venue: "Florida State University"
 date: 2026-08-24
 location: "Panama City, Panama"
