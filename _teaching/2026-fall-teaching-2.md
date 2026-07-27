@@ -45,31 +45,31 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., August 27: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Fri., August 28: **Problem-solving session** \| Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Tues., September 1: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Thur., September 3: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Fri., September 4: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) \| **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+* Thur., September 3: **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+* Fri., September 4: **Quiz Chp. 5** ([Practice](../files/mock2b.pdf))
 * Tues., September 8: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) \| **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
   Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6 ) assigned, due Tues., September 22.
-* Thur., September 10: **Quiz Chp. 5** ([Practice](../files/mock2b.pdf))
+* Thur., September 10: **Problem-solving session** \| ([Practice](../files/mock2b.pdf))
 * Fri., September 11: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 
   |[Lab 1](../files/2049lab1.pdf): Electrostatic Generator
-* Tues., September 15: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
-* Thur., September 17: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Tues., September 15: **Quiz Chp. 6** ([Practice](../files/mock2bb.pdf))
+* Thur., September 17: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Fri., September 18: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
-* Tues., September 22: **Quiz Chp. 6** ([Practice](../files/mock2bb.pdf))
+* Tues., September 22: **Problem-solving session** \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
 
    Homework 2 due.|Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/)
-* Thur., September 24: **Problem-solving session** \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
+* Thur., September 24: **Quiz Chp. 7** ([Practice](../files/mock3b.pdf))
 
   |[Homework 3](../files/2049Chw3.pdf) (Chp. 7) assigned, due Tues., October 13.
-* Fri., September 25: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
+* Fri., September 25: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 
    |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
-* Tues., September 29: **Quiz Chp. 7** ([Practice](../files/mock3b.pdf))
-* Thur., October 1: Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
+* Tues., September 29:  Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
+* Thur., October 1: **Problem-solving session** \| Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
 * Fri., October 2: Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
-* Tues., October 6: **Problem-solving session** \| Currents and Resistance and Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
+* Tues., October 6: **Problem-solving session** \| Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Thur., October 8: Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
     |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
