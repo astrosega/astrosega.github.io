@@ -3,7 +3,7 @@ title: "PHY2048C (Fall 2025)"
 collection: teaching
 type: "Undergraduate course"
 category: past
-permalink: /teaching/2025-fall-teaching-1
+permalink: /teaching/2026-fall-teaching-1
 venue: "Florida State University"
 date: 2025-08-25
 location: "Panama City, Panama"
