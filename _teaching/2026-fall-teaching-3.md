@@ -15,4 +15,6 @@ History and Philosophy of Science
 * Course Times: Fall 2025, Tue./Thu., 1 pm-2:15 pm
 * Location:	3rd Floor, Room 309
 * Office Hours: 1st Floor, Faculty Wing or Room 309: M to F 12:30-12:55 pm
-* Syllabus:	(cookies are for symple syllabus only. Ignore if using astrosega)
+* Syllabus:
+
+ <iframe src="https://fsu.simplesyllabus.com/doc/14f8d4egi/2026-Fall-PHI-3400-0002-History-and-Philosophy-of-Science?mode=view" style="width: 100%; height: 768px;"></iframe>
