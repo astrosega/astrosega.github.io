@@ -68,7 +68,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., October 21: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction)) (2.5 hr lecture)
 * Fri., October 23: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
-    |[Lab 4](../files/2049lab4.pdf): Circuits I
+    |[Lab 4](../files/2049lab6.pdf): CRTs
 * Mon., October 26: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))  (2.5 hr lecture)
 
    |Homework 4 due.
@@ -82,8 +82,6 @@ Below is a detailed schedule that will list the material covered in each class s
 * Mon., November 9: No Classes
 * Wed., November 11:  Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction)) (2.5 hr lecture)
 * Fri., November 13: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
-
-   | [Lab 5, day 1](../files/2049lab6.pdf): CRTs
 * Mon., November 16: **Problem-Solving Session** \| Faraday & Lenz and Inductance (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction) & [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction))
 
   |Homework 5 due 
@@ -98,10 +96,10 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., November 27: **Problem-Solving Session** \| Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 * Mon., November 30: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
-  | [Lab 7, day 1](../files/2049lab8.pdf): Circuits III
+  | [Lab 7, day 1](../files/2049lab8.pdf): Circuits
 * Wed., December 2: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
-  | [Lab 7, day 2](../files/2049lab8.pdf): Circuits III
+  | [Lab 7, day 2](../files/2049lab8.pdf): Circuits
 * Fri., December 4: **Quiz 15** ([Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
 
 **[Final Exam Week: Wednesday December 9. ([Practice](../files/mockFinalExamb.pdf))]**
