@@ -51,13 +51,15 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., September 5: Newton's Laws II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 * Tues., September 9: **Problem-Solving Session** \| Newton's Laws I & II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction) & Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
   
-  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Tue., September 23. |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/), due Fri. September 19
+  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Tue., September 23.
 * Thur., September 11: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 
   |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
 * Fri., September 12: **Problem-Solving Session** \| Newton's Laws I & II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction) & Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 * Tues., September 16:  **Quiz Chp. 5 & 6** ([Practice](../files/mock2.pdf) -> [Solved](../images/mock2sol.jpg))
 * Thur., September 18: Work \| Conservation of Energy in 1D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
+
+  |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/), due Fri. September 23
 * Fri., September 19: Conservation of Energy in 2D (Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction)) <mark>(2.5-hour lecture)</mark>
 
 	
@@ -69,7 +71,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., September 26: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
 * Tues., September 30:  Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
-	 | [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum) | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Tue., October 21. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., October 10
+	 | [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum) | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Tue., October 21.
 * Thur., October 2: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
 * Fri., October 3: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
@@ -81,7 +83,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., October 16: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Fri., October 17: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
-  | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Tues., November 11.
+  | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Tues., November 11. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., October 24
 * Tues., October 21:  **Quiz Chp. 12** ([Practice](../files/mock4.pdf))
 
    | Homework 3 due 
