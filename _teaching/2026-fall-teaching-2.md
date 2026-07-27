@@ -8,7 +8,7 @@ venue: "Florida State University"
 date: 2026-08-24
 location: "Panama City, Panama"
 ---
-Physics Studio B
+Calculus-Based Physics II-Studio
 
 * Instructor:	Prof. Daniel D. Sega ([email](mailto:dsega@fsu.edu))
 * Instructor's Office: 2nd Floor, Faculty Wing	
