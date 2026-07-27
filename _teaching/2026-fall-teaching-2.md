@@ -17,7 +17,9 @@ Calculus-Based Physics II-Studio
 * Office Hours:	Faculty Wing or Room 309: Mon./Tue./Wed./Thu./Fri. 12:30pm-12:55pm
 * Syllabus:	(cookies are only for symple syllabus. Ignore if only using astrosega).
 
-* Summary
+  <iframe src="https://fsu.simplesyllabus.com/doc/gbffie0yy/2026-Fall-PHY-2049C-0012-Calculus-Based-Physics-II?mode=view" style="width: 100%; height: 568px;"></iframe>
+
+Summary
 -----------
 In this course, engineering and science majors will learn about the electromagnetic phenomena and the motion under electromagnetic fields. They will learn the basics of electronics (circuits) and of how day-to-day electromechanic technology works. They will also learn about the nature of a classical fields and the mathematics behind working with fields.
 
