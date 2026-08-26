@@ -50,7 +50,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., September 8: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) \| **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
   Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6 ) assigned, due Tues., September 22.
-* Thur., September 10: **Problem-solving session** \| ([Practice](../files/mock2b.pdf))
+* Thur., September 10: **Problem-solving session**
 * Fri., September 11: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 
   |[Lab 1](../files/2049lab1.pdf): Electrostatic Generator
