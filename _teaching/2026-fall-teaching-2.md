@@ -46,7 +46,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., August 28: **Problem-solving session** \| Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Tues., September 1: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Thur., September 3: **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Fri., September 4: **Quiz Chp. 5** ([Practice](../files/mock2b.pdf))
+* Fri., September 4: **Quiz Chp. 5** ([Practice1](../files/mock1b.pdf); [Practice2](../files/mock2b.pdf))
 * Tues., September 8: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) \| **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
   Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6 ) assigned, due Tues., September 22.
