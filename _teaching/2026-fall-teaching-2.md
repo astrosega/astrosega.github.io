@@ -41,7 +41,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Tues., August 25: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
-  Handout: [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/ETg1afqeqgtCgptYHYLXOx8BBGWcKb1ElEtqx_xA5ADJSA?e=5KlYUY) | [Homework 1](../files/2049Chw1.pdf) (Chp. 5-Electrostatics) assigned, due Tues., September 8.
+  | [Homework 1](../files/2049Chw1.pdf) (Chp. 5-Electrostatics) assigned, due Tues., September 8.
 * Thur., August 27: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Fri., August 28: **Problem-solving session** \| Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Tues., September 1: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
