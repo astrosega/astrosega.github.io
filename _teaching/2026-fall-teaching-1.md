@@ -80,6 +80,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., October 7: **Problem-Solving Session** \| Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 * Fri., October 9: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg))
 * Mon., October 12: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
+
+  |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., October 23
 * Wed., October 14: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Fri., October 16: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
