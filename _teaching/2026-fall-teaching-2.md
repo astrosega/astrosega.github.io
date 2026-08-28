@@ -44,14 +44,16 @@ Below is a detailed schedule that will list the material covered in each class s
   | [Homework 1](../files/2049Chw1.pdf) (Chp. 5-Electrostatics) assigned, due Tues., September 8.
 * Thur., August 27: Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 * Fri., August 28: **Problem-solving session** \| Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Tues., September 1: The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Thur., September 3: **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
-* Fri., September 4: **Quiz Chp. 5** ([Practice1](../files/mock1b.pdf); [Practice2](../files/mock2b.pdf))
+* Tues., September 1: **Problem-solving session** \| Electrostatics (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+* Thur., September 3: **Quiz Chp. 5** ([Practice1](../files/mock1b.pdf); [Practice2](../files/mock2b.pdf))
+* Fri., September 4:  Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) \| **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
+
+  | [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/) due September 18nd
 * Tues., September 8: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction)) \| **Problem-solving session** \| The Electric Field (Chp. [5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction))
 
   Homework 1 due. | [Homework 2](../files/2049Chw2.pdf) (Chp. 6 ) assigned, due Tues., September 22.
-* Thur., September 10: **Problem-solving session**
-* Fri., September 11: Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Thur., September 10: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
+* Fri., September 11: **Problem-solving session** \| Gauss's Law (Chp. [6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction))
 
   |[Lab 1](../files/2049lab1.pdf): Electrostatic Generator
 * Tues., September 15: **Quiz Chp. 6** ([Practice](../files/mock2bb.pdf))
@@ -80,7 +82,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., October 15: **Problem-solving session** \| Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
 * Fri., October 16: **Problem-solving session** \| Circuits I (Ch. [10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction))
 
-  |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. October 30.
+  |Extra credit reading: [Action at a Distance](../files/action-distance.pdf) due Fri. October 23.
 * Tues., October 20: **Quiz Chp. 10** ([Practice](../files/mock5b.pdf) --> [Solved](../files/mocksol5b.pdf))
 * Thur., October 22: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction)) (2.5 hr lecture)
 * Fri., October 23: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
