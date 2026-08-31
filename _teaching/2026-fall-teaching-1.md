@@ -50,9 +50,9 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., August 26: Vectors (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/3-introduction)) \| **Problem-Solving Session** \| Motion in 1D. Chp. [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction)
 * Fri., August 28: **Quiz Chp. 1 & 3** ([Practice](../files/mock1.pdf) -> [Solved](../files/mocksol1.pdf)) \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Mon., August 31: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
-* Wed., September 2: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
-* Fri., September 4: Newton's Laws II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
-* Mon., September 7: **Problem-Solving Session** \| Newton's Laws I & II (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction) & Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
+* Wed., September 2: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
+* Fri., September 4: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
+* Mon., September 7: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 
   Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Mon., September 21. |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/), due Fri. September 18
 * Wed., September 9: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
