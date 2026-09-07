@@ -54,7 +54,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., September 4: Newton's Laws I (Chp. [5](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 * Mon., September 7: **Problem-Solving Session** \| Newton's Laws I (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/5-introduction))
 
-  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8 ) assigned, due Mon., September 21. |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/), due Fri. September 18
+  Homework 1 due. | [Homework 2](../files/2048Chw2.pdf) (Chp. 6 & 7 & 8) assigned, due Mon., September 21. Optional (For practice only) |Extra credit reading: [What is a Law of Nature?](https://1000wordphilosophy.com/2014/02/17/laws-of-nature/), due Fri. September 18
 * Wed., September 9: Newton's Laws II (Chp. [6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction))
 
   |[Lab 1](../files/2048lab1.pdf): Measurements and dimesions
@@ -85,10 +85,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., October 14: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Fri., October 16: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
-  | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Mon., November 9.
+  | [Homework 3](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Mon., November 9.
 * Mon., October 19: **Quiz Chp. 12** ([Practice](../files/mock4.pdf))
-
-   | Homework 3 due
 * Wed., October 21: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
   |[Lab 4, day 1](../files/2048lab4.pdf): Rotating Frames
@@ -107,7 +105,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., November 6:  No Classes
 * Mon., November 9:  Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
-  Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Mon., November 30. | Extra credit reading: [What are waves?](../files/Waves.pdf), due Fri. November 13
+  Homework 4 due. | [Homework 4](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Mon., November 30. Optional (For practice only) | Extra credit reading: [What are waves?](../files/Waves.pdf), due Fri. November 13
 * Wed., November 11: **Problem Solving Session** \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Fri., November 13: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf))
 * Mon., November 16: Waves (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
