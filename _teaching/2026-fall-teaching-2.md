@@ -61,7 +61,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., September 18: The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction))
 * Tues., September 22: **Problem-solving session** \| The Electric Potential (Chp. [7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction)).
 
-   Homework 2 due.|Extra credit reading: [The Principle of Sufficient Reason: Origin of Symmetry Arguments](https://1000wordphilosophy.com/2018/03/27/leibnizs-principle-of-sufficient-reason/) due October 2nd
+   Homework 2 due.
 * Thur., September 24: **Quiz Chp. 7** ([Practice](../files/mock3b.pdf))
 
   |[Homework 3](../files/2049Chw3.pdf) (Chp. 7) assigned, due Tues., October 13.
