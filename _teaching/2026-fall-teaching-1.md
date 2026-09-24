@@ -46,7 +46,7 @@ Below is a detailed schedule that will list the material covered in each class s
 
 * Mon., August 24: The Structure of Mechanics. Motion in 1D. (Chp. [1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction) & [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction))
 
-  Handout: [syllabus](https://fsu-my.sharepoint.com/:w:/g/personal/dds24b_fsu_edu/EXbD0gGLt4dBkUWCaRf4NPUB3kMeGC2z1ltiGOPoKfWPIw?e=CgRX7w) | [Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Mon., September 14.
+	|[Homework 1](../files/homework1.pdf) (Chp. 2 & 4) assigned, due Mon., September 14.
 * Wed., August 26: Vectors (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/3-introduction)) \| **Problem-Solving Session** \| Motion in 1D. Chp. [3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction)
 * Fri., August 28: **Quiz Chp. 1 & 3** ([Practice](../files/mock1.pdf) -> [Solved](../files/mocksol1.pdf)) \| Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
 * Mon., August 31: Vectors, motion in higher dimensions. (Chp. [2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction) & [4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction))
@@ -63,11 +63,13 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., September 16: **Quiz Chp. 5 & 6** ([Practice](../files/mock2.pdf) -> [Solved](../images/mock2sol.jpg))(Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction))
 * Fri., September 18: Work \| Conservation of Energy in 2D ([7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) and Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction)) <mark>(2.5-hour lecture)</mark>
 
-	|Handout: [Conservation of Energy in 2D and Problems](../files/ShankarCh6andProblems.pdf)
+	|Handout: [Conservation of Energy in 2D and Problems]((../files/Bate.pdf))
 * Mon., September 21: **Problem-Solving Session** \| Conservation of Energy in 1D & 2D (Chp. [7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) & Chp. [8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction))
 
    | Homework 2 due.
 * Wed., September 23: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
+
+   |Handout: [Two-body Problem and Exercises]() |
 * Fri., September 25: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
 * Mon., September 28: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
