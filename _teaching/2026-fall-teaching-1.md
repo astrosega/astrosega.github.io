@@ -33,7 +33,7 @@ To set-uo the extra credit tutorial student must fill this [Excell sheet](https:
 Here are some additional resources:
 
 * An excellent, more abridged e-book for this course is available through the FSU Library [Fundamental of Physics I](https://fsu-flvc.primo.exlibrisgroup.com/discovery/openurl?institution=01FALSC_FSU&vid=01FALSC_FSU:Home&isbn=9780300243772&genre=book&eisbn=9780300249583&title=Fundamentals%20of%20Physics%20I&sid=jstor:jstor). Give it a try if the OpenStax book treatment of a topic does not click with you. Ramamurti Shankar writes in a very particular voice that can help some students.
-* This book is based on R. Shankar's [Open Course](https://oyc.yale.edu/physics/phys-200) (Yale University), which is available online. These lectures were, and still are, a helpful resource for me.
+* This book is based on R. Shankar's [Open Course](https://oyc.yale.edu/physics/phys-200) (Yale University), which is available online. These s were, and still are, a helpful resource for me.
 * The phone app *phyphox* will be required in some of the labs, download [here](https://phyphox.org/download/).
 * Here is a [worksheet](../files/verbalal.pdf) to practice verbal algebra problems. Here is [another one](../files/Algebra.pdf). Problems like this will be use to test your ability of translating English and concepts into equations, an essential skill in this class.
 * Here are some examples of extra credit reading [questions](../files/hectorEC.pdf) and [mini-essay](../files/anabellaEC.pdf).
@@ -96,21 +96,21 @@ Below is a detailed schedule that will list the material covered in each class s
 
    | [Lab 4, day 2](../files/2048lab4.pdf): Rotating Frames
 * Mon., October 26: **Problem Solving Session** \| Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
-* Wed., October 28: **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf) -> [Solved](../images/mock6sol.jpg)) \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
-* Fri., October 30: Mathematical Methods
+* Wed., October 28: **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf) -> [Solved](../images/mock6sol.jpg))
+* Fri., October 30: Mathematical Methods <mark>(3 hour lecture)</mark> | Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
    | Handout: [Complex numbers](../files/complex_numbers.pdf)
-* Mon., November 2: Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Mon., November 2: No Classes
 * Wed., November 4: No Classes
 
   |Handout: [notes](../files/dampedShankar.pdf) on damped harmonic motion
 * Fri., November 6:  No Classes
-* Mon., November 9:  Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Mon., November 9:  Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction)) <mark>(2.5 hour lecture)</mark>
 
   Homework 4 due. | [Homework 4](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Mon., November 30. Optional (For practice only) | Extra credit reading: [What are waves?](../files/Waves.pdf), due Fri. November 13
 * Wed., November 11: **Problem Solving Session** \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Fri., November 13: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf))
-* Mon., November 16: Waves (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction))
+* Mon., November 16: Waves (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction)) <mark>(2.5 hour lecture)</mark>
 * Wed., November 18: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
   |[Lab 5](../files/2048lab5.pdf): Archimides and Springs\| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
