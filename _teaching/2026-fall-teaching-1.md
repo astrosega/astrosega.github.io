@@ -73,14 +73,14 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., September 25: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
 * Mon., September 28: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
   | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Mon., October 19. | Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., October 9
-* Wed., September 30: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction)).
+* Wed., September 30: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+* Fri., October 2: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction)).
 
-  | [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)
-* Fri., October 2: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+	| [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)
+* Mon., October 5: **Problem-Solving Session** \| Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+  	* Wed., October 7: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
-  | [Lab 3](../files/2048lab3b.pdf): Collisions in 1D
-* Mon., October 5: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
-* Wed., October 7: **Problem-Solving Session** \| Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+  	| [Lab 3](../files/2048lab3b.pdf): Collisions in 1D
 * Fri., October 9: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg))
 * Mon., October 12: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 
