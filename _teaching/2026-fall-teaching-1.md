@@ -73,8 +73,10 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., September 25: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
 * Mon., September 28: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction))
 
-	 | [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum) | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Mon., October 19. |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., October 9
+  | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Mon., October 19. | Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., October 9
 * Wed., September 30: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
+
+  | [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)
 * Fri., October 2: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
   | [Lab 3](../files/2048lab3b.pdf): Collisions in 1D
