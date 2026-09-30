@@ -78,9 +78,9 @@ Below is a detailed schedule that will list the material covered in each class s
 
 	| [Lab 2](../files/2048lab2.pdf): measuring *g* (Pendulum)
 * Mon., October 5: **Problem-Solving Session** \| Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
-  	* Wed., October 7: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
+* Wed., October 7: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 
-  	| [Lab 3](../files/2048lab3b.pdf): Collisions in 1D
+ 	| [Lab 3](../files/2048lab3b.pdf): Collisions in 1D
 * Fri., October 9: **Quiz Chp. 13 & 9** ([Practice](../files/mock3.pdf) -> [Solved](../files/mock3sol.jpg))
 * Mon., October 12: Rotational Dynamics I (Chp. [10](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 
