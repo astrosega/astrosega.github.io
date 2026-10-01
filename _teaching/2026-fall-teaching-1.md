@@ -100,7 +100,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., October 28: **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf) -> [Solved](../images/mock6sol.jpg))
 * Fri., October 30: Mathematical Methods <mark>(3 hour lecture)</mark> | Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
-   | Handout: [Complex numbers](../files/complex_numbers.pdf)
+
+  | Handout: [Complex numbers](../files/complex_numbers.pdf)
 * Mon., November 2: No Classes
 * Wed., November 4: No Classes
 
