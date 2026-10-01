@@ -69,11 +69,11 @@ Below is a detailed schedule that will list the material covered in each class s
 
    |[Lab 2](../files/2049lab2.pdf): Introduction to the Multimeter
 * Tues., September 29:  Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction))
-* Thur., October 1: Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Thur., October 1: **Problem-solving session** \|Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Fri., October 2: Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
+* Tues., October 6: Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 
     |[Lab 3](../files/2049lab3.pdf): Introduction to osciloscopes
-* Tues., October 6: **Problem-solving session** \|Capacitance (Chp. [8](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Thur., October 8: **Problem-solving session** \|Currents and Resistance (Chp. [9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction))
 * Fri., October 9: **Quiz Chp. 8 & 9** ([Practice](../files/mock4b.pdf))
 * Tues., October 13: Circuits I (Chp. [10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction))
