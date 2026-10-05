@@ -72,6 +72,7 @@ Below is a detailed schedule that will list the material covered in each class s
    |Handout: [Two-body Problem and Exercises](../files/BMW.pdf) 
 * Fri., September 25: **Quiz Chp. 7 & 8** ([Practice](../files/mock3r.pdf) -> [Solved](../files/mocksol3r.pdf))
 * Mon., September 28: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction)).
+
   | [Homework 3](../files/2048Chw3.pdf) (Ch 10, 11 & 13) assigned, due Mon., October 19. | Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., October 9
 * Wed., September 30: Multiparticle Dynamics (Chp. [9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction))
 * Fri., October 2: Gravitation (Chp. [13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction)).
@@ -88,7 +89,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., October 14: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Fri., October 16: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
-  | [Homework 3](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Mon., November 9.
+  | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Mon., November 9.
 * Mon., October 19: **Quiz Chp. 12** ([Practice](../files/mock4.pdf))
 * Wed., October 21: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
