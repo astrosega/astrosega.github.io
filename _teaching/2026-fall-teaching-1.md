@@ -87,10 +87,10 @@ Below is a detailed schedule that will list the material covered in each class s
 
   |Extra credit reading: [What is Space?](https://1000wordphilosophy.com/2022/08/03/what-is-space/), due Fri., October 23
 * Wed., October 14: Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
-* Fri., October 16: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Fri., October 16: **Quiz Chp. 12** ([Practice](../files/mock4.pdf))
 
   | [Homework 4](../files/2048Chw4.pdf) (Math & Ch 12) assigned, due Mon., November 9.
-* Mon., October 19: **Quiz Chp. 12** ([Practice](../files/mock4.pdf))
+* Mon., October 19: Rotational Dynamics III (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction))
 * Wed., October 21: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
   |[Lab 4, day 1](../files/2048lab4.pdf): Rotating Frames
