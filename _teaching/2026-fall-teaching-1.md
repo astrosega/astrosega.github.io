@@ -99,7 +99,7 @@ Below is a detailed schedule that will list the material covered in each class s
    | [Lab 4, day 2](../files/2048lab4.pdf): Rotating Frames
 * Mon., October 26: **Problem Solving Session** \| Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Wed., October 28: **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf) -> [Solved](../images/mock6sol.jpg))
-* Fri., October 30: Mathematical Methods <mark>(3 hour lecture)</mark> | Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
+* Fri., October 30: Mathematical Methods <mark>(3 hour lecture)</mark> /| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
 
   | Handout: [Complex numbers](../files/complex_numbers.pdf)
