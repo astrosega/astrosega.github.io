@@ -87,7 +87,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Thur., October 22: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction)) <mark>(2.5 hr lecture)</mark>
 * Fri., October 23: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction))
 
-    |[Lab 4](../files/2049lab6.pdf): CRTs
+    |[Lab 4](../files/2049lab6.pdf): CRTs (Pre-lab: read Ch [11.6](https://openstax.org/books/university-physics-volume-2/pages/11-6-the-hall-effect]))
 * Tues., October 27: Magnetism I (Ch. [11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction)) <mark>(2.5 hr lecture)</mark>
 
    |Homework 4 due.
@@ -101,7 +101,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., November 10: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction)) <mark>(2.5 hr lecture)</mark>
 * Thur., November 12: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
 * Fri., November 13: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
-* Tues., November 17: **Problem-solving session** \|Faraday & Lenz and Inductance (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction) & [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction))
+* Tues., November 17: **Problem-solving session** \| Faraday & Lenz and Inductance (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction) & [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction))
 
   |Homework 5 due
 * Thur., November 19: **Quiz Chp. 13** \| Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
