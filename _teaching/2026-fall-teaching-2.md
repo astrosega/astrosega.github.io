@@ -98,9 +98,9 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., November 3: No Classes
 * Thur., November 5: No Classes
 * Fri., November 6: No Classes
-* Tues., November 10: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction)) <mark>(2.5 hr lecture)</mark>
-* Thur., November 12: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
-* Fri., November 13: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+* Tues., November 10: No Classes
+* Thur., November 12: Faraday and Lenz (Ch. [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) & [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction)) <mark>(2.5 hr lecture)</mark>
+* Fri., November 13: Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction)) <mark>(2.5 hr lecture)</mark>
 * Tues., November 17: **Problem-solving session** \| Faraday & Lenz and Inductance (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction) & [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction))
 
   |Homework 5 due
