@@ -115,11 +115,9 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., November 13: **Quiz Chp. 15** ([Practice](../files/mock5.pdf)-> [Solved](../files/mocksol5.pdf))
 * Mon., November 16: Waves (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) & Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction)) <mark>(2.5 hour lecture)</mark>
 * Wed., November 18: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
-
-  |[Lab 5](../files/2048lab5.pdf): Archimides and Springs\| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
 * Fri., November 20: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
-  |Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
+  |[Lab 5](../files/2048lab5.pdf): Archimides and Springs\| Pre-lab: read Ch. [14.4](https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy)
 * Mon., November 23: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
   |Handout: [notes](../files/NavierStokes.pdf) on the Navier-Stokes equation and the wave equation
