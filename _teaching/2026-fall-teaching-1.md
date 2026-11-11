@@ -110,7 +110,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., November 6:  No Classes
 * Mon., November 9:  Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction)) <mark>(2.5 hour lecture)</mark>
 
-  Homework 4 due. | [Homework 4](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Mon., November 30. Optional (For practice only)
+  Homework 4 due. | [Homework 5](../files/2048Chw5.pdf) (Chp. 12 & 14) assigned, due Mon., November 30. Optional (For practice only)
 * Wed., November 11: **Problem Solving Session** \| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 * Fri., November 13: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 * Mon., November 16: Fluid Statics (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
