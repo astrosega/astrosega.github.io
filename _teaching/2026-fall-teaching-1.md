@@ -97,7 +97,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Fri., October 23: Rotational Dynamics III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 
    | [Lab 4, day 2](../files/2048lab4.pdf): Rotating Frames
-* Mon., October 26: **Problem Solving Session** \| Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
+* Mon., October 26: **Problem-Solving Session** \| Rotational Dynamics II (Chp. [11](https://openstax.org/books/university-physics-volume-1/pages/11-introduction)) and III (Chp. [12](https://openstax.org/books/university-physics-volume-1/pages/12-introduction))
 * Wed., October 28: **Quiz Chp. 11 & 12** ([Practice](../files/mock4r2.pdf) -> [Solved](../images/mock6sol.jpg))
 * Fri., October 30: Mathematical Methods <mark>(3 hour lecture)</mark> /| Simple Harmonic Motion (Ch. [15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction))
 
@@ -124,8 +124,8 @@ Below is a detailed schedule that will list the material covered in each class s
 * Wed., November 25: Fluid Dynamics and Sound Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction) and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
    | [Lab 6](../files/2048lab6.pdf): Speed of sound experiment \| Pre-lab: re-read Ch [17.2](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) and watch [this video](https://phyphox.org/experiment/speed-of-sound/)
-* Fri., November 27: Fluid Dynamics and Sound Waves (Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
-* Mon., November 30: **Problem Solving Session** \| Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Fri., November 27: **Problem-Solving Session** \| Sound Waves, Waves (Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
+* Mon., November 30: **Problem-Solving Session** \| Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction))
 
 * Wed., December 2: **Quiz Chp. 14, 16 & 17** ([Practice](../files/mock6.pdf)) \| Sound Waves, Waves, and Fluids (Ch. [14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), Ch. [16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), and Ch. [17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction))
 
