@@ -104,7 +104,7 @@ Below is a detailed schedule that will list the material covered in each class s
 * Tues., November 17: **Problem-solving session** \| Faraday & Lenz and Inductance (Ch. [12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction) & [13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction))
 
   |Homework 5 due
-* Thur., November 19: **Quiz Chp. 13** ([Practice](../files/mock7b.pdf) --> [Solved](../files/mocksol7b.pdf). Problems 2 & 4 of [Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf)) \| Inductance (Ch. [14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction))
+* Thur., November 19: **Quiz Chp. 13** ([Practice](../files/mock7b.pdf) --> [Solved](../files/mocksol7b.pdf). Problems 2 & 4 of [Practice](../files/mock8b.pdf) --> [Solved](../files/mocksol8b.pdf))
 * Fri., November 20: Circuits II (Ch. [15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction))
 
    | [Lab 6, day 1](../files/2049lab7.pdf): Solenoids and Inductors
